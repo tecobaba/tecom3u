@@ -60,7 +60,7 @@ http://stream.tvcdn.net/haber/tele-1.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
 http://stream.tvcdn.net/haber/tvnet.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Haber",Flash Haber
-http://stream.tvcdn.net/haber/flash-haber.m3u8
+http://live.artofknot.com:8080/youtube/channel/UCNcjCb2RnA3eMMhTZSxZu3A.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",Ulusal Kanal
 http://live.artofknot.com:8080/youtube/channel/UC6T0L26KS1NHMPbTwI1L4Eg.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="http://assets.tvcdn.net/a8fd43de-872a-4e58-9f07-ff22d21a6c24.png" group-title="Haber",Bengütürk TV

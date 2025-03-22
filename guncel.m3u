@@ -109,7 +109,7 @@ http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 tvg-id="Spor_beINSPORTS1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
+#EXTVLCOPT:http-referrer=https://trgoals1150.xyz/
 https://b0.b4c8d3e9f1a2b7c5d92.cfd/yayin1.m3u8
 #EXTINF:-1 tvg-id="Spor_beINSPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)

@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: A SPOR HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,4K TR: A SPOR HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/351471337/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: EUROSPORT 1 HD (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,4K TR: BEIN 1:HD
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/662179620/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: BEIN IZ (1)" tvg-logo="https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/tv-logo/vavoo.png" tvg-language="Turkish" tvg-country="TR" group-title="VavooTO Türkiye Spor"  ,4K TR: BEIN IZ

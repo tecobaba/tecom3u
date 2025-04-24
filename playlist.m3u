@@ -1,15 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="trt1" tvg-name="4K TR: TRT 1 HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-trt-1-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,4K TR: TRT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1762199258/index.m3u8
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 4K (1)" tvg-logo="https://seeklogo.com/images/trt-1-4k.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 1 4K (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3059837792/index.m3u8
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 FHD (1)" tvg-logo="https://seeklogo.com/images/trt-1-fhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 1 FHD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/406666682/index.m3u8
 #EXTINF:-1 tvg-id="trt1" tvg-name="TRT 1 HD (1)" tvg-logo="https://seeklogo.com/images/trt-1-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0

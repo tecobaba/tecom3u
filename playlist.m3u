@@ -27,7 +27,15 @@ https://vavoo.to/play/2041026135/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/566281043/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR RAW (1)" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT SPOR RAW (1)
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HEVC (1)" tvg-logo="https://seeklogo.com/images/trt-1-hevc.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal "  ,TRT 1 HEVC (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/194373112/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 RAW (1)" tvg-logo="https://seeklogo.com/images/trt-1-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal "  ,TRT 1 RAW (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/2346924541/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT SPOR RAW (1)" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,TRT SPOR RAW (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/601788690/index.m3u8
@@ -1530,10 +1538,7 @@ https://vavoo.to/play/2559756791/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4166418778/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 HEVC (1)" tvg-logo="https://seeklogo.com/images/trt-1-hevc.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 1 HEVC (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/194373112/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TLC (6)" tvg-logo="https://seeklogo.com/images/tlc.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TLC (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -1838,10 +1843,7 @@ https://vavoo.to/play/3910129702/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1098827077/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 RAW (1)" tvg-logo="https://seeklogo.com/images/trt-1-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 1 RAW (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/2346924541/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="TRT KURDI RAW (1)" tvg-logo="https://seeklogo.com/images/trt-kurdi-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT KURDI RAW (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

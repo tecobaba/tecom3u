@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="trt1">
+    <display-name lang="tr">TRT 1</display-name>
+    <icon src="https://cdn-i.pr.trt.com.tr/trtportal/17935401.png" />
+    <url>http://www.trt.net.tr</url>
+  </channel>
+  <programme start="20250424103000 +0300" stop="20250424131500 +0300" channel="trt1">
+    <title lang="tr">Alişan İle Hayata Gülümse</title>
+  </programme>
+  <programme start="20250424131500 +0300" stop="20250424143500 +0300" channel="trt1">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20250424143500 +0300" stop="20250424174000 +0300" channel="trt1">
+    <title lang="tr">Teşkilat</title>
+  </programme>
+  <programme start="20250424174000 +0300" stop="20250424190000 +0300" channel="trt1">
+    <title lang="tr">Lingo Türkiye</title>
+  </programme>
+  <programme start="20250424190000 +0300" stop="20250424195500 +0300" channel="trt1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250424195500 +0300" stop="20250424200000 +0300" channel="trt1">
+    <title lang="tr">İddiaların Aksine</title>
+  </programme>
+  <programme start="20250424200000 +0300" stop="20250424224000 +0300" channel="trt1">
+    <title lang="tr">Yabancı Sinema "Düşler Bahçesi"</title>
+  </programme>
+  <programme start="20250424224000 +0300" stop="20250425013000 +0300" channel="trt1">
+    <title lang="tr">Bir Zamanlar İstanbul</title>
+  </programme>
+  <programme start="20250425013000 +0300" stop="20250425035000 +0300" channel="trt1">
+    <title lang="tr">Teşkilat</title>
+  </programme>
+  <programme start="20250425035000 +0300" stop="20250425045000 +0300" channel="trt1">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20250425045000 +0300" stop="20250425055500 +0300" channel="trt1">
+    <title lang="tr">Lingo Türkiye</title>
+  </programme>
+  <programme start="20250425055500 +0300" stop="20250425103000 +0300" channel="trt1">
+    <title lang="tr">Kapanış</title>
+  </programme>
+  <programme start="20250425103000 +0300" stop="20250425131500 +0300" channel="trt1">
+    <title lang="tr">Alişan İle Hayata Gülümse</title>
+  </programme>
+  <programme start="20250425131500 +0300" stop="20250425143500 +0300" channel="trt1">
+    <title lang="tr">Seksenler</title>
+  </programme>
+  <programme start="20250425143500 +0300" stop="20250425174000 +0300" channel="trt1">
+    <title lang="tr">Teşkilat</title>
+  </programme>
+  <programme start="20250425174000 +0300" stop="20250425190000 +0300" channel="trt1">
+    <title lang="tr">Lingo Türkiye</title>
+  </programme>
+  <programme start="20250425190000 +0300" stop="20250425195500 +0300" channel="trt1">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250425195500 +0300" stop="20250425200000 +0300" channel="trt1">
+    <title lang="tr">İddiaların Aksine</title>
+  </programme>
+  <programme start="20250425200000 +0300" stop="20250425224000 +0300" channel="trt1">
+    <title lang="tr">Yabancı Sinema "Düşler Bahçesi"</title>
+  </programme>
+  <programme start="20250425224000 +0300" stop="20250426013000 +0300" channel="trt1">
+    <title lang="tr">Bir Zamanlar İstanbul</title>
+  </programme>
+</tv>

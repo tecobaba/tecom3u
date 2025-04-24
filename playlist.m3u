@@ -433,7 +433,7 @@ https://vavoo.to/play/2843182981/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2307325429/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2 UHD (1)" tvg-logo="https://seeklogo.com/images/trt-2-uhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 2 UHD (1)
+#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2 UHD (1)" tvg-logo="https://seeklogo.com/images/trt-2-uhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 2 UHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2005305132/index.m3u8

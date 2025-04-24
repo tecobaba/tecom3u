@@ -433,7 +433,7 @@ https://vavoo.to/play/2843182981/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2307325429/index.m3u8
-#EXTINF:-1 tvg-id="TRT 2" tvg-name="TRT 2 UHD (1)" tvg-logo="https://seeklogo.com/images/trt-2-uhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 2 UHD (1)
+#EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2 UHD (1)" tvg-logo="https://seeklogo.com/images/trt-2-uhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 2 UHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2005305132/index.m3u8
@@ -526,7 +526,7 @@ https://vavoo.to/play/4253369376/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4202445834/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 2 (6)" tvg-logo="https://seeklogo.com/images/trt-2.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 2 (6)
+#EXTINF:-1 tvg-id="trt2" tvg-name="TRT 2 (6)" tvg-logo="https://seeklogo.com/images/trt-2.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 2 (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1040706695/index.m3u8
@@ -1680,7 +1680,7 @@ https://vavoo.to/play/1130352730/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1127812993/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: TRT 2 HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-trt-2-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: TRT 2 HD (1)
+#EXTINF:-1 tvg-id="trt2" tvg-name="4K TR: TRT 2 HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-trt-2-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal Turkey"  ,4K TR: TRT 2 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3884319033/index.m3u8

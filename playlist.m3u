@@ -1,37 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: HALK TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: HALK TV (1)
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: TRT 1 HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-trt-1-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,4K TR: TRT 1 HD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/1762199258/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 4K (1)" tvg-logo="https://seeklogo.com/images/trt-1-4k.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 1 4K (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/3059837792/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD (1)" tvg-logo="https://seeklogo.com/images/trt-1-fhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,TRT 1 FHD (1)
+#EXTVLCOPT:http-user-agent=VAVOO/1.0
+#EXTVLCOPT:http-referrer=https://vavoo.to/
+https://vavoo.to/play/406666682/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: HALK TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber" ,4K TR: HALK TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1320391955/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: A HABER HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-a-haber-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: A HABER HD (1)
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: A HABER HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-a-haber-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,4K TR: A HABER HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1064954896/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HALK TV (6)" tvg-logo="https://seeklogo.com/images/halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,HALK TV (6)
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV (6)" tvg-logo="https://seeklogo.com/images/halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,HALK TV (6)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/4148513719/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATV (7)" tvg-logo="https://seeklogo.com/images/atv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,ATV (7)
+#EXTINF:-1 tvg-id="" tvg-name="ATV (7)" tvg-logo="https://seeklogo.com/images/atv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,ATV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1255594337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HALK TV (7)" tvg-logo="https://seeklogo.com/images/halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,HALK TV (7)
+#EXTINF:-1 tvg-id="" tvg-name="HALK TV (7)" tvg-logo="https://seeklogo.com/images/halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber" ,HALK TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3986444106/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: ATV HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-atv-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: ATV HD (1)
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: ATV HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-atv-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,4K TR: ATV HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/2325261286/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: SOZCU TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-sozcu-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: SOZCU TV (1)
+#EXTINF:-1 tvg-id="" tvg-name="4K TR: SOZCU TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-sozcu-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,4K TR: SOZCU TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/960578312/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES ACTION 2 (7)" tvg-logo="https://seeklogo.com/images/bein-movies-action-2.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEIN MOVIES ACTION 2 (7)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN MOVIES ACTION 2 (7)" tvg-logo="https://seeklogo.com/images/bein-movies-action-2.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Sinema"  ,BEIN MOVIES ACTION 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/650851542/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 HABER HD+ SD (1)" tvg-logo="https://seeklogo.com/images/24-haber-hd-sd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,24 HABER HD+ SD (1)
+#EXTINF:-1 tvg-id="" tvg-name="24 HABER HD+ SD (1)" tvg-logo="https://seeklogo.com/images/24-haber-hd-sd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,24 HABER HD+ SD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3828793616/index.m3u8
@@ -271,10 +283,6 @@ https://vavoo.to/play/1781656098/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/320290523/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="4K TR: TRT 1 HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-trt-1-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,4K TR: TRT 1 HD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/1762199258/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 UHD (1)" tvg-logo="https://seeklogo.com/images/bein-sports-3-uhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BEIN SPORTS 3 UHD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -427,10 +435,7 @@ https://vavoo.to/play/2395422638/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3156178359/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 4K (1)" tvg-logo="https://seeklogo.com/images/trt-1-4k.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 1 4K (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/3059837792/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="FB TV (7)" tvg-logo="https://seeklogo.com/images/fb-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,FB TV (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -475,10 +480,6 @@ https://vavoo.to/play/4202445834/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/1040706695/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRT 1 FHD (1)" tvg-logo="https://seeklogo.com/images/trt-1-fhd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,TRT 1 FHD (1)
-#EXTVLCOPT:http-user-agent=VAVOO/1.0
-#EXTVLCOPT:http-referrer=https://vavoo.to/
-https://vavoo.to/play/406666682/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BRT 2 (7)" tvg-logo="https://seeklogo.com/images/brt-2.png" tvg-language="Turkish" tvg-country="Turkey" group-title="VavooTO Turkey"  ,BRT 2 (7)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/

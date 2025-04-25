@@ -113,17 +113,18 @@ http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://g0.4928d54d950ee70q27.click/yayin1.m3u8
-
-
 #EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://jestyayin935.com/
 #EXTVLCOPT:http-origin=https://jestyayin935.com/
 https://vvv.mevzuhls33.cfd/yayinzirve.m3u8
-
 #EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080 YDK
 https://gknnowtv.onrender.com/bein1.m3u8
-
+#EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080 YDK2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://belestepe1215.shop/
+#EXTVLCOPT:http-origin=https://belestepe1215.shop/
+https://a.strmrdr-cf-worker-86665ae4b9.workers.dev/bc2b05d321cb80050c5d035a9daeb26d/-/5062/playlist.m3u8?verify=1745594431398~85.105.233.142~6c5d1c429d39d7370835894389004680
 #EXTINF:-1 tvg-id="Spor_beINSPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/

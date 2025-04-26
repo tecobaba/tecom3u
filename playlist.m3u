@@ -113,6 +113,9 @@ https://vavoo.to/play/4148513719/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3986444106/index.m3u8
 
+#EXTINF:-1 tvg-id="skyf1" tvg-name="SKY UK F1" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,SKY UK F1
+https://windnew.newkso.ru/wind/premium60/mono.m3u8
+
 #EXTINF:-1 tvg-id="beinsports" tvg-name="Bein Sports 4" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports 4
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/

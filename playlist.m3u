@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tecobaba/tecom3u/refs/heads/main/trt.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="trt1" tvg-name="4K TR: TRT 1 HD (1)" tvg-logo="https://seeklogo.com/images/4k-tr-trt-1-hd.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Ulusal"  ,4K TR: TRT 1 HD (1)
 #EXTVLCOPT:http-user-agent=VAVOO/2.2
 #EXTVLCOPT:http-referrer=https://vavoo.to/

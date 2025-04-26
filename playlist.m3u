@@ -126,16 +126,10 @@ https://windnew.newkso.ru/wind/premium60/mono.m3u8
 https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 
 #EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
-#EXTVLCOPT:http-origin=https://trgoals1295.xyz
-#EXTVLCOPT:http-referrer=https://trgoals1295.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
-https://i0.4928d54d950ee70q29.click/yayin1.m3u8
+http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Ft6co.everyunable.workers.dev%2Flist%2Fyayinpeakstream.m3u8&headers=W3sia2V5IjoiVXNlci1BZ2VudCIsInZhbHVlIjoiIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzQuMC4wLjAgU2FmYXJpLzUzNy4zIn0seyJrZXkiOiJPcmlnaW4iLCJ2YWx1ZSI6Imh0dHA6Ly9tYWNib3h0djE0Lnh5eiJ9LHsia2V5IjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cDovL21hY2JveHR2MTQueHl6In1d
 
 #EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
-#EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
-https://t6co.everyunable.workers.dev/list/yayinpeakstream.m3u8
+http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Fr14.cf2-af8.workers.dev%2Fstatic%2Fbs1.m3u8&headers=W3sia2V5IjoiVXNlci1BZ2VudCIsInZhbHVlIjoib2todHRwLzQuMTIuMCJ9XQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: SOZCU TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-sozcu-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,4K TR: SOZCU TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0

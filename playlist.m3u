@@ -119,16 +119,16 @@ https://vavoo.to/play/3986444106/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein4" tvg-name="Bein Sports 4" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports 4
+#EXTINF:-1 tvg-id="bein4" tvg-name="Beinsports 4" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports 4
 #EXTVLCOPT:http-origin=https://xextreamplay.xyz
 #EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="bein1"  tvg-name="Beinsports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
 http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Ft6co.everyunable.workers.dev%2Flist%2Fyayinpeakstream.m3u8&headers=W3sia2V5IjoiVXNlci1BZ2VudCIsInZhbHVlIjoiIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzQuMC4wLjAgU2FmYXJpLzUzNy4zIn0seyJrZXkiOiJPcmlnaW4iLCJ2YWx1ZSI6Imh0dHA6Ly9tYWNib3h0djE0Lnh5eiJ9LHsia2V5IjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cDovL21hY2JveHR2MTQueHl6In1d
 
-#EXTINF:-1 tvg-id="bein1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
+#EXTINF:-1 tvg-id="bein1" tvg-name="Beinsports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
 http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Fr14.cf2-af8.workers.dev%2Fstatic%2Fbs1.m3u8&headers=W3sia2V5IjoiVXNlci1BZ2VudCIsInZhbHVlIjoib2todHRwLzQuMTIuMCJ9XQ==
 
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: SOZCU TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-sozcu-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,4K TR: SOZCU TV (1)

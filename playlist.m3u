@@ -95,11 +95,7 @@ https://vavoo.to/play/712040085/index.m3u8
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/601788690/index.m3u8
-#EXTINF:-1 tvg-id="beinsports" tvg-name="Bein Sports 4" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports 4
-#EXTVLCOPT:http-origin=https://xextreamplay.xyz
-#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: HALK TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-halk-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber" ,4K TR: HALK TV (1)
 #EXTVLCOPT:http-user-agent=VAVOO/1.0
 #EXTVLCOPT:http-referrer=https://vavoo.to/
@@ -117,17 +113,22 @@ https://vavoo.to/play/4148513719/index.m3u8
 #EXTVLCOPT:http-referrer=https://vavoo.to/
 https://vavoo.to/play/3986444106/index.m3u8
 
+#EXTINF:-1 tvg-id="beinsports" tvg-name="Bein Sports 4" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports 4
+#EXTVLCOPT:http-origin=https://xextreamplay.xyz
+#EXTVLCOPT:http-referrer=https://xextreamplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
+
 #EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
-#EXTVLCOPT:http-origin=https://trgoals1226.xyz/
+#EXTVLCOPT:http-origin=https://trgoals1226.xyz
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://g0.4928d54d950ee70q27.click/yayin1.m3u8
 
-
 #EXTINF:-1 tvg-id="Spor_beINSPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
 #EXTVLCOPT:http-origin=http://macboxtv14.xyz
-#EXTVLCOPT:http-referrer=http://macboxtv14.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=http://macboxtv14.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3
 https://t6co.everyunable.workers.dev/list/yayinpeakstream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: SOZCU TV (1)" tvg-logo="https://seeklogo.com/images/4k-tr-sozcu-tv.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Haber"  ,4K TR: SOZCU TV (1)

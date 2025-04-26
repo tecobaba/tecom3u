@@ -119,7 +119,7 @@ https://vavoo.to/play/3986444106/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://windnew.newkso.ru/wind/premium60/mono.m3u8
 
-#EXTINF:-1 tvg-id="beinhaber" tvg-name="Bein Sports Haber" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports Haber
+#EXTINF:-1 tvg-id="beinhaber" tvg-name="beinhaber" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports Haber
 https://live.artofknot.com/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
 #EXTINF:-1 tvg-id="bein4" tvg-name="Beinsports 4" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports 4

@@ -125,7 +125,7 @@ https://windnew.newkso.ru/wind/premium60/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://zekonew.newkso.ru/zeko/premium67/mono.m3u8
 
-#EXTINF:-1 tvg-id="bein1"  tvg-name="Beinsports 1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
+#EXTINF:-1 tvg-id="bein1" tvg-name="Beinsports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
 http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Ft6co.everyunable.workers.dev%2Flist%2Fyayinpeakstream.m3u8&headers=W3sia2V5IjoiVXNlci1BZ2VudCIsInZhbHVlIjoiIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMzQuMC4wLjAgU2FmYXJpLzUzNy4zIn0seyJrZXkiOiJPcmlnaW4iLCJ2YWx1ZSI6Imh0dHA6Ly9tYWNib3h0djE0Lnh5eiJ9LHsia2V5IjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cDovL21hY2JveHR2MTQueHl6In1d
 
 #EXTINF:-1 tvg-id="bein1" tvg-name="Beinsports" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080

@@ -122,7 +122,7 @@ https://windnew.newkso.ru/wind/premium60/mono.m3u8
 #EXTINF:-1 tvg-id="beinhaber" tvg-name="beinhaber" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports Haber
 https://live.artofknot.com/youtube/channel/UCPe9vNjHF1kEExT5kHwc7aw.m3u8
 
-#EXTINF:-1 tvg-id="beinhaber" tvg-name="beinhaber" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports Test
+#EXTINF:-1 tvg-id="beinhaber" tvg-name="beinhaber test" tvg-logo="https://seeklogo.com/images/trt-spor-raw.png" tvg-language="Turkish" tvg-country="Turkey" group-title="Spor"  ,Bein Sports Test
 http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium62%2Fmono.m3u8&headers=W3sia2V5IjoiVXNlci1BZ2VudCIsInZhbHVlIjoiaHR0cC11c2VyLWFnZW50PU1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMTdfNyBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTguMCBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSJ9LHsia2V5IjoiUmVmZXJlciIsInZhbHVlIjoiaHR0cHM6Ly94ZXh0cmVhbXBsYXkueHl6LyJ9LHsia2V5IjoiT3JpZ2luIiwidmFsdWUiOiJodHRwczovL3hleHRyZWFtcGxheS54eXoifV0=
 
 #EXTINF:-1 tvg-id="Beinsports.tr" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/bein-sports-1.png" group-title="Spor",beIN SPORTS 1 Turkey

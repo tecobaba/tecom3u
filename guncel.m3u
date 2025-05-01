@@ -314,7 +314,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decb
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NatGeo.tr" tvg-logo="https://images.seeklogo.com/logo-png/9/1/national-geographic-logo-png_seeklogo-97288.png" group-title="Belgesel",National Geographic
+#EXTINF:-1 tvg-id="NatGeo.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANational-Geographic-Logo.svg&psig=AOvVaw2tg1vRXi24tH9WBmvWjnJf&ust=1746187325832000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiA7eucgo0DFQAAAAAdAAAAABAE" group-title="Belgesel",National Geographic
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Belgesel",National Georaphic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8

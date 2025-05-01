@@ -1,0 +1,681 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V5.3.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="beinhbr">
+    <display-name lang="tr">Bein Sports Haber</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="beinspor1">
+    <display-name lang="tr">Beinsports</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="beinspor2">
+    <display-name lang="tr">Beinsports 2</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="beinspor3">
+    <display-name lang="tr">Beinsports 3</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="beinspor4">
+    <display-name lang="tr">Beinsports 4</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="NTV.tr">
+    <display-name lang="tr">NTV</display-name>
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20211221328646.png" />
+    <url>http://www.tivibu.com.tr</url>
+  </channel>
+  <programme start="20250501123000 +0300" stop="20250501124500 +0300" channel="beinhbr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501124500 +0300" stop="20250501130000 +0300" channel="beinhbr">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501130000 +0300" stop="20250501143000 +0300" channel="beinhbr">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20250501143000 +0300" stop="20250501144500 +0300" channel="beinhbr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501144500 +0300" stop="20250501150000 +0300" channel="beinhbr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501150000 +0300" stop="20250501153000 +0300" channel="beinhbr">
+    <title lang="tr">beIN SQUAD</title>
+  </programme>
+  <programme start="20250501153000 +0300" stop="20250501160000 +0300" channel="beinhbr">
+    <title lang="tr">TSBSL Maç Özetleri</title>
+  </programme>
+  <programme start="20250501160000 +0300" stop="20250501163000 +0300" channel="beinhbr">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20250501163000 +0300" stop="20250501170000 +0300" channel="beinhbr">
+    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250501170000 +0300" stop="20250501180000 +0300" channel="beinhbr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250501180000 +0300" stop="20250501190000 +0300" channel="beinhbr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250501190000 +0300" stop="20250501200000 +0300" channel="beinhbr">
+    <title lang="tr">Bundesliga Maç Özetleri</title>
+  </programme>
+  <programme start="20250501200000 +0300" stop="20250501203000 +0300" channel="beinhbr">
+    <title lang="tr">Haber</title>
+  </programme>
+  <programme start="20250501203000 +0300" stop="20250501210000 +0300" channel="beinhbr">
+    <title lang="tr">Epic Series</title>
+  </programme>
+  <programme start="20250501210000 +0300" stop="20250501211500 +0300" channel="beinhbr">
+    <title lang="tr">Keşfet</title>
+  </programme>
+  <programme start="20250501211500 +0300" stop="20250501213000 +0300" channel="beinhbr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501213000 +0300" stop="20250501223000 +0300" channel="beinhbr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+  </programme>
+  <programme start="20250501223000 +0300" stop="20250501230000 +0300" channel="beinhbr">
+    <title lang="tr">beIN SQUAD</title>
+  </programme>
+  <programme start="20250501230000 +0300" stop="20250501231500 +0300" channel="beinhbr">
+    <title lang="tr">Chasing the Dream</title>
+  </programme>
+  <programme start="20250501231500 +0300" stop="20250501233000 +0300" channel="beinhbr">
+    <title lang="tr">Keşfet</title>
+  </programme>
+  <programme start="20250501134500 +0300" stop="20250501140000 +0300" channel="beinspor1">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501140000 +0300" stop="20250501153000 +0300" channel="beinspor1">
+    <title lang="tr">Muhabir Masası</title>
+  </programme>
+  <programme start="20250501153000 +0300" stop="20250501163000 +0300" channel="beinspor1">
+    <title lang="tr">İstatistik Bankası</title>
+  </programme>
+  <programme start="20250501163000 +0300" stop="20250501173000 +0300" channel="beinspor1">
+    <title lang="tr">Derbiler - Anılar</title>
+  </programme>
+  <programme start="20250501173000 +0300" stop="20250501180000 +0300" channel="beinspor1">
+    <title lang="tr">Süper Lig Haftası</title>
+  </programme>
+  <programme start="20250501180000 +0300" stop="20250501190000 +0300" channel="beinspor1">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250501190000 +0300" stop="20250501200000 +0300" channel="beinspor1">
+    <title lang="tr">Gamer</title>
+  </programme>
+  <programme start="20250501200000 +0300" stop="20250501210000 +0300" channel="beinspor1">
+    <title lang="tr">Taraftar</title>
+  </programme>
+  <programme start="20250501210000 +0300" stop="20250501214500 +0300" channel="beinspor1">
+    <title lang="tr">Galatasaray - Sivasspor</title>
+  </programme>
+  <programme start="20250501214500 +0300" stop="20250501223000 +0300" channel="beinspor1">
+    <title lang="tr">Kasımpaşa - Trabzonspor</title>
+  </programme>
+  <programme start="20250501223000 +0300" stop="20250501230000 +0300" channel="beinspor1">
+    <title lang="tr">Antalyaspor - Konyaspor</title>
+  </programme>
+  <programme start="20250501230000 +0300" stop="20250501231500 +0300" channel="beinspor1">
+    <title lang="tr">Rizespor - Gaziantep FK</title>
+  </programme>
+  <programme start="20250501134500 +0300" stop="20250501140000 +0300" channel="beinspor2">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501140000 +0300" stop="20250501154500 +0300" channel="beinspor2">
+    <title lang="tr">Şanlıurfaspor - Manisa FK</title>
+  </programme>
+  <programme start="20250501154500 +0300" stop="20250501160000 +0300" channel="beinspor2">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501160000 +0300" stop="20250501174500 +0300" channel="beinspor2">
+    <title lang="tr">Adanaspor - Gençlerbirliği</title>
+  </programme>
+  <programme start="20250501174500 +0300" stop="20250501180000 +0300" channel="beinspor2">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501180000 +0300" stop="20250501194500 +0300" channel="beinspor2">
+    <title lang="tr">Ankaragücü - Çorum FK</title>
+  </programme>
+  <programme start="20250501194500 +0300" stop="20250501200000 +0300" channel="beinspor2">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501200000 +0300" stop="20250501214500 +0300" channel="beinspor2">
+    <title lang="tr">Bandırmaspor - Erokspor</title>
+  </programme>
+  <programme start="20250501214500 +0300" stop="20250501220000 +0300" channel="beinspor2">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501220000 +0300" stop="20250501234500 +0300" channel="beinspor2">
+    <title lang="tr">İstanbulspor - Pendikspor</title>
+  </programme>
+  <programme start="20250501134500 +0300" stop="20250501140000 +0300" channel="beinspor3">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501140000 +0300" stop="20250501154500 +0300" channel="beinspor3">
+    <title lang="tr">Southampton - Fulham</title>
+  </programme>
+  <programme start="20250501154500 +0300" stop="20250501160000 +0300" channel="beinspor3">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501160000 +0300" stop="20250501174500 +0300" channel="beinspor3">
+    <title lang="tr">Bournemouth-Manchester United</title>
+  </programme>
+  <programme start="20250501174500 +0300" stop="20250501180000 +0300" channel="beinspor3">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501180000 +0300" stop="20250501203000 +0300" channel="beinspor3">
+    <title lang="tr">Liverpool - Tottenham Hotspur</title>
+  </programme>
+  <programme start="20250501203000 +0300" stop="20250501210000 +0300" channel="beinspor3">
+    <title lang="tr">Premier League Netbusters</title>
+  </programme>
+  <programme start="20250501210000 +0300" stop="20250501212000 +0300" channel="beinspor3">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501212000 +0300" stop="20250501213000 +0300" channel="beinspor3">
+    <title lang="tr">Maç Önü</title>
+  </programme>
+  <programme start="20250501213000 +0300" stop="20250501233000 +0300" channel="beinspor3">
+    <title lang="tr">Nottingham Forest - Brentford</title>
+  </programme>
+  <programme start="20250501134500 +0300" stop="20250501140000 +0300" channel="beinspor4">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501140000 +0300" stop="20250501154500 +0300" channel="beinspor4">
+    <title lang="tr">Holstein Kiel - Borussia M.</title>
+  </programme>
+  <programme start="20250501154500 +0300" stop="20250501160000 +0300" channel="beinspor4">
+    <title lang="tr">Bundesliga Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501160000 +0300" stop="20250501174500 +0300" channel="beinspor4">
+    <title lang="tr">Montpellier - Stade de Reims</title>
+  </programme>
+  <programme start="20250501174500 +0300" stop="20250501180000 +0300" channel="beinspor4">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501180000 +0300" stop="20250501194500 +0300" channel="beinspor4">
+    <title lang="tr">Eintracht Frankfurt - Leipzig</title>
+  </programme>
+  <programme start="20250501194500 +0300" stop="20250501200000 +0300" channel="beinspor4">
+    <title lang="tr">Bundesliga Haftanın Golleri</title>
+  </programme>
+  <programme start="20250501200000 +0300" stop="20250501203000 +0300" channel="beinspor4">
+    <title lang="tr">Bundesliga Special</title>
+  </programme>
+  <programme start="20250501203000 +0300" stop="20250501210000 +0300" channel="beinspor4">
+    <title lang="tr">Ligue 1 Show</title>
+  </programme>
+  <programme start="20250501210000 +0300" stop="20250501213000 +0300" channel="beinspor4">
+    <title lang="tr">This is Paris</title>
+  </programme>
+  <programme start="20250501213000 +0300" stop="20250501220000 +0300" channel="beinspor4">
+    <title lang="tr">Ligue 2 Maç Özetleri</title>
+  </programme>
+  <programme start="20250501220000 +0300" stop="20250501223000 +0300" channel="beinspor4">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  </programme>
+  <programme start="20250501223000 +0300" stop="20250501230000 +0300" channel="beinspor4">
+    <title lang="tr">Bundesliga 2 Maç Özetleri</title>
+  </programme>
+  <programme start="20250501005000 +0300" stop="20250501005500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501005500 +0300" stop="20250501010000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501010000 +0300" stop="20250501013500 +0300" channel="NTV.tr">
+    <title lang="tr">Bugün Yarın</title>
+  </programme>
+  <programme start="20250501013500 +0300" stop="20250501015500 +0300" channel="NTV.tr">
+    <title lang="tr">Gece Gündüz</title>
+  </programme>
+  <programme start="20250501015500 +0300" stop="20250501020000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501020000 +0300" stop="20250501023000 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250501023000 +0300" stop="20250501025500 +0300" channel="NTV.tr">
+    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+  </programme>
+  <programme start="20250501025500 +0300" stop="20250501030000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501030000 +0300" stop="20250501031500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250501031500 +0300" stop="20250501035500 +0300" channel="NTV.tr">
+    <title lang="tr">Ahmet Mümtaz Taylan İle Empati</title>
+  </programme>
+  <programme start="20250501035500 +0300" stop="20250501040000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501040000 +0300" stop="20250501041500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250501041500 +0300" stop="20250501045500 +0300" channel="NTV.tr">
+    <title lang="tr">Ahmet Mümtaz Taylan İle Empati</title>
+  </programme>
+  <programme start="20250501045500 +0300" stop="20250501050000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501050000 +0300" stop="20250501055500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250501055500 +0300" stop="20250501060000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501060000 +0300" stop="20250501064500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250501064500 +0300" stop="20250501065000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501065000 +0300" stop="20250501065500 +0300" channel="NTV.tr">
+    <title lang="tr">Laf Aramızda</title>
+  </programme>
+  <programme start="20250501065500 +0300" stop="20250501070000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501070000 +0300" stop="20250501095500 +0300" channel="NTV.tr">
+    <title lang="tr">Güne Başlarken</title>
+  </programme>
+  <programme start="20250501095500 +0300" stop="20250501100000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501100000 +0300" stop="20250501104500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Merkezi</title>
+  </programme>
+  <programme start="20250501104500 +0300" stop="20250501105000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501105000 +0300" stop="20250501105500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250501105500 +0300" stop="20250501110000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501110000 +0300" stop="20250501115000 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Merkezi</title>
+  </programme>
+  <programme start="20250501115000 +0300" stop="20250501115500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250501115500 +0300" stop="20250501120000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501120000 +0300" stop="20250501124500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Merkezi</title>
+  </programme>
+  <programme start="20250501124500 +0300" stop="20250501125000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501125000 +0300" stop="20250501125500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250501125500 +0300" stop="20250501130000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501130000 +0300" stop="20250501135000 +0300" channel="NTV.tr">
+    <title lang="tr">Öğle Bülteni</title>
+  </programme>
+  <programme start="20250501135000 +0300" stop="20250501135500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250501135500 +0300" stop="20250501140000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501140000 +0300" stop="20250501143500 +0300" channel="NTV.tr">
+    <title lang="tr">Öğle Bülteni</title>
+  </programme>
+  <programme start="20250501143500 +0300" stop="20250501144500 +0300" channel="NTV.tr">
+    <title lang="tr">Spor</title>
+  </programme>
+  <programme start="20250501144500 +0300" stop="20250501145000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501145000 +0300" stop="20250501145500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250501145500 +0300" stop="20250501150000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501150000 +0300" stop="20250501155000 +0300" channel="NTV.tr">
+    <title lang="tr">Öğle Bülteni</title>
+  </programme>
+  <programme start="20250501155000 +0300" stop="20250501155500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501155500 +0300" stop="20250501160000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501160000 +0300" stop="20250501161000 +0300" channel="NTV.tr">
+    <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20250501161000 +0300" stop="20250501161500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250501161500 +0300" stop="20250501162000 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250501162000 +0300" stop="20250501163000 +0300" channel="NTV.tr">
+    <title lang="tr">Spor</title>
+  </programme>
+  <programme start="20250501163000 +0300" stop="20250501165500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Beyin</title>
+  </programme>
+  <programme start="20250501165500 +0300" stop="20250501170000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501170000 +0300" stop="20250501173000 +0300" channel="NTV.tr">
+    <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20250501173000 +0300" stop="20250501173500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501173500 +0300" stop="20250501175500 +0300" channel="NTV.tr">
+    <title lang="tr">Gece Gündüz</title>
+  </programme>
+  <programme start="20250501175500 +0300" stop="20250501180000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501180000 +0300" stop="20250501183000 +0300" channel="NTV.tr">
+    <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20250501183000 +0300" stop="20250501183500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250501183500 +0300" stop="20250501184000 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250501184000 +0300" stop="20250501184500 +0300" channel="NTV.tr">
+    <title lang="tr">Uzman Bakışı</title>
+  </programme>
+  <programme start="20250501184500 +0300" stop="20250501185500 +0300" channel="NTV.tr">
+    <title lang="tr">Spor</title>
+  </programme>
+  <programme start="20250501185500 +0300" stop="20250501190000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501190000 +0300" stop="20250501191000 +0300" channel="NTV.tr">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20250501191000 +0300" stop="20250501191500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250501191500 +0300" stop="20250501195500 +0300" channel="NTV.tr">
+    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+  </programme>
+  <programme start="20250501195500 +0300" stop="20250501200000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501200000 +0300" stop="20250501205000 +0300" channel="NTV.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250501205000 +0300" stop="20250501205500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250501205500 +0300" stop="20250501210000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501210000 +0300" stop="20250501225500 +0300" channel="NTV.tr">
+    <title lang="tr">Yakın Plan</title>
+  </programme>
+  <programme start="20250501225500 +0300" stop="20250501230000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250501230000 +0300" stop="20250501235000 +0300" channel="NTV.tr">
+    <title lang="tr">Bugün Yarın</title>
+  </programme>
+  <programme start="20250501235000 +0300" stop="20250501235500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250501235500 +0300" stop="20250502000000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502000000 +0300" stop="20250502005000 +0300" channel="NTV.tr">
+    <title lang="tr">Bugün Yarın</title>
+  </programme>
+  <programme start="20250502005000 +0300" stop="20250502005500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502005500 +0300" stop="20250502010000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502010000 +0300" stop="20250502013500 +0300" channel="NTV.tr">
+    <title lang="tr">Bugün Yarın</title>
+  </programme>
+  <programme start="20250502013500 +0300" stop="20250502015500 +0300" channel="NTV.tr">
+    <title lang="tr">Gece Gündüz</title>
+  </programme>
+  <programme start="20250502015500 +0300" stop="20250502020000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502020000 +0300" stop="20250502023000 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250502023000 +0300" stop="20250502025500 +0300" channel="NTV.tr">
+    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+  </programme>
+  <programme start="20250502025500 +0300" stop="20250502030000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502030000 +0300" stop="20250502033000 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250502033000 +0300" stop="20250502035500 +0300" channel="NTV.tr">
+    <title lang="tr">Yakın Plan</title>
+  </programme>
+  <programme start="20250502035500 +0300" stop="20250502040000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502040000 +0300" stop="20250502043000 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250502043000 +0300" stop="20250502045500 +0300" channel="NTV.tr">
+    <title lang="tr">Yakın Plan</title>
+  </programme>
+  <programme start="20250502045500 +0300" stop="20250502050000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502050000 +0300" stop="20250502055500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250502055500 +0300" stop="20250502060000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502060000 +0300" stop="20250502064500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250502064500 +0300" stop="20250502065000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502065000 +0300" stop="20250502065500 +0300" channel="NTV.tr">
+    <title lang="tr">Laf Aramızda</title>
+  </programme>
+  <programme start="20250502065500 +0300" stop="20250502070000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502070000 +0300" stop="20250502093000 +0300" channel="NTV.tr">
+    <title lang="tr">Güne Başlarken</title>
+  </programme>
+  <programme start="20250502093000 +0300" stop="20250502095000 +0300" channel="NTV.tr">
+    <title lang="tr">Geri Sayım</title>
+  </programme>
+  <programme start="20250502095000 +0300" stop="20250502095500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250502095500 +0300" stop="20250502100000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502100000 +0300" stop="20250502104500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Merkezi</title>
+  </programme>
+  <programme start="20250502104500 +0300" stop="20250502105000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502105000 +0300" stop="20250502105500 +0300" channel="NTV.tr">
+    <title lang="tr">Bambaşka Sohbetler</title>
+  </programme>
+  <programme start="20250502105500 +0300" stop="20250502110000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502110000 +0300" stop="20250502114500 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Merkezi</title>
+  </programme>
+  <programme start="20250502114500 +0300" stop="20250502115000 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502115000 +0300" stop="20250502115500 +0300" channel="NTV.tr">
+    <title lang="tr">Empati</title>
+  </programme>
+  <programme start="20250502115500 +0300" stop="20250502120000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502120000 +0300" stop="20250502121000 +0300" channel="NTV.tr">
+    <title lang="tr">Haber Merkezi</title>
+  </programme>
+  <programme start="20250502121000 +0300" stop="20250502121500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502121500 +0300" stop="20250502124500 +0300" channel="NTV.tr">
+    <title lang="tr">Ekonomi Notları</title>
+  </programme>
+  <programme start="20250502124500 +0300" stop="20250502125000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502125000 +0300" stop="20250502125500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250502125500 +0300" stop="20250502130000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502130000 +0300" stop="20250502135000 +0300" channel="NTV.tr">
+    <title lang="tr">Öğle Bülteni</title>
+  </programme>
+  <programme start="20250502135000 +0300" stop="20250502135500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502135500 +0300" stop="20250502140000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502140000 +0300" stop="20250502141000 +0300" channel="NTV.tr">
+    <title lang="tr">Öğle Bülteni</title>
+  </programme>
+  <programme start="20250502141000 +0300" stop="20250502141500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502141500 +0300" stop="20250502142500 +0300" channel="NTV.tr">
+    <title lang="tr">Spor</title>
+  </programme>
+  <programme start="20250502142500 +0300" stop="20250502144500 +0300" channel="NTV.tr">
+    <title lang="tr">Finans Kafe</title>
+  </programme>
+  <programme start="20250502144500 +0300" stop="20250502145000 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502145000 +0300" stop="20250502145500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250502145500 +0300" stop="20250502150000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502150000 +0300" stop="20250502153000 +0300" channel="NTV.tr">
+    <title lang="tr">Öğle Bülteni</title>
+  </programme>
+  <programme start="20250502153000 +0300" stop="20250502155500 +0300" channel="NTV.tr">
+    <title lang="tr">Bakış</title>
+  </programme>
+  <programme start="20250502155500 +0300" stop="20250502160000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502160000 +0300" stop="20250502163500 +0300" channel="NTV.tr">
+    <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20250502163500 +0300" stop="20250502164000 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502164000 +0300" stop="20250502164500 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250502164500 +0300" stop="20250502165500 +0300" channel="NTV.tr">
+    <title lang="tr">Spor</title>
+  </programme>
+  <programme start="20250502165500 +0300" stop="20250502170000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502170000 +0300" stop="20250502173000 +0300" channel="NTV.tr">
+    <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20250502173000 +0300" stop="20250502173500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502173500 +0300" stop="20250502175500 +0300" channel="NTV.tr">
+    <title lang="tr">Gece Gündüz</title>
+  </programme>
+  <programme start="20250502175500 +0300" stop="20250502180000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502180000 +0300" stop="20250502183000 +0300" channel="NTV.tr">
+    <title lang="tr">Günün İçinden</title>
+  </programme>
+  <programme start="20250502183000 +0300" stop="20250502183500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502183500 +0300" stop="20250502184000 +0300" channel="NTV.tr">
+    <title lang="tr">Dijital Para Ekranı</title>
+  </programme>
+  <programme start="20250502184000 +0300" stop="20250502184500 +0300" channel="NTV.tr">
+    <title lang="tr">Uzman Bakışı</title>
+  </programme>
+  <programme start="20250502184500 +0300" stop="20250502185500 +0300" channel="NTV.tr">
+    <title lang="tr">Spor</title>
+  </programme>
+  <programme start="20250502185500 +0300" stop="20250502190000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502190000 +0300" stop="20250502191000 +0300" channel="NTV.tr">
+    <title lang="tr">Akşam Haberleri</title>
+  </programme>
+  <programme start="20250502191000 +0300" stop="20250502191500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502191500 +0300" stop="20250502195500 +0300" channel="NTV.tr">
+    <title lang="tr">Ceyda Düvenci İle Bambaşka Sohbetler</title>
+  </programme>
+  <programme start="20250502195500 +0300" stop="20250502200000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502200000 +0300" stop="20250502205000 +0300" channel="NTV.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250502205000 +0300" stop="20250502205500 +0300" channel="NTV.tr">
+    <title lang="tr">Piyasalar</title>
+  </programme>
+  <programme start="20250502205500 +0300" stop="20250502210000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502210000 +0300" stop="20250502225500 +0300" channel="NTV.tr">
+    <title lang="tr">Seda Öğretir İle Zincirleme Reaksiyon</title>
+  </programme>
+  <programme start="20250502225500 +0300" stop="20250502230000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250502230000 +0300" stop="20250502235000 +0300" channel="NTV.tr">
+    <title lang="tr">Bugün Yarın</title>
+  </programme>
+  <programme start="20250502235000 +0300" stop="20250502235500 +0300" channel="NTV.tr">
+    <title lang="tr">Paranın Nabzı</title>
+  </programme>
+  <programme start="20250502235500 +0300" stop="20250503000000 +0300" channel="NTV.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+</tv>

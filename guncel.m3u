@@ -26,15 +26,15 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-logo="http://assets.tvcdn.net/53dd1d5f-aa72-4bea-91d0-8c2d00783367.png" group-title="Ulusal - Yurt Dışı",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="EuroD.tr" tvg-logo="http://assets.tvcdn.net/f4a83153-48c6-4ece-8082-1b370768f88a.png" group-title="Ulusal - Yurt Dışı",Euro D
-http://stream.tvcdn.net/ulusal-yurt-disi/euro-d.m3u8
-#EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Ulusal - Yurt Dışı",TGRT EU
-http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal - Yurt Dışı",Show Türk
-http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+# #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Ulusal - Yurt Dışı",TGRT EU
+# http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
+# #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal - Yurt Dışı",Show Türk
+# http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png" group-title="Ulusal - Yurt Dışı",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber
-http://stream.tvcdn.net/haber/trt-haber.m3u8
+https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="http://assets.tvcdn.net/06e7abd9-0fbb-441f-af63-b895513d3aaa.png" group-title="Haber",A Haber
 https://live.artofknot.com/youtube/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN Türk

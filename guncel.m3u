@@ -29,8 +29,8 @@ https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 # #EXTINF:-1 tvg-id="TGRTEU.tr" tvg-logo="http://assets.tvcdn.net/01032651-eac6-48ea-b6ef-78acf8e95daa.png" group-title="Ulusal - Yurt Dışı",TGRT EU
 # http://stream.tvcdn.net/ulusal-yurt-disi/tgrt-eu.m3u8
-# #EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal - Yurt Dışı",Show Türk
-# http://stream.tvcdn.net/ulusal-yurt-disi/show-turk.m3u8
+#EXTINF:-1 tvg-id="ShowTurk.tr" tvg-logo="http://assets.tvcdn.net/d4d340ec-891e-4601-9776-e979a750b7e3.png" group-title="Ulusal - Yurt Dışı",Show Türk
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8
 #EXTINF:-1 tvg-id="Kanal7Avrupa.tr" tvg-logo="http://assets.tvcdn.net/d52bb3d8-b362-47c0-9b8e-bddc4ceb4fe5.png" group-title="Ulusal - Yurt Dışı",Kanal 7 Avrupa
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTHaber.tr" tvg-logo="http://assets.tvcdn.net/ecbd3154-e8e7-44d7-bcbd-a9bcac9df4de.png" group-title="Haber",TRT Haber
@@ -331,17 +331,21 @@ http://stream.tvcdn.net/belgesel/koy-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
 http://188.245.211.255:1935/canlitv/topraktv.stream/playlist.m3u8?hash=7273527c4819c57923b8702ee6f46415
 #EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-cocuk.m3u8
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
-http://stream.tvcdn.net/cocuk-egitim/trt-eba.m3u8
-#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Ã‡ocuk
-http://stream.tvcdn.net/cocuk-egitim/trt-diyanet-cocuk.m3u8
+https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://ia.tmgrup.com.tr/852040/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755550790.png" group-title="Çocuk&Eğitim"Minika Go 
+https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
+#EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://ia.tmgrup.com.tr/b8b0e1/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755575352.png" group-title="Çocuk&Eğitim"Minika Çocuk 
+https://trkvz.daioncdn.net/minikago_cocuk/minikago_cocuk_720p.m3u8
 #EXTINF:-1 tvg-id="CartoonNetwork.tr" tvg-logo="http://assets.tvcdn.net/9cf2fc0e-278f-4007-b1a1-8fb22d4990eb.png" group-title="Çocuk&Eğitim",Cartoon Network
-http://stream.tvcdn.net/cocuk-egitim/cartoon-network.m3u8
+https://live.artofknot.com/youtube/channel/UCehmwSZGPod7JFbHJspmxzQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/222d7e52-2895-46a1-92a2-93e2ce1c8317.png" group-title="Çocuk&Eğitim",Çocuklara Özel TV
-http://stream.tvcdn.net/cocuk-egitim/cocuklara-ozel-tv.m3u8
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cocuklara-ozel-tv/playlist/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/320542d3-bc8c-4e63-ba97-3b89426dda8c.png" group-title="Çocuk&Eğitim",Çizgi Film TV
-http://stream.tvcdn.net/cocuk-egitim/cizgi-film-tv.m3u8
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/cizgi-film-tv/playlist/1.m3u8
 #EXTINF:-1 tvg-id="SemerkandWay.tr" tvg-logo="http://assets.tvcdn.net/01b74bf2-a065-4d30-9ad6-a4213eb88cfa.png" group-title="Dini",Semerkand Way
 http://stream.tvcdn.net/dini/semerkand-way.m3u8
 #EXTINF:-1 tvg-id="DostTV.tr" tvg-logo="http://assets.tvcdn.net/95e2b9a5-991b-4eda-bd0f-ec3c570d9147.png" group-title="Dini",Dost TV

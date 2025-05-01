@@ -255,23 +255,23 @@ https://s0.4928d54d950ee70q38.click/yayinex5.m3u8
 https://s0.4928d54d950ee70q38.click/yayinex6.m3u8
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
-http://stream.tvcdn.net/spor/trt-spor.m3u8
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
-http://stream.tvcdn.net/spor/a-spor.m3u8
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
-http://stream.tvcdn.net/spor/sports-tv.m3u8
-#EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
-http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="Spor",GS TV
-http://stream.tvcdn.net/spor/gs-tv.m3u8
+https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
+# #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
+# http://stream.tvcdn.net/spor/fb-tv.m3u8
+# #EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="Spor",GS TV
+# http://stream.tvcdn.net/spor/gs-tv.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
-http://stream.tvcdn.net/spor/tjk-tv.m3u8
+https://tjktv-live.tjk.org/tjktv/tjktv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV 2
 http://live.artofknot.com:8080/youtube/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="Spor",Briç ve Satranç TV
-http://stream.tvcdn.net/spor/bric-ve-satranc-tv.m3u8
+http://139.162.182.79/live/test/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV
-http://stream.tvcdn.net/spor/fit-yasa-tv.m3u8
+https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist%2F1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",Ziraat Türkiye Kupası TV
 http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
 #EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" group-title="Müzik",TRT Müzik

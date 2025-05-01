@@ -88,15 +88,15 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eğlence",a2
 https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Eğlence",teve2
-http://stream.tvcdn.net/eglence/teve2.m3u8
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="Eğlence",Show Max
 https://live.artofknot.com/youtube/channel/UC9JMe_We017gYrRc7kZHgmg.m3u8
 #EXTINF:-1 tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" group-title="Eğlence",TV8.5
-http://stream.tvcdn.net/eglence/tv8-5.m3u8
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="DMAX.tr" tvg-logo="http://assets.tvcdn.net/32da9e04-0514-4e3c-b8e1-854f1fc175ed.png" group-title="Eğlence",DMAX
-http://stream.tvcdn.net/eglence/dmax.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 tvg-id="TLC.tr" tvg-logo="http://assets.tvcdn.net/9871d781-b961-45cc-a287-c304f02bef1d.png" group-title="Eğlence",TLC
-http://stream.tvcdn.net/eglence/tlc.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-id="TV4.tr" tvg-logo="http://assets.tvcdn.net/8b16e995-ddb6-4201-8ba1-b33f7536ca50.png" group-title="Eğlence",TV 4
 http://stream.tvcdn.net/eglence/tv-4.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2b0e5b6e-3c75-4d34-b392-90330b629bbb.png" group-title="Eğlence",Dizi Film TV

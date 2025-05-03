@@ -1,12 +1,12 @@
-#EXTINF:-1,kabloinfo_stream
+#EXTINF:-1 tvg-id="kabloinfo.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Kablo Tv Info
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/kabloinfo_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1,sinematv_stream
+#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1,sinemaaksiyon_stream
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema Aksiyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=

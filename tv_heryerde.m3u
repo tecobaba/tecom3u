@@ -6,23 +6,23 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/kabloinfo_stream/index.m3u8?wmsA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinematv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1 tvg-id="sinemaaksiyon.tr.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema Aksiyon
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema Aksiyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1,sinemayerli_stream
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema Yerli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1,sinemaaile_stream
+#EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaile_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1,sinema1001_stream
+#EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema 1001
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinema1001_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=
-#EXTINF:-1,sinemakomedi_stream
+#EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Ulusal", Sinema Komedi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemakomedi_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zLzIwMjUgNTo0MTo0NCBBTSZoYXNoX3ZhbHVlPTJLTzVYUGlvVnN1ZzBZcmJqNzgvN2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0wOTNkNzIwYS01MDJjLTQxZWQtYTgwZi0yYjgxNjk4NGZiOTUsODk3NDFmZWMtMWQzMy00YzAwLWFmY2QtM2ZkYWZlMGI2YTJkLDE1MmJkNTM5LTYyMjAtNDQyNy1hOTE1LWJmNGJkMDY4ZDdlOCxhNjk5YjgzZi04MjZiLTRkOTktOTM2MS1jOGEzMTMyMThkNDYsMCw6OmZmZmY6MTAuMC4wLjI=

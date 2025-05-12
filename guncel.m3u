@@ -115,9 +115,9 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist/1.m3u
 https://b0.4928d54d950ee70q2.lat/yayin1.m3u8
 
 #EXTINF:-1 tvg-id="beinspor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs11.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv523.com
+https://zm05po29txm4.casintrotv14.com/yayinzirve.m3u8
 
 #EXTINF:-1 tvg-id="beinspor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080 YDK
 #EXTVLCOPT:http-origin=https://www.jestyayin939.com/

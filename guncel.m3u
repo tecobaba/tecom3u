@@ -285,23 +285,23 @@ https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.m3u8
 #EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Aksiyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-hhttps://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.m3u8
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.m3u8
 #EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Yerli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-hhttps://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.m3u8
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.m3u8
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-hhttps://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.m3u8
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.m3u8
 #EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema 1001
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-hhttps://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.m3u8
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.m3u8
 #EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Komedi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-hhttps://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.m3u8
+https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.m3u8
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_DreamTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",Dream Türk

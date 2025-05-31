@@ -260,7 +260,7 @@ https://w0.877e0d156ec6c09e.workers.dev/yayinex6.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
 https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
 #EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
 # #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
@@ -281,27 +281,27 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/1.m3u8
 #EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/65.m3u8
+https://kbl-chnls.tecostream.workers.dev/Sinema_Tv.php
 #EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Aksiyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/68.m3u8
+https://kbl-chnls.tecostream.workers.dev/Sinema_Aksiyon.php
 #EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Yerli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/66.m3u8
+https://kbl-chnls.tecostream.workers.dev/Sinema_Yerli.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/67.m3u8
+https://kbl-chnls.tecostream.workers.dev/Sinema_Aile.php
 #EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema 1001
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/70.m3u8
+https://kbl-chnls.tecostream.workers.dev/Sinema_1001.php
 #EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.wikipedia.org%2Fwiki%2FKabloTV&psig=AOvVaw3XKcfG9r5Lx-FvTtf6js3B&ust=1746353788660000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNC9n_uIh40DFQAAAAAdAAAAABAE" group-title="Sinema", Sinema Komedi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/69.m3u8
+https://kbl-chnls.tecostream.workers.dev/Sinema_Komedi.php
 #EXTINF:-1 tvg-name="TRT Müzik" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_TRT" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="Dream Türk" tvg-language="Turkish" tvg-country="TR" tvg-id="Muzik_DreamTurk" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",Dream Türk

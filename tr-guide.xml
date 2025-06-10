@@ -7221,1001 +7221,980 @@
   <programme start="20250613235000 +0300" stop="20250614003500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Bir Zamanlar Kıbrıs</title>
   </programme>
-<programme start="20250610001500 +0300" stop="20250610023000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Köstebek</title>
-  </programme>
-  <programme start="20250610023000 +0300" stop="20250610043000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">İnternette Av</title>
-  </programme>
-  <programme start="20250610043000 +0300" stop="20250610064500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Spotlight</title>
-  </programme>
-  <programme start="20250610064500 +0300" stop="20250610091500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Çılgınlar Şehri</title>
-  </programme>
-  <programme start="20250610091500 +0300" stop="20250610110000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Frances Ha</title>
-  </programme>
-  <programme start="20250610110000 +0300" stop="20250610130000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Ah Bu Şeker!</title>
-  </programme>
-  <programme start="20250610130000 +0300" stop="20250610153000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Sevginin Gücü</title>
-  </programme>
-  <programme start="20250610153000 +0300" stop="20250610174500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Sosyal Ağ</title>
-  </programme>
-  <programme start="20250610174500 +0300" stop="20250610194500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Aradığınız İçin Teşekkürler</title>
-  </programme>
-  <programme start="20250610194500 +0300" stop="20250610220000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Whitney</title>
-  </programme>
-  <programme start="20250610220000 +0300" stop="20250610234500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">New York'ta Yağmurlu Bir Gün</title>
-  </programme>
-  <programme start="20250610234500 +0300" stop="20250611020000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Dracula</title>
-  </programme>
-  <programme start="20250611020000 +0300" stop="20250611043000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Çılgınlar Şehri</title>
-  </programme>
-  <programme start="20250611043000 +0300" stop="20250611063000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Ah Bu Şeker!</title>
-  </programme>
-  <programme start="20250611063000 +0300" stop="20250611081500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Ebedi Yol</title>
-  </programme>
-  <programme start="20250611081500 +0300" stop="20250611103000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Whitney</title>
-  </programme>
-  <programme start="20250611103000 +0300" stop="20250611123000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Ebe</title>
-  </programme>
-  <programme start="20250611123000 +0300" stop="20250611141500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">New York'ta Yağmurlu Bir Gün</title>
-  </programme>
-  <programme start="20250611141500 +0300" stop="20250611160000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Küçük Adamlar</title>
-  </programme>
-  <programme start="20250611160000 +0300" stop="20250611180000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Özgürlük Dansı</title>
-  </programme>
-  <programme start="20250611180000 +0300" stop="20250611200000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Dönüş</title>
-  </programme>
-  <programme start="20250611200000 +0300" stop="20250611220000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Cehennem Silahı</title>
-  </programme>
-  <programme start="20250611220000 +0300" stop="20250612001500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Sherlock Holmes</title>
-  </programme>
-  <programme start="20250612001500 +0300" stop="20250612023000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Sen Dünyaya Gelmeden</title>
-  </programme>
-  <programme start="20250612023000 +0300" stop="20250612043000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Ebedi Yol</title>
-  </programme>
-  <programme start="20250612043000 +0300" stop="20250612063000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Ebe</title>
-  </programme>
-  <programme start="20250612063000 +0300" stop="20250612083000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Oyun Ruhu</title>
-  </programme>
-  <programme start="20250612083000 +0300" stop="20250612104500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Sherlock Holmes</title>
-  </programme>
-  <programme start="20250612104500 +0300" stop="20250612131500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">İlk Şövalye</title>
-  </programme>
-  <programme start="20250612131500 +0300" stop="20250612150000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Kara Kış</title>
-  </programme>
-  <programme start="20250612150000 +0300" stop="20250612174500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Son İmparator</title>
-  </programme>
-  <programme start="20250612174500 +0300" stop="20250612200000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Tehlikeli Oyun</title>
-  </programme>
-  <programme start="20250612200000 +0300" stop="20250612220000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Cehennem Silahı 2</title>
-  </programme>
-  <programme start="20250612220000 +0300" stop="20250613001500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Aşka Şans Ver</title>
-  </programme>
-  <programme start="20250613001500 +0300" stop="20250613020000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Tuhaf Ev</title>
-  </programme>
-  <programme start="20250613020000 +0300" stop="20250613034500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Oyun Ruhu</title>
-  </programme>
-  <programme start="20250613034500 +0300" stop="20250613061500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">İlk Şövalye</title>
-  </programme>
-  <programme start="20250613061500 +0300" stop="20250613083000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Aydınlığın Kalbi</title>
-  </programme>
-  <programme start="20250613083000 +0300" stop="20250613104500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Aşka Şans Ver</title>
-  </programme>
-  <programme start="20250613104500 +0300" stop="20250613131500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Balıkçı Kral</title>
-  </programme>
-  <programme start="20250613131500 +0300" stop="20250613153000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Who We Are - A Chronıcle Of Racısm In America</title>
-  </programme>
-  <programme start="20250613153000 +0300" stop="20250613180000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Yenilmez</title>
-  </programme>
-  <programme start="20250613180000 +0300" stop="20250613201500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Nefes</title>
-  </programme>
-  <programme start="20250613201500 +0300" stop="20250613220000 +0300" channel="SİNEMA 1001">
-    <title lang="tr">İhtiyar Adam Ve Silah</title>
-  </programme>
-  <programme start="20250613220000 +0300" stop="20250614001500 +0300" channel="SİNEMA 1001">
-    <title lang="tr">Beyaz Şövalyeler</title>
-  </programme>
-  <programme start="20250610004500 +0300" stop="20250610012200 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250610012200 +0300" stop="20250610021500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250610021500 +0300" stop="20250610041500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Fırtına Çocuk</title>
-  </programme>
-  <programme start="20250610041500 +0300" stop="20250610060000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Tavşan Peter</title>
-  </programme>
-  <programme start="20250610060000 +0300" stop="20250610072000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Aynadaki Çocuk</title>
-  </programme>
-  <programme start="20250610072000 +0300" stop="20250610074500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları 1</title>
-  </programme>
-  <programme start="20250610074500 +0300" stop="20250610093000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">What The Finn: Summer Of Surprises</title>
-  </programme>
-  <programme start="20250610093000 +0300" stop="20250610111500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Bo'nun Eğlenceli Tatili</title>
-  </programme>
-  <programme start="20250610111500 +0300" stop="20250610124500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Karlar Kraliçesi Ve Prenses</title>
-  </programme>
-  <programme start="20250610124500 +0300" stop="20250610144500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Talihsiz Sophıe</title>
-  </programme>
-  <programme start="20250610144500 +0300" stop="20250610164500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Genç Wınnetou Ve Kayıp Buffalolar</title>
-  </programme>
-  <programme start="20250610164500 +0300" stop="20250610181500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Ormanın Süper Kahramanı</title>
-  </programme>
-  <programme start="20250610181500 +0300" stop="20250610200000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Küçük Vampir</title>
-  </programme>
-  <programme start="20250610200000 +0300" stop="20250610214500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Dragon Rider</title>
-  </programme>
-  <programme start="20250610214500 +0300" stop="20250610234500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Rıo 2</title>
-  </programme>
-  <programme start="20250610234500 +0300" stop="20250611013000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Karlar Kralı Norm</title>
-  </programme>
-  <programme start="20250611013000 +0300" stop="20250611020700 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250611020700 +0300" stop="20250611030000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250611030000 +0300" stop="20250611043000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Aynadaki Çocuk</title>
-  </programme>
-  <programme start="20250611043000 +0300" stop="20250611061500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Bo'nun Eğlenceli Tatili</title>
-  </programme>
-  <programme start="20250611061500 +0300" stop="20250611073600 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Pororo</title>
-  </programme>
-  <programme start="20250611073600 +0300" stop="20250611080000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları 1</title>
-  </programme>
-  <programme start="20250611080000 +0300" stop="20250611094500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Küçük Vampir</title>
-  </programme>
-  <programme start="20250611094500 +0300" stop="20250611111500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Eğlence Sınıfı</title>
-  </programme>
-  <programme start="20250611111500 +0300" stop="20250611130000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Dragon Rider</title>
-  </programme>
-  <programme start="20250611130000 +0300" stop="20250611144500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Sevimli Kedi İş Başında</title>
-  </programme>
-  <programme start="20250611144500 +0300" stop="20250611163000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Misyon : Eğlence Okulu</title>
-  </programme>
-  <programme start="20250611163000 +0300" stop="20250611181500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kurbağa Prens</title>
-  </programme>
-  <programme start="20250611181500 +0300" stop="20250611200000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Otel Transilvanya</title>
-  </programme>
-  <programme start="20250611200000 +0300" stop="20250611214500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Buz Devri 4: Kıtalar Ayrılıyor</title>
-  </programme>
-  <programme start="20250611214500 +0300" stop="20250611233000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Troll: Kuyruklu Macera</title>
-  </programme>
-  <programme start="20250611233000 +0300" stop="20250612013000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Bıbı Ve Tına 2</title>
-  </programme>
-  <programme start="20250612013000 +0300" stop="20250612020700 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250612020700 +0300" stop="20250612030000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250612030000 +0300" stop="20250612044500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Pororo</title>
-  </programme>
-  <programme start="20250612044500 +0300" stop="20250612063000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Misyon : Eğlence Okulu</title>
-  </programme>
-  <programme start="20250612063000 +0300" stop="20250612081500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kocaayak Ve Oğlu</title>
-  </programme>
-  <programme start="20250612081500 +0300" stop="20250612100000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kurbağa Prens</title>
-  </programme>
-  <programme start="20250612100000 +0300" stop="20250612113100 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Roborex'in Maceraları</title>
-  </programme>
-  <programme start="20250612113100 +0300" stop="20250612120000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları 2</title>
-  </programme>
-  <programme start="20250612120000 +0300" stop="20250612134500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Otel Transilvanya</title>
-  </programme>
-  <programme start="20250612134500 +0300" stop="20250612153000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Sevimli Kedi İş Başında 2</title>
-  </programme>
-  <programme start="20250612153000 +0300" stop="20250612180000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kayıp Zamanlar</title>
-  </programme>
-  <programme start="20250612180000 +0300" stop="20250612200000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Dora Ve Kayıp Altın Şehri</title>
-  </programme>
-  <programme start="20250612200000 +0300" stop="20250612214500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">One Direction: This Is Us</title>
-  </programme>
-  <programme start="20250612214500 +0300" stop="20250612233000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kranston Akademi: Canavar Bölgesi</title>
-  </programme>
-  <programme start="20250612233000 +0300" stop="20250613011500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kahraman Kuyruklar</title>
-  </programme>
-  <programme start="20250613011500 +0300" stop="20250613015200 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250613015200 +0300" stop="20250613024500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları</title>
-  </programme>
-  <programme start="20250613024500 +0300" stop="20250613043000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Kocaayak Ve Oğlu</title>
-  </programme>
-  <programme start="20250613043000 +0300" stop="20250613061500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Roborex'in Maceraları</title>
-  </programme>
-  <programme start="20250613061500 +0300" stop="20250613074600 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Büyük Macera 2: Sürpriz Misafir</title>
-  </programme>
-  <programme start="20250613074600 +0300" stop="20250613081500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Orman Dostları 2</title>
-  </programme>
-  <programme start="20250613081500 +0300" stop="20250613101500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Dora Ve Kayıp Altın Şehri</title>
-  </programme>
-  <programme start="20250613101500 +0300" stop="20250613121500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Genç Cadı</title>
-  </programme>
-  <programme start="20250613121500 +0300" stop="20250613140000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">One Direction: This Is Us</title>
-  </programme>
-  <programme start="20250613140000 +0300" stop="20250613154500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Ayı Kardeşler: Vahşi Yaşam</title>
-  </programme>
-  <programme start="20250613154500 +0300" stop="20250613174500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Çılgın Futbol Takımı 6</title>
-  </programme>
-  <programme start="20250613174500 +0300" stop="20250613200000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Oyun Kurucu</title>
-  </programme>
-  <programme start="20250613200000 +0300" stop="20250613220000 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Percy Jackson: Canavarlar Denizi</title>
-  </programme>
-  <programme start="20250613220000 +0300" stop="20250613234500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Meraklı Kedinin 10 Yaşamı</title>
-  </programme>
-  <programme start="20250613234500 +0300" stop="20250614011500 +0300" channel="SİNEMA AİLE">
-    <title lang="tr">Hayalet Hikayesi</title>
-  </programme>
-  <programme start="20250610001500 +0300" stop="20250610014500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Transporter 2</title>
-  </programme>
-  <programme start="20250610014500 +0300" stop="20250610033000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Anaconda</title>
-  </programme>
-  <programme start="20250610033000 +0300" stop="20250610051500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Kopuş</title>
-  </programme>
-  <programme start="20250610051500 +0300" stop="20250610071500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Yarınki İş</title>
-  </programme>
-  <programme start="20250610071500 +0300" stop="20250610094500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">The Division</title>
-  </programme>
-  <programme start="20250610094500 +0300" stop="20250610121500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Beyaz Saray Düştü</title>
-  </programme>
-  <programme start="20250610121500 +0300" stop="20250610143000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">60 Saniye</title>
-  </programme>
-  <programme start="20250610143000 +0300" stop="20250610164500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Yeter</title>
-  </programme>
-  <programme start="20250610164500 +0300" stop="20250610191500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Gran Turismo</title>
-  </programme>
-  <programme start="20250610191500 +0300" stop="20250610220000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Batman V Superman: Adaletin Şafağı</title>
-  </programme>
-  <programme start="20250610220000 +0300" stop="20250610234500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Escalation</title>
-  </programme>
-  <programme start="20250610234500 +0300" stop="20250611013000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Kardeşlik</title>
-  </programme>
-  <programme start="20250611013000 +0300" stop="20250611031500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Kötü Ruh</title>
-  </programme>
-  <programme start="20250611031500 +0300" stop="20250611053000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">The Division</title>
-  </programme>
-  <programme start="20250611053000 +0300" stop="20250611073000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">60 Saniye</title>
-  </programme>
-  <programme start="20250611073000 +0300" stop="20250611093000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Mob Land</title>
-  </programme>
-  <programme start="20250611093000 +0300" stop="20250611121500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Batman V Superman: Adaletin Şafağı</title>
-  </programme>
-  <programme start="20250611121500 +0300" stop="20250611141500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Zlatan İbrahimovic</title>
-  </programme>
-  <programme start="20250611141500 +0300" stop="20250611160000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Escalation</title>
-  </programme>
-  <programme start="20250611160000 +0300" stop="20250611183000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Örümcek Adam: Eve Dönüş</title>
-  </programme>
-  <programme start="20250611183000 +0300" stop="20250611203000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Bloodshot: Durdurulamaz Güç</title>
-  </programme>
-  <programme start="20250611203000 +0300" stop="20250611220000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Telefon Kulübesi</title>
-  </programme>
-  <programme start="20250611220000 +0300" stop="20250612003000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Transformers</title>
-  </programme>
-  <programme start="20250612003000 +0300" stop="20250612021500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Simülasyon</title>
-  </programme>
-  <programme start="20250612021500 +0300" stop="20250612041500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Mob Land</title>
-  </programme>
-  <programme start="20250612041500 +0300" stop="20250612060000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Zlatan İbrahimovic</title>
-  </programme>
-  <programme start="20250612060000 +0300" stop="20250612080000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Transfüzyon</title>
-  </programme>
-  <programme start="20250612080000 +0300" stop="20250612100000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Bloodshot: Durdurulamaz Güç</title>
-  </programme>
-  <programme start="20250612100000 +0300" stop="20250612121500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Madame Web</title>
-  </programme>
-  <programme start="20250612121500 +0300" stop="20250612134500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Telefon Kulübesi</title>
-  </programme>
-  <programme start="20250612134500 +0300" stop="20250612160000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Örümcek-adam: Evden Uzakta</title>
-  </programme>
-  <programme start="20250612160000 +0300" stop="20250612174500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Hepsini Öldür 2</title>
-  </programme>
-  <programme start="20250612174500 +0300" stop="20250612191500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">600 Mil</title>
-  </programme>
-  <programme start="20250612191500 +0300" stop="20250612220000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Transformers: Yenilenlerin İntikamı</title>
-  </programme>
-  <programme start="20250612220000 +0300" stop="20250613000000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Maskenin Ardında</title>
-  </programme>
-  <programme start="20250613000000 +0300" stop="20250613014500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Gladyatör</title>
-  </programme>
-  <programme start="20250613014500 +0300" stop="20250613033000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Bull</title>
-  </programme>
-  <programme start="20250613033000 +0300" stop="20250613053000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Transfüzyon</title>
-  </programme>
-  <programme start="20250613053000 +0300" stop="20250613073000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Madame Web</title>
-  </programme>
-  <programme start="20250613073000 +0300" stop="20250613093000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Üşütük Kafalar</title>
-  </programme>
-  <programme start="20250613093000 +0300" stop="20250613111500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Hepsini Öldür 2</title>
-  </programme>
-  <programme start="20250613111500 +0300" stop="20250613133000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Tombiruo</title>
-  </programme>
-  <programme start="20250613133000 +0300" stop="20250613151500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">600 Mil</title>
-  </programme>
-  <programme start="20250613151500 +0300" stop="20250613171500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Havada Dehşet 1971</title>
-  </programme>
-  <programme start="20250613171500 +0300" stop="20250613191500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Konvoy</title>
-  </programme>
-  <programme start="20250613191500 +0300" stop="20250613220000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Transformers: Ay'ın Karanlık Yüzü</title>
-  </programme>
-  <programme start="20250613220000 +0300" stop="20250613234500 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Aeon Flux</title>
-  </programme>
-  <programme start="20250613234500 +0300" stop="20250614020000 +0300" channel="SİNEMA AKSİYON">
-    <title lang="tr">Bad Boys: Her Zaman Çılgın</title>
-  </programme>
-  <programme start="20250610013000 +0300" stop="20250610030000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Monk</title>
-  </programme>
-  <programme start="20250610030000 +0300" stop="20250610044500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">İnce Buz</title>
-  </programme>
-  <programme start="20250610044500 +0300" stop="20250610070000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">50 KM/h</title>
-  </programme>
-  <programme start="20250610070000 +0300" stop="20250610084500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Josephıne</title>
-  </programme>
-  <programme start="20250610084500 +0300" stop="20250610101500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Los Angeles'ta Aşk</title>
-  </programme>
-  <programme start="20250610101500 +0300" stop="20250610121500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Çocuk Yok</title>
-  </programme>
-  <programme start="20250610121500 +0300" stop="20250610143000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Aşk Doktoru</title>
-  </programme>
-  <programme start="20250610143000 +0300" stop="20250610160000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Fransız Mutfağı</title>
-  </programme>
-  <programme start="20250610160000 +0300" stop="20250610180000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">En İyi Arkadaşım Evleniyor</title>
-  </programme>
-  <programme start="20250610180000 +0300" stop="20250610200000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Gerçek Öpücük</title>
-  </programme>
-  <programme start="20250610200000 +0300" stop="20250610213000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Salaklar Sofrası</title>
-  </programme>
-  <programme start="20250610213000 +0300" stop="20250610233000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Nefret Oyunu</title>
-  </programme>
-  <programme start="20250610233000 +0300" stop="20250611013000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Küçük Bir Rica</title>
-  </programme>
-  <programme start="20250611013000 +0300" stop="20250611031500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Hafıza Kaybı</title>
-  </programme>
-  <programme start="20250611031500 +0300" stop="20250611050000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Josephıne</title>
-  </programme>
-  <programme start="20250611050000 +0300" stop="20250611070000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Çocuk Yok</title>
-  </programme>
-  <programme start="20250611070000 +0300" stop="20250611091500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Çılgın Tatil</title>
-  </programme>
-  <programme start="20250611091500 +0300" stop="20250611104500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Salaklar Sofrası</title>
-  </programme>
-  <programme start="20250611104500 +0300" stop="20250611123000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Yargıç</title>
-  </programme>
-  <programme start="20250611123000 +0300" stop="20250611143000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Nefret Oyunu</title>
-  </programme>
-  <programme start="20250611143000 +0300" stop="20250611163000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">En Güzel Günüm</title>
-  </programme>
-  <programme start="20250611163000 +0300" stop="20250611181500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Ibıza</title>
-  </programme>
-  <programme start="20250611181500 +0300" stop="20250611194500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Musıcal Chaırs</title>
-  </programme>
-  <programme start="20250611194500 +0300" stop="20250611213000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Seninle Birlikte</title>
-  </programme>
-  <programme start="20250611213000 +0300" stop="20250611233000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Roxanne</title>
-  </programme>
-  <programme start="20250611233000 +0300" stop="20250612013000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Tam Olarak Ne Oldu?</title>
-  </programme>
-  <programme start="20250612013000 +0300" stop="20250612030000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Yol Serüveni</title>
-  </programme>
-  <programme start="20250612030000 +0300" stop="20250612051500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Çılgın Tatil</title>
-  </programme>
-  <programme start="20250612051500 +0300" stop="20250612070000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Yargıç</title>
-  </programme>
-  <programme start="20250612070000 +0300" stop="20250612084500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Senaryo</title>
-  </programme>
-  <programme start="20250612084500 +0300" stop="20250612103000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Seninle Birlikte</title>
-  </programme>
-  <programme start="20250612103000 +0300" stop="20250612124500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Yeni Nesil Aşklar</title>
-  </programme>
-  <programme start="20250612124500 +0300" stop="20250612144500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Roxanne</title>
-  </programme>
-  <programme start="20250612144500 +0300" stop="20250612163000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Geç Anlayanlar</title>
-  </programme>
-  <programme start="20250612163000 +0300" stop="20250612183000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Benimle Evlenir Misin?</title>
-  </programme>
-  <programme start="20250612183000 +0300" stop="20250612200000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Botswanga Timsahları</title>
-  </programme>
-  <programme start="20250612200000 +0300" stop="20250612213000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Bir Garip Aşk</title>
-  </programme>
-  <programme start="20250612213000 +0300" stop="20250612231500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Long Weekend</title>
-  </programme>
-  <programme start="20250612231500 +0300" stop="20250613013000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Kırılgan</title>
-  </programme>
-  <programme start="20250613013000 +0300" stop="20250613031500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Josephıne 2</title>
-  </programme>
-  <programme start="20250613031500 +0300" stop="20250613044500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Senaryo</title>
-  </programme>
-  <programme start="20250613044500 +0300" stop="20250613070000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Yeni Nesil Aşklar</title>
-  </programme>
-  <programme start="20250613070000 +0300" stop="20250613084500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Davetsiz Misafir</title>
-  </programme>
-  <programme start="20250613084500 +0300" stop="20250613101500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Bir Garip Aşk</title>
-  </programme>
-  <programme start="20250613101500 +0300" stop="20250613120000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Bağlılık</title>
-  </programme>
-  <programme start="20250613120000 +0300" stop="20250613134500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Long Weekend</title>
-  </programme>
-  <programme start="20250613134500 +0300" stop="20250613153000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Charlie'nin Melekleri</title>
-  </programme>
-  <programme start="20250613153000 +0300" stop="20250613171500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Avanak Ajanlar</title>
-  </programme>
-  <programme start="20250613171500 +0300" stop="20250613193000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">İkinci Görüşte Aşk</title>
-  </programme>
-  <programme start="20250613193000 +0300" stop="20250613213000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Evde Curcuna</title>
-  </programme>
-  <programme start="20250613213000 +0300" stop="20250613231500 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Belki Evet, Belki Hayır</title>
-  </programme>
-  <programme start="20250613231500 +0300" stop="20250614010000 +0300" channel="SİNEMA KOMEDİ">
-    <title lang="tr">Beklenmedik Düğün</title>
-  </programme>
-  <programme start="20250610011500 +0300" stop="20250610033000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Çığlık 6</title>
-  </programme>
-  <programme start="20250610033000 +0300" stop="20250610053000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Bir Annenin Hikayesi</title>
-  </programme>
-  <programme start="20250610053000 +0300" stop="20250610071500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Big Sky River</title>
-  </programme>
-  <programme start="20250610071500 +0300" stop="20250610091500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Figaro Aşkı</title>
-  </programme>
-  <programme start="20250610091500 +0300" stop="20250610111500 +0300" channel="SİNEMA TV">
-    <title lang="tr">İtalyan İşi</title>
-  </programme>
-  <programme start="20250610111500 +0300" stop="20250610130000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Yıllar Sonra</title>
-  </programme>
-  <programme start="20250610130000 +0300" stop="20250610150000 +0300" channel="SİNEMA TV">
-    <title lang="tr">And The Party Goes On</title>
-  </programme>
-  <programme start="20250610150000 +0300" stop="20250610170000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Wıpe Out</title>
-  </programme>
-  <programme start="20250610170000 +0300" stop="20250610190000 +0300" channel="SİNEMA TV">
-    <title lang="tr">As They Made Us</title>
-  </programme>
-  <programme start="20250610190000 +0300" stop="20250610213000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Şeflerin Aşkı</title>
-  </programme>
-  <programme start="20250610213000 +0300" stop="20250610231500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Süleyman'ın Hikayesi</title>
-  </programme>
-  <programme start="20250610231500 +0300" stop="20250611011500 +0300" channel="SİNEMA TV">
-    <title lang="tr">The Boogeyman</title>
-  </programme>
-  <programme start="20250611011500 +0300" stop="20250611031500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Kara Cuma</title>
-  </programme>
-  <programme start="20250611031500 +0300" stop="20250611051500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Figaro Aşkı</title>
-  </programme>
-  <programme start="20250611051500 +0300" stop="20250611070000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Yıllar Sonra</title>
-  </programme>
-  <programme start="20250611070000 +0300" stop="20250611091500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Adaletsizlik</title>
-  </programme>
-  <programme start="20250611091500 +0300" stop="20250611110000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Süleyman'ın Hikayesi</title>
-  </programme>
-  <programme start="20250611110000 +0300" stop="20250611131500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Yedi Yaşam</title>
-  </programme>
-  <programme start="20250611131500 +0300" stop="20250611150000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Burada Güvende Değilsin</title>
-  </programme>
-  <programme start="20250611150000 +0300" stop="20250611171500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Paralel Anneler</title>
-  </programme>
-  <programme start="20250611171500 +0300" stop="20250611191500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Force Of Nature: The Dry 2</title>
-  </programme>
-  <programme start="20250611191500 +0300" stop="20250611213000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Aşkın Çekimi</title>
-  </programme>
-  <programme start="20250611213000 +0300" stop="20250611231500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Şeker Çocuk</title>
-  </programme>
-  <programme start="20250611231500 +0300" stop="20250612010000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Hounds</title>
-  </programme>
-  <programme start="20250612010000 +0300" stop="20250612024500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Tarot</title>
-  </programme>
-  <programme start="20250612024500 +0300" stop="20250612050000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Adaletsizlik</title>
-  </programme>
-  <programme start="20250612050000 +0300" stop="20250612071500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Yedi Yaşam</title>
-  </programme>
-  <programme start="20250612071500 +0300" stop="20250612091500 +0300" channel="SİNEMA TV">
-    <title lang="tr">İz Bırakma</title>
-  </programme>
-  <programme start="20250612091500 +0300" stop="20250612113000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Rıcky Hıll'in İnanılmaz Hikayesi</title>
-  </programme>
-  <programme start="20250612113000 +0300" stop="20250612134500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Vurgun Yemek</title>
-  </programme>
-  <programme start="20250612134500 +0300" stop="20250612154500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Tyson's Run</title>
-  </programme>
-  <programme start="20250612154500 +0300" stop="20250612174500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Bir Kızla Tanıştım</title>
-  </programme>
-  <programme start="20250612174500 +0300" stop="20250612193000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Jazz Fest: Bir New Orleans Hikayesi</title>
-  </programme>
-  <programme start="20250612193000 +0300" stop="20250612213000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Unsung Hero</title>
-  </programme>
-  <programme start="20250612213000 +0300" stop="20250612233000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Salinger Yılım</title>
-  </programme>
-  <programme start="20250612233000 +0300" stop="20250613011500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Şeytanın Oğlu</title>
-  </programme>
-  <programme start="20250613011500 +0300" stop="20250613030000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Azap</title>
-  </programme>
-  <programme start="20250613030000 +0300" stop="20250613050000 +0300" channel="SİNEMA TV">
-    <title lang="tr">İz Bırakma</title>
-  </programme>
-  <programme start="20250613050000 +0300" stop="20250613071500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Rıcky Hıll'in İnanılmaz Hikayesi</title>
-  </programme>
-  <programme start="20250613071500 +0300" stop="20250613093000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Futbolun Çocukları</title>
-  </programme>
-  <programme start="20250613093000 +0300" stop="20250613113000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Salinger Yılım</title>
-  </programme>
-  <programme start="20250613113000 +0300" stop="20250613134500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Sıradan Melekler</title>
-  </programme>
-  <programme start="20250613134500 +0300" stop="20250613153000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Bazen Ölmeyi Düşünüyorum</title>
-  </programme>
-  <programme start="20250613153000 +0300" stop="20250613174500 +0300" channel="SİNEMA TV">
-    <title lang="tr">55 Adım</title>
-  </programme>
-  <programme start="20250613174500 +0300" stop="20250613194500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Alacakaranlığın Evresi</title>
-  </programme>
-  <programme start="20250613194500 +0300" stop="20250613213000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Düğün Marşı 2: Aşk Tesisi</title>
-  </programme>
-  <programme start="20250613213000 +0300" stop="20250613231500 +0300" channel="SİNEMA TV">
-    <title lang="tr">Son Sahne</title>
-  </programme>
-  <programme start="20250613231500 +0300" stop="20250614013000 +0300" channel="SİNEMA TV">
-    <title lang="tr">Hayvan Krallığı</title>
-  </programme>
-  <programme start="20250610013000 +0300" stop="20250610033000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Gamonya: Hayaller Ülkesi</title>
-  </programme>
-  <programme start="20250610033000 +0300" stop="20250610051500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Hayati Tehlike</title>
-  </programme>
-  <programme start="20250610051500 +0300" stop="20250610071500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Acı Tatlı Ekşi</title>
-  </programme>
-  <programme start="20250610071500 +0300" stop="20250610084500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Zuhal</title>
-  </programme>
-  <programme start="20250610084500 +0300" stop="20250610103000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Hesapta Aşk</title>
-  </programme>
-  <programme start="20250610103000 +0300" stop="20250610124500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Çiçero</title>
-  </programme>
-  <programme start="20250610124500 +0300" stop="20250610144500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Kolonya Cumhuriyeti</title>
-  </programme>
-  <programme start="20250610144500 +0300" stop="20250610164500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Eyyvah Eyvah 2</title>
-  </programme>
-  <programme start="20250610164500 +0300" stop="20250610183000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Gürbüz: Hadi Allah'a Emanet</title>
-  </programme>
-  <programme start="20250610183000 +0300" stop="20250610200000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bir Garip Yolcu</title>
-  </programme>
-  <programme start="20250610200000 +0300" stop="20250610220000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bomboş</title>
-  </programme>
-  <programme start="20250610220000 +0300" stop="20250610234500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bir Varmış Bir Yokmuş</title>
-  </programme>
-  <programme start="20250610234500 +0300" stop="20250611013000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Cinnet</title>
-  </programme>
-  <programme start="20250611013000 +0300" stop="20250611033000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Masal Şatosu: Sihirli Davet</title>
-  </programme>
-  <programme start="20250611033000 +0300" stop="20250611050000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Zuhal</title>
-  </programme>
-  <programme start="20250611050000 +0300" stop="20250611071500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Çiçero</title>
-  </programme>
-  <programme start="20250611071500 +0300" stop="20250611084500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Nereye Bakıyor Bu Adamlar</title>
-  </programme>
-  <programme start="20250611084500 +0300" stop="20250611101500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bir Garip Yolcu</title>
-  </programme>
-  <programme start="20250611101500 +0300" stop="20250611121500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Ah Be Birader</title>
-  </programme>
-  <programme start="20250611121500 +0300" stop="20250611141500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bomboş</title>
-  </programme>
-  <programme start="20250611141500 +0300" stop="20250611161500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Eyyvah Eyvah 3</title>
-  </programme>
-  <programme start="20250611161500 +0300" stop="20250611180000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Git Başımdan</title>
-  </programme>
-  <programme start="20250611180000 +0300" stop="20250611200000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Sesinde Aşk Var</title>
-  </programme>
-  <programme start="20250611200000 +0300" stop="20250611221500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bayi Toplantısı</title>
-  </programme>
-  <programme start="20250611221500 +0300" stop="20250612001500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Silsile</title>
-  </programme>
-  <programme start="20250612001500 +0300" stop="20250612021500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Poyraz Karayel: Küresel Sermaye</title>
-  </programme>
-  <programme start="20250612021500 +0300" stop="20250612040000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Hayat Bayram Olsa</title>
-  </programme>
-  <programme start="20250612040000 +0300" stop="20250612054500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Nereye Bakıyor Bu Adamlar</title>
-  </programme>
-  <programme start="20250612054500 +0300" stop="20250612074500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Ah Be Birader</title>
-  </programme>
-  <programme start="20250612074500 +0300" stop="20250612094500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Sırrını Biliyorum</title>
-  </programme>
-  <programme start="20250612094500 +0300" stop="20250612114500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Sesinde Aşk Var</title>
-  </programme>
-  <programme start="20250612114500 +0300" stop="20250612134500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Hedefim Sensin</title>
-  </programme>
-  <programme start="20250612134500 +0300" stop="20250612160000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Bayi Toplantısı</title>
-  </programme>
-  <programme start="20250612160000 +0300" stop="20250612174500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Yalan Dolan</title>
-  </programme>
-  <programme start="20250612174500 +0300" stop="20250612200000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Türk İşi Dondurma</title>
-  </programme>
-  <programme start="20250612200000 +0300" stop="20250612223000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Cebimde Kelimeler</title>
-  </programme>
-  <programme start="20250612223000 +0300" stop="20250613001500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Acı Aşk</title>
-  </programme>
-  <programme start="20250613001500 +0300" stop="20250613021500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">El-cin</title>
-  </programme>
-  <programme start="20250613021500 +0300" stop="20250613041500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Sırrını Biliyorum</title>
-  </programme>
-  <programme start="20250613041500 +0300" stop="20250613061500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Hedefim Sensin</title>
-  </programme>
-  <programme start="20250613061500 +0300" stop="20250613081500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Hıçkırık</title>
-  </programme>
-  <programme start="20250613081500 +0300" stop="20250613103000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Türk İşi Dondurma</title>
-  </programme>
-  <programme start="20250613103000 +0300" stop="20250613124500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Saklı Yüzler</title>
-  </programme>
-  <programme start="20250613124500 +0300" stop="20250613153000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Cebimde Kelimeler</title>
-  </programme>
-  <programme start="20250613153000 +0300" stop="20250613173000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Sümela'nın Şifresi 3: Cünyor Temel</title>
-  </programme>
-  <programme start="20250613173000 +0300" stop="20250613200000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Kurak Günler</title>
-  </programme>
-  <programme start="20250613200000 +0300" stop="20250613221500 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Dreamcoın</title>
-  </programme>
-  <programme start="20250613221500 +0300" stop="20250614000000 +0300" channel="SİNEMA YERLİ">
-    <title lang="tr">Dilemma</title>
-  </programme>
-  <channel id="beinhbr">
-    <display-name lang="tr">Bein Sports Haber</display-name>
-    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" />
-    <url>http://www.beinsports.com.tr</url>
-  </channel>
-  <channel id="beinspor1">
-    <display-name lang="tr">Beinsports</display-name>
-    <url>http://www.beinsports.com.tr</url>
-  </channel>
-  <channel id="beinspor2">
-    <display-name lang="tr">Beinsports 2</display-name>
-    <url>http://www.beinsports.com.tr</url>
-  </channel>
-  <channel id="beinspor3">
-    <display-name lang="tr">Beinsports 3</display-name>
-    <url>http://www.beinsports.com.tr</url>
-  </channel>
-  <channel id="beinspor4">
-    <display-name lang="tr">Beinsports 4</display-name>
-    <url>http://www.beinsports.com.tr</url>
-  </channel>
-  <channel id="SİNEMA 1001">
+<channel id="sinema1001.tr">
     <display-name lang="tr">SİNEMA 1001</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003348.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
-  <channel id="SİNEMA AİLE">
+  <channel id="sinemaaile.tr">
     <display-name lang="tr">SİNEMA AİLE</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210907159369.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
-  <channel id="SİNEMA AKSİYON">
+  <channel id="sinemaaksiyon.tr">
     <display-name lang="tr">SİNEMA AKSİYON</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210913164361.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
-  <channel id="SİNEMA KOMEDİ">
+  <channel id="sinemakomedi.tr">
     <display-name lang="tr">SİNEMA KOMEDİ</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210422003485.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
-  <channel id="SİNEMA TV">
+  <channel id="sinematv.tr">
     <display-name lang="tr">SİNEMA TV</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210422003521.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
-  <channel id="SİNEMA YERLİ">
+  <channel id="sinemayerli.tr">
     <display-name lang="tr">SİNEMA YERLİ</display-name>
     <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210422003522.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Teve2.tr">
     <display-name lang="tr">TEVE2</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003273.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003273.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TLC.tr">
     <display-name lang="tr">TLC</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003404.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003404.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TV4.tr">
     <display-name lang="tr">TV4</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20220107345852.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20220107345852.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TV8.tr">
     <display-name lang="tr">TV8</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20240910523045.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20240910523045.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TvNet.tr">
     <display-name lang="tr">TVNET</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220329421918.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20220329421918.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="UlusalKanal.tr">
     <display-name lang="tr">ULUSAL 1</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003468.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003468.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="UlkeTV.tr">
     <display-name lang="tr">ÜLKE TV</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003467.png" />
+    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003467.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
+  <programme start="20250610001500 +0300" stop="20250610023000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Köstebek</title>
+  </programme>
+  <programme start="20250610023000 +0300" stop="20250610043000 +0300" channel="sinema1001.tr">
+    <title lang="tr">İnternette Av</title>
+  </programme>
+  <programme start="20250610043000 +0300" stop="20250610064500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Spotlight</title>
+  </programme>
+  <programme start="20250610064500 +0300" stop="20250610091500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Çılgınlar Şehri</title>
+  </programme>
+  <programme start="20250610091500 +0300" stop="20250610110000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Frances Ha</title>
+  </programme>
+  <programme start="20250610110000 +0300" stop="20250610130000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Ah Bu Şeker!</title>
+  </programme>
+  <programme start="20250610130000 +0300" stop="20250610153000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Sevginin Gücü</title>
+  </programme>
+  <programme start="20250610153000 +0300" stop="20250610174500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Sosyal Ağ</title>
+  </programme>
+  <programme start="20250610174500 +0300" stop="20250610194500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Aradığınız İçin Teşekkürler</title>
+  </programme>
+  <programme start="20250610194500 +0300" stop="20250610220000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Whitney</title>
+  </programme>
+  <programme start="20250610220000 +0300" stop="20250610234500 +0300" channel="sinema1001.tr">
+    <title lang="tr">New York'ta Yağmurlu Bir Gün</title>
+  </programme>
+  <programme start="20250610234500 +0300" stop="20250611020000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Dracula</title>
+  </programme>
+  <programme start="20250611020000 +0300" stop="20250611043000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Çılgınlar Şehri</title>
+  </programme>
+  <programme start="20250611043000 +0300" stop="20250611063000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Ah Bu Şeker!</title>
+  </programme>
+  <programme start="20250611063000 +0300" stop="20250611081500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Ebedi Yol</title>
+  </programme>
+  <programme start="20250611081500 +0300" stop="20250611103000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Whitney</title>
+  </programme>
+  <programme start="20250611103000 +0300" stop="20250611123000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Ebe</title>
+  </programme>
+  <programme start="20250611123000 +0300" stop="20250611141500 +0300" channel="sinema1001.tr">
+    <title lang="tr">New York'ta Yağmurlu Bir Gün</title>
+  </programme>
+  <programme start="20250611141500 +0300" stop="20250611160000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Küçük Adamlar</title>
+  </programme>
+  <programme start="20250611160000 +0300" stop="20250611180000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Özgürlük Dansı</title>
+  </programme>
+  <programme start="20250611180000 +0300" stop="20250611200000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Dönüş</title>
+  </programme>
+  <programme start="20250611200000 +0300" stop="20250611220000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Cehennem Silahı</title>
+  </programme>
+  <programme start="20250611220000 +0300" stop="20250612001500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Sherlock Holmes</title>
+  </programme>
+  <programme start="20250612001500 +0300" stop="20250612023000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Sen Dünyaya Gelmeden</title>
+  </programme>
+  <programme start="20250612023000 +0300" stop="20250612043000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Ebedi Yol</title>
+  </programme>
+  <programme start="20250612043000 +0300" stop="20250612063000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Ebe</title>
+  </programme>
+  <programme start="20250612063000 +0300" stop="20250612083000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Oyun Ruhu</title>
+  </programme>
+  <programme start="20250612083000 +0300" stop="20250612104500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Sherlock Holmes</title>
+  </programme>
+  <programme start="20250612104500 +0300" stop="20250612131500 +0300" channel="sinema1001.tr">
+    <title lang="tr">İlk Şövalye</title>
+  </programme>
+  <programme start="20250612131500 +0300" stop="20250612150000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Kara Kış</title>
+  </programme>
+  <programme start="20250612150000 +0300" stop="20250612174500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Son İmparator</title>
+  </programme>
+  <programme start="20250612174500 +0300" stop="20250612200000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Tehlikeli Oyun</title>
+  </programme>
+  <programme start="20250612200000 +0300" stop="20250612220000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Cehennem Silahı 2</title>
+  </programme>
+  <programme start="20250612220000 +0300" stop="20250613001500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Aşka Şans Ver</title>
+  </programme>
+  <programme start="20250613001500 +0300" stop="20250613020000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Tuhaf Ev</title>
+  </programme>
+  <programme start="20250613020000 +0300" stop="20250613034500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Oyun Ruhu</title>
+  </programme>
+  <programme start="20250613034500 +0300" stop="20250613061500 +0300" channel="sinema1001.tr">
+    <title lang="tr">İlk Şövalye</title>
+  </programme>
+  <programme start="20250613061500 +0300" stop="20250613083000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Aydınlığın Kalbi</title>
+  </programme>
+  <programme start="20250613083000 +0300" stop="20250613104500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Aşka Şans Ver</title>
+  </programme>
+  <programme start="20250613104500 +0300" stop="20250613131500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Balıkçı Kral</title>
+  </programme>
+  <programme start="20250613131500 +0300" stop="20250613153000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Who We Are - A Chronıcle Of Racısm In America</title>
+  </programme>
+  <programme start="20250613153000 +0300" stop="20250613180000 +0300" channel="sinema1001.tr">
+    <title lang="tr">Yenilmez</title>
+  </programme>
+  <programme start="20250613180000 +0300" stop="20250613201500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Nefes</title>
+  </programme>
+  <programme start="20250613201500 +0300" stop="20250613220000 +0300" channel="sinema1001.tr">
+    <title lang="tr">İhtiyar Adam Ve Silah</title>
+  </programme>
+  <programme start="20250613220000 +0300" stop="20250614001500 +0300" channel="sinema1001.tr">
+    <title lang="tr">Beyaz Şövalyeler</title>
+  </programme>
+  <programme start="20250610004500 +0300" stop="20250610012200 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250610012200 +0300" stop="20250610021500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250610021500 +0300" stop="20250610041500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Fırtına Çocuk</title>
+  </programme>
+  <programme start="20250610041500 +0300" stop="20250610060000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Tavşan Peter</title>
+  </programme>
+  <programme start="20250610060000 +0300" stop="20250610072000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Aynadaki Çocuk</title>
+  </programme>
+  <programme start="20250610072000 +0300" stop="20250610074500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları 1</title>
+  </programme>
+  <programme start="20250610074500 +0300" stop="20250610093000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">What The Finn: Summer Of Surprises</title>
+  </programme>
+  <programme start="20250610093000 +0300" stop="20250610111500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Bo'nun Eğlenceli Tatili</title>
+  </programme>
+  <programme start="20250610111500 +0300" stop="20250610124500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Karlar Kraliçesi Ve Prenses</title>
+  </programme>
+  <programme start="20250610124500 +0300" stop="20250610144500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Talihsiz Sophıe</title>
+  </programme>
+  <programme start="20250610144500 +0300" stop="20250610164500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Genç Wınnetou Ve Kayıp Buffalolar</title>
+  </programme>
+  <programme start="20250610164500 +0300" stop="20250610181500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Ormanın Süper Kahramanı</title>
+  </programme>
+  <programme start="20250610181500 +0300" stop="20250610200000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Küçük Vampir</title>
+  </programme>
+  <programme start="20250610200000 +0300" stop="20250610214500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Dragon Rider</title>
+  </programme>
+  <programme start="20250610214500 +0300" stop="20250610234500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Rıo 2</title>
+  </programme>
+  <programme start="20250610234500 +0300" stop="20250611013000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Karlar Kralı Norm</title>
+  </programme>
+  <programme start="20250611013000 +0300" stop="20250611020700 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250611020700 +0300" stop="20250611030000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250611030000 +0300" stop="20250611043000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Aynadaki Çocuk</title>
+  </programme>
+  <programme start="20250611043000 +0300" stop="20250611061500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Bo'nun Eğlenceli Tatili</title>
+  </programme>
+  <programme start="20250611061500 +0300" stop="20250611073600 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Pororo</title>
+  </programme>
+  <programme start="20250611073600 +0300" stop="20250611080000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları 1</title>
+  </programme>
+  <programme start="20250611080000 +0300" stop="20250611094500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Küçük Vampir</title>
+  </programme>
+  <programme start="20250611094500 +0300" stop="20250611111500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Eğlence Sınıfı</title>
+  </programme>
+  <programme start="20250611111500 +0300" stop="20250611130000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Dragon Rider</title>
+  </programme>
+  <programme start="20250611130000 +0300" stop="20250611144500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Sevimli Kedi İş Başında</title>
+  </programme>
+  <programme start="20250611144500 +0300" stop="20250611163000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Misyon : Eğlence Okulu</title>
+  </programme>
+  <programme start="20250611163000 +0300" stop="20250611181500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kurbağa Prens</title>
+  </programme>
+  <programme start="20250611181500 +0300" stop="20250611200000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Otel Transilvanya</title>
+  </programme>
+  <programme start="20250611200000 +0300" stop="20250611214500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Buz Devri 4: Kıtalar Ayrılıyor</title>
+  </programme>
+  <programme start="20250611214500 +0300" stop="20250611233000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Troll: Kuyruklu Macera</title>
+  </programme>
+  <programme start="20250611233000 +0300" stop="20250612013000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Bıbı Ve Tına 2</title>
+  </programme>
+  <programme start="20250612013000 +0300" stop="20250612020700 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250612020700 +0300" stop="20250612030000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250612030000 +0300" stop="20250612044500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Pororo</title>
+  </programme>
+  <programme start="20250612044500 +0300" stop="20250612063000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Misyon : Eğlence Okulu</title>
+  </programme>
+  <programme start="20250612063000 +0300" stop="20250612081500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kocaayak Ve Oğlu</title>
+  </programme>
+  <programme start="20250612081500 +0300" stop="20250612100000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kurbağa Prens</title>
+  </programme>
+  <programme start="20250612100000 +0300" stop="20250612113100 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Roborex'in Maceraları</title>
+  </programme>
+  <programme start="20250612113100 +0300" stop="20250612120000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları 2</title>
+  </programme>
+  <programme start="20250612120000 +0300" stop="20250612134500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Otel Transilvanya</title>
+  </programme>
+  <programme start="20250612134500 +0300" stop="20250612153000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Sevimli Kedi İş Başında 2</title>
+  </programme>
+  <programme start="20250612153000 +0300" stop="20250612180000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kayıp Zamanlar</title>
+  </programme>
+  <programme start="20250612180000 +0300" stop="20250612200000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Dora Ve Kayıp Altın Şehri</title>
+  </programme>
+  <programme start="20250612200000 +0300" stop="20250612214500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">One Direction: This Is Us</title>
+  </programme>
+  <programme start="20250612214500 +0300" stop="20250612233000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kranston Akademi: Canavar Bölgesi</title>
+  </programme>
+  <programme start="20250612233000 +0300" stop="20250613011500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kahraman Kuyruklar</title>
+  </programme>
+  <programme start="20250613011500 +0300" stop="20250613015200 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250613015200 +0300" stop="20250613024500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları</title>
+  </programme>
+  <programme start="20250613024500 +0300" stop="20250613043000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Kocaayak Ve Oğlu</title>
+  </programme>
+  <programme start="20250613043000 +0300" stop="20250613061500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Roborex'in Maceraları</title>
+  </programme>
+  <programme start="20250613061500 +0300" stop="20250613074600 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Büyük Macera 2: Sürpriz Misafir</title>
+  </programme>
+  <programme start="20250613074600 +0300" stop="20250613081500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Orman Dostları 2</title>
+  </programme>
+  <programme start="20250613081500 +0300" stop="20250613101500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Dora Ve Kayıp Altın Şehri</title>
+  </programme>
+  <programme start="20250613101500 +0300" stop="20250613121500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Genç Cadı</title>
+  </programme>
+  <programme start="20250613121500 +0300" stop="20250613140000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">One Direction: This Is Us</title>
+  </programme>
+  <programme start="20250613140000 +0300" stop="20250613154500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Ayı Kardeşler: Vahşi Yaşam</title>
+  </programme>
+  <programme start="20250613154500 +0300" stop="20250613174500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Çılgın Futbol Takımı 6</title>
+  </programme>
+  <programme start="20250613174500 +0300" stop="20250613200000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Oyun Kurucu</title>
+  </programme>
+  <programme start="20250613200000 +0300" stop="20250613220000 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Percy Jackson: Canavarlar Denizi</title>
+  </programme>
+  <programme start="20250613220000 +0300" stop="20250613234500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Meraklı Kedinin 10 Yaşamı</title>
+  </programme>
+  <programme start="20250613234500 +0300" stop="20250614011500 +0300" channel="sinemaaile.tr">
+    <title lang="tr">Hayalet Hikayesi</title>
+  </programme>
+  <programme start="20250610001500 +0300" stop="20250610014500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Transporter 2</title>
+  </programme>
+  <programme start="20250610014500 +0300" stop="20250610033000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Anaconda</title>
+  </programme>
+  <programme start="20250610033000 +0300" stop="20250610051500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Kopuş</title>
+  </programme>
+  <programme start="20250610051500 +0300" stop="20250610071500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Yarınki İş</title>
+  </programme>
+  <programme start="20250610071500 +0300" stop="20250610094500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">The Division</title>
+  </programme>
+  <programme start="20250610094500 +0300" stop="20250610121500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Beyaz Saray Düştü</title>
+  </programme>
+  <programme start="20250610121500 +0300" stop="20250610143000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">60 Saniye</title>
+  </programme>
+  <programme start="20250610143000 +0300" stop="20250610164500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Yeter</title>
+  </programme>
+  <programme start="20250610164500 +0300" stop="20250610191500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Gran Turismo</title>
+  </programme>
+  <programme start="20250610191500 +0300" stop="20250610220000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Batman V Superman: Adaletin Şafağı</title>
+  </programme>
+  <programme start="20250610220000 +0300" stop="20250610234500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Escalation</title>
+  </programme>
+  <programme start="20250610234500 +0300" stop="20250611013000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Kardeşlik</title>
+  </programme>
+  <programme start="20250611013000 +0300" stop="20250611031500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Kötü Ruh</title>
+  </programme>
+  <programme start="20250611031500 +0300" stop="20250611053000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">The Division</title>
+  </programme>
+  <programme start="20250611053000 +0300" stop="20250611073000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">60 Saniye</title>
+  </programme>
+  <programme start="20250611073000 +0300" stop="20250611093000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Mob Land</title>
+  </programme>
+  <programme start="20250611093000 +0300" stop="20250611121500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Batman V Superman: Adaletin Şafağı</title>
+  </programme>
+  <programme start="20250611121500 +0300" stop="20250611141500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Zlatan İbrahimovic</title>
+  </programme>
+  <programme start="20250611141500 +0300" stop="20250611160000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Escalation</title>
+  </programme>
+  <programme start="20250611160000 +0300" stop="20250611183000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Örümcek Adam: Eve Dönüş</title>
+  </programme>
+  <programme start="20250611183000 +0300" stop="20250611203000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Bloodshot: Durdurulamaz Güç</title>
+  </programme>
+  <programme start="20250611203000 +0300" stop="20250611220000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Telefon Kulübesi</title>
+  </programme>
+  <programme start="20250611220000 +0300" stop="20250612003000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Transformers</title>
+  </programme>
+  <programme start="20250612003000 +0300" stop="20250612021500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Simülasyon</title>
+  </programme>
+  <programme start="20250612021500 +0300" stop="20250612041500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Mob Land</title>
+  </programme>
+  <programme start="20250612041500 +0300" stop="20250612060000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Zlatan İbrahimovic</title>
+  </programme>
+  <programme start="20250612060000 +0300" stop="20250612080000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Transfüzyon</title>
+  </programme>
+  <programme start="20250612080000 +0300" stop="20250612100000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Bloodshot: Durdurulamaz Güç</title>
+  </programme>
+  <programme start="20250612100000 +0300" stop="20250612121500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Madame Web</title>
+  </programme>
+  <programme start="20250612121500 +0300" stop="20250612134500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Telefon Kulübesi</title>
+  </programme>
+  <programme start="20250612134500 +0300" stop="20250612160000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Örümcek-adam: Evden Uzakta</title>
+  </programme>
+  <programme start="20250612160000 +0300" stop="20250612174500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Hepsini Öldür 2</title>
+  </programme>
+  <programme start="20250612174500 +0300" stop="20250612191500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">600 Mil</title>
+  </programme>
+  <programme start="20250612191500 +0300" stop="20250612220000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Transformers: Yenilenlerin İntikamı</title>
+  </programme>
+  <programme start="20250612220000 +0300" stop="20250613000000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Maskenin Ardında</title>
+  </programme>
+  <programme start="20250613000000 +0300" stop="20250613014500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Gladyatör</title>
+  </programme>
+  <programme start="20250613014500 +0300" stop="20250613033000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Bull</title>
+  </programme>
+  <programme start="20250613033000 +0300" stop="20250613053000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Transfüzyon</title>
+  </programme>
+  <programme start="20250613053000 +0300" stop="20250613073000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Madame Web</title>
+  </programme>
+  <programme start="20250613073000 +0300" stop="20250613093000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Üşütük Kafalar</title>
+  </programme>
+  <programme start="20250613093000 +0300" stop="20250613111500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Hepsini Öldür 2</title>
+  </programme>
+  <programme start="20250613111500 +0300" stop="20250613133000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Tombiruo</title>
+  </programme>
+  <programme start="20250613133000 +0300" stop="20250613151500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">600 Mil</title>
+  </programme>
+  <programme start="20250613151500 +0300" stop="20250613171500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Havada Dehşet 1971</title>
+  </programme>
+  <programme start="20250613171500 +0300" stop="20250613191500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Konvoy</title>
+  </programme>
+  <programme start="20250613191500 +0300" stop="20250613220000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Transformers: Ay'ın Karanlık Yüzü</title>
+  </programme>
+  <programme start="20250613220000 +0300" stop="20250613234500 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Aeon Flux</title>
+  </programme>
+  <programme start="20250613234500 +0300" stop="20250614020000 +0300" channel="sinemaaksiyon.tr">
+    <title lang="tr">Bad Boys: Her Zaman Çılgın</title>
+  </programme>
+  <programme start="20250610013000 +0300" stop="20250610030000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Monk</title>
+  </programme>
+  <programme start="20250610030000 +0300" stop="20250610044500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">İnce Buz</title>
+  </programme>
+  <programme start="20250610044500 +0300" stop="20250610070000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">50 KM/h</title>
+  </programme>
+  <programme start="20250610070000 +0300" stop="20250610084500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Josephıne</title>
+  </programme>
+  <programme start="20250610084500 +0300" stop="20250610101500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Los Angeles'ta Aşk</title>
+  </programme>
+  <programme start="20250610101500 +0300" stop="20250610121500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Çocuk Yok</title>
+  </programme>
+  <programme start="20250610121500 +0300" stop="20250610143000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Aşk Doktoru</title>
+  </programme>
+  <programme start="20250610143000 +0300" stop="20250610160000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Fransız Mutfağı</title>
+  </programme>
+  <programme start="20250610160000 +0300" stop="20250610180000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">En İyi Arkadaşım Evleniyor</title>
+  </programme>
+  <programme start="20250610180000 +0300" stop="20250610200000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Gerçek Öpücük</title>
+  </programme>
+  <programme start="20250610200000 +0300" stop="20250610213000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Salaklar Sofrası</title>
+  </programme>
+  <programme start="20250610213000 +0300" stop="20250610233000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Nefret Oyunu</title>
+  </programme>
+  <programme start="20250610233000 +0300" stop="20250611013000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Küçük Bir Rica</title>
+  </programme>
+  <programme start="20250611013000 +0300" stop="20250611031500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Hafıza Kaybı</title>
+  </programme>
+  <programme start="20250611031500 +0300" stop="20250611050000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Josephıne</title>
+  </programme>
+  <programme start="20250611050000 +0300" stop="20250611070000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Çocuk Yok</title>
+  </programme>
+  <programme start="20250611070000 +0300" stop="20250611091500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Çılgın Tatil</title>
+  </programme>
+  <programme start="20250611091500 +0300" stop="20250611104500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Salaklar Sofrası</title>
+  </programme>
+  <programme start="20250611104500 +0300" stop="20250611123000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Yargıç</title>
+  </programme>
+  <programme start="20250611123000 +0300" stop="20250611143000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Nefret Oyunu</title>
+  </programme>
+  <programme start="20250611143000 +0300" stop="20250611163000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">En Güzel Günüm</title>
+  </programme>
+  <programme start="20250611163000 +0300" stop="20250611181500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Ibıza</title>
+  </programme>
+  <programme start="20250611181500 +0300" stop="20250611194500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Musıcal Chaırs</title>
+  </programme>
+  <programme start="20250611194500 +0300" stop="20250611213000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Seninle Birlikte</title>
+  </programme>
+  <programme start="20250611213000 +0300" stop="20250611233000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Roxanne</title>
+  </programme>
+  <programme start="20250611233000 +0300" stop="20250612013000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Tam Olarak Ne Oldu?</title>
+  </programme>
+  <programme start="20250612013000 +0300" stop="20250612030000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Yol Serüveni</title>
+  </programme>
+  <programme start="20250612030000 +0300" stop="20250612051500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Çılgın Tatil</title>
+  </programme>
+  <programme start="20250612051500 +0300" stop="20250612070000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Yargıç</title>
+  </programme>
+  <programme start="20250612070000 +0300" stop="20250612084500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Senaryo</title>
+  </programme>
+  <programme start="20250612084500 +0300" stop="20250612103000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Seninle Birlikte</title>
+  </programme>
+  <programme start="20250612103000 +0300" stop="20250612124500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Yeni Nesil Aşklar</title>
+  </programme>
+  <programme start="20250612124500 +0300" stop="20250612144500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Roxanne</title>
+  </programme>
+  <programme start="20250612144500 +0300" stop="20250612163000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Geç Anlayanlar</title>
+  </programme>
+  <programme start="20250612163000 +0300" stop="20250612183000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Benimle Evlenir Misin?</title>
+  </programme>
+  <programme start="20250612183000 +0300" stop="20250612200000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Botswanga Timsahları</title>
+  </programme>
+  <programme start="20250612200000 +0300" stop="20250612213000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Bir Garip Aşk</title>
+  </programme>
+  <programme start="20250612213000 +0300" stop="20250612231500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Long Weekend</title>
+  </programme>
+  <programme start="20250612231500 +0300" stop="20250613013000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Kırılgan</title>
+  </programme>
+  <programme start="20250613013000 +0300" stop="20250613031500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Josephıne 2</title>
+  </programme>
+  <programme start="20250613031500 +0300" stop="20250613044500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Senaryo</title>
+  </programme>
+  <programme start="20250613044500 +0300" stop="20250613070000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Yeni Nesil Aşklar</title>
+  </programme>
+  <programme start="20250613070000 +0300" stop="20250613084500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Davetsiz Misafir</title>
+  </programme>
+  <programme start="20250613084500 +0300" stop="20250613101500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Bir Garip Aşk</title>
+  </programme>
+  <programme start="20250613101500 +0300" stop="20250613120000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Bağlılık</title>
+  </programme>
+  <programme start="20250613120000 +0300" stop="20250613134500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Long Weekend</title>
+  </programme>
+  <programme start="20250613134500 +0300" stop="20250613153000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Charlie'nin Melekleri</title>
+  </programme>
+  <programme start="20250613153000 +0300" stop="20250613171500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Avanak Ajanlar</title>
+  </programme>
+  <programme start="20250613171500 +0300" stop="20250613193000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">İkinci Görüşte Aşk</title>
+  </programme>
+  <programme start="20250613193000 +0300" stop="20250613213000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Evde Curcuna</title>
+  </programme>
+  <programme start="20250613213000 +0300" stop="20250613231500 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Belki Evet, Belki Hayır</title>
+  </programme>
+  <programme start="20250613231500 +0300" stop="20250614010000 +0300" channel="sinemakomedi.tr">
+    <title lang="tr">Beklenmedik Düğün</title>
+  </programme>
+  <programme start="20250610011500 +0300" stop="20250610033000 +0300" channel="sinematv.tr">
+    <title lang="tr">Çığlık 6</title>
+  </programme>
+  <programme start="20250610033000 +0300" stop="20250610053000 +0300" channel="sinematv.tr">
+    <title lang="tr">Bir Annenin Hikayesi</title>
+  </programme>
+  <programme start="20250610053000 +0300" stop="20250610071500 +0300" channel="sinematv.tr">
+    <title lang="tr">Big Sky River</title>
+  </programme>
+  <programme start="20250610071500 +0300" stop="20250610091500 +0300" channel="sinematv.tr">
+    <title lang="tr">Figaro Aşkı</title>
+  </programme>
+  <programme start="20250610091500 +0300" stop="20250610111500 +0300" channel="sinematv.tr">
+    <title lang="tr">İtalyan İşi</title>
+  </programme>
+  <programme start="20250610111500 +0300" stop="20250610130000 +0300" channel="sinematv.tr">
+    <title lang="tr">Yıllar Sonra</title>
+  </programme>
+  <programme start="20250610130000 +0300" stop="20250610150000 +0300" channel="sinematv.tr">
+    <title lang="tr">And The Party Goes On</title>
+  </programme>
+  <programme start="20250610150000 +0300" stop="20250610170000 +0300" channel="sinematv.tr">
+    <title lang="tr">Wıpe Out</title>
+  </programme>
+  <programme start="20250610170000 +0300" stop="20250610190000 +0300" channel="sinematv.tr">
+    <title lang="tr">As They Made Us</title>
+  </programme>
+  <programme start="20250610190000 +0300" stop="20250610213000 +0300" channel="sinematv.tr">
+    <title lang="tr">Şeflerin Aşkı</title>
+  </programme>
+  <programme start="20250610213000 +0300" stop="20250610231500 +0300" channel="sinematv.tr">
+    <title lang="tr">Süleyman'ın Hikayesi</title>
+  </programme>
+  <programme start="20250610231500 +0300" stop="20250611011500 +0300" channel="sinematv.tr">
+    <title lang="tr">The Boogeyman</title>
+  </programme>
+  <programme start="20250611011500 +0300" stop="20250611031500 +0300" channel="sinematv.tr">
+    <title lang="tr">Kara Cuma</title>
+  </programme>
+  <programme start="20250611031500 +0300" stop="20250611051500 +0300" channel="sinematv.tr">
+    <title lang="tr">Figaro Aşkı</title>
+  </programme>
+  <programme start="20250611051500 +0300" stop="20250611070000 +0300" channel="sinematv.tr">
+    <title lang="tr">Yıllar Sonra</title>
+  </programme>
+  <programme start="20250611070000 +0300" stop="20250611091500 +0300" channel="sinematv.tr">
+    <title lang="tr">Adaletsizlik</title>
+  </programme>
+  <programme start="20250611091500 +0300" stop="20250611110000 +0300" channel="sinematv.tr">
+    <title lang="tr">Süleyman'ın Hikayesi</title>
+  </programme>
+  <programme start="20250611110000 +0300" stop="20250611131500 +0300" channel="sinematv.tr">
+    <title lang="tr">Yedi Yaşam</title>
+  </programme>
+  <programme start="20250611131500 +0300" stop="20250611150000 +0300" channel="sinematv.tr">
+    <title lang="tr">Burada Güvende Değilsin</title>
+  </programme>
+  <programme start="20250611150000 +0300" stop="20250611171500 +0300" channel="sinematv.tr">
+    <title lang="tr">Paralel Anneler</title>
+  </programme>
+  <programme start="20250611171500 +0300" stop="20250611191500 +0300" channel="sinematv.tr">
+    <title lang="tr">Force Of Nature: The Dry 2</title>
+  </programme>
+  <programme start="20250611191500 +0300" stop="20250611213000 +0300" channel="sinematv.tr">
+    <title lang="tr">Aşkın Çekimi</title>
+  </programme>
+  <programme start="20250611213000 +0300" stop="20250611231500 +0300" channel="sinematv.tr">
+    <title lang="tr">Şeker Çocuk</title>
+  </programme>
+  <programme start="20250611231500 +0300" stop="20250612010000 +0300" channel="sinematv.tr">
+    <title lang="tr">Hounds</title>
+  </programme>
+  <programme start="20250612010000 +0300" stop="20250612024500 +0300" channel="sinematv.tr">
+    <title lang="tr">Tarot</title>
+  </programme>
+  <programme start="20250612024500 +0300" stop="20250612050000 +0300" channel="sinematv.tr">
+    <title lang="tr">Adaletsizlik</title>
+  </programme>
+  <programme start="20250612050000 +0300" stop="20250612071500 +0300" channel="sinematv.tr">
+    <title lang="tr">Yedi Yaşam</title>
+  </programme>
+  <programme start="20250612071500 +0300" stop="20250612091500 +0300" channel="sinematv.tr">
+    <title lang="tr">İz Bırakma</title>
+  </programme>
+  <programme start="20250612091500 +0300" stop="20250612113000 +0300" channel="sinematv.tr">
+    <title lang="tr">Rıcky Hıll'in İnanılmaz Hikayesi</title>
+  </programme>
+  <programme start="20250612113000 +0300" stop="20250612134500 +0300" channel="sinematv.tr">
+    <title lang="tr">Vurgun Yemek</title>
+  </programme>
+  <programme start="20250612134500 +0300" stop="20250612154500 +0300" channel="sinematv.tr">
+    <title lang="tr">Tyson's Run</title>
+  </programme>
+  <programme start="20250612154500 +0300" stop="20250612174500 +0300" channel="sinematv.tr">
+    <title lang="tr">Bir Kızla Tanıştım</title>
+  </programme>
+  <programme start="20250612174500 +0300" stop="20250612193000 +0300" channel="sinematv.tr">
+    <title lang="tr">Jazz Fest: Bir New Orleans Hikayesi</title>
+  </programme>
+  <programme start="20250612193000 +0300" stop="20250612213000 +0300" channel="sinematv.tr">
+    <title lang="tr">Unsung Hero</title>
+  </programme>
+  <programme start="20250612213000 +0300" stop="20250612233000 +0300" channel="sinematv.tr">
+    <title lang="tr">Salinger Yılım</title>
+  </programme>
+  <programme start="20250612233000 +0300" stop="20250613011500 +0300" channel="sinematv.tr">
+    <title lang="tr">Şeytanın Oğlu</title>
+  </programme>
+  <programme start="20250613011500 +0300" stop="20250613030000 +0300" channel="sinematv.tr">
+    <title lang="tr">Azap</title>
+  </programme>
+  <programme start="20250613030000 +0300" stop="20250613050000 +0300" channel="sinematv.tr">
+    <title lang="tr">İz Bırakma</title>
+  </programme>
+  <programme start="20250613050000 +0300" stop="20250613071500 +0300" channel="sinematv.tr">
+    <title lang="tr">Rıcky Hıll'in İnanılmaz Hikayesi</title>
+  </programme>
+  <programme start="20250613071500 +0300" stop="20250613093000 +0300" channel="sinematv.tr">
+    <title lang="tr">Futbolun Çocukları</title>
+  </programme>
+  <programme start="20250613093000 +0300" stop="20250613113000 +0300" channel="sinematv.tr">
+    <title lang="tr">Salinger Yılım</title>
+  </programme>
+  <programme start="20250613113000 +0300" stop="20250613134500 +0300" channel="sinematv.tr">
+    <title lang="tr">Sıradan Melekler</title>
+  </programme>
+  <programme start="20250613134500 +0300" stop="20250613153000 +0300" channel="sinematv.tr">
+    <title lang="tr">Bazen Ölmeyi Düşünüyorum</title>
+  </programme>
+  <programme start="20250613153000 +0300" stop="20250613174500 +0300" channel="sinematv.tr">
+    <title lang="tr">55 Adım</title>
+  </programme>
+  <programme start="20250613174500 +0300" stop="20250613194500 +0300" channel="sinematv.tr">
+    <title lang="tr">Alacakaranlığın Evresi</title>
+  </programme>
+  <programme start="20250613194500 +0300" stop="20250613213000 +0300" channel="sinematv.tr">
+    <title lang="tr">Düğün Marşı 2: Aşk Tesisi</title>
+  </programme>
+  <programme start="20250613213000 +0300" stop="20250613231500 +0300" channel="sinematv.tr">
+    <title lang="tr">Son Sahne</title>
+  </programme>
+  <programme start="20250613231500 +0300" stop="20250614013000 +0300" channel="sinematv.tr">
+    <title lang="tr">Hayvan Krallığı</title>
+  </programme>
+  <programme start="20250610013000 +0300" stop="20250610033000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Gamonya: Hayaller Ülkesi</title>
+  </programme>
+  <programme start="20250610033000 +0300" stop="20250610051500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Hayati Tehlike</title>
+  </programme>
+  <programme start="20250610051500 +0300" stop="20250610071500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Acı Tatlı Ekşi</title>
+  </programme>
+  <programme start="20250610071500 +0300" stop="20250610084500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Zuhal</title>
+  </programme>
+  <programme start="20250610084500 +0300" stop="20250610103000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Hesapta Aşk</title>
+  </programme>
+  <programme start="20250610103000 +0300" stop="20250610124500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Çiçero</title>
+  </programme>
+  <programme start="20250610124500 +0300" stop="20250610144500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Kolonya Cumhuriyeti</title>
+  </programme>
+  <programme start="20250610144500 +0300" stop="20250610164500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Eyyvah Eyvah 2</title>
+  </programme>
+  <programme start="20250610164500 +0300" stop="20250610183000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Gürbüz: Hadi Allah'a Emanet</title>
+  </programme>
+  <programme start="20250610183000 +0300" stop="20250610200000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bir Garip Yolcu</title>
+  </programme>
+  <programme start="20250610200000 +0300" stop="20250610220000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bomboş</title>
+  </programme>
+  <programme start="20250610220000 +0300" stop="20250610234500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bir Varmış Bir Yokmuş</title>
+  </programme>
+  <programme start="20250610234500 +0300" stop="20250611013000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Cinnet</title>
+  </programme>
+  <programme start="20250611013000 +0300" stop="20250611033000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Masal Şatosu: Sihirli Davet</title>
+  </programme>
+  <programme start="20250611033000 +0300" stop="20250611050000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Zuhal</title>
+  </programme>
+  <programme start="20250611050000 +0300" stop="20250611071500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Çiçero</title>
+  </programme>
+  <programme start="20250611071500 +0300" stop="20250611084500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Nereye Bakıyor Bu Adamlar</title>
+  </programme>
+  <programme start="20250611084500 +0300" stop="20250611101500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bir Garip Yolcu</title>
+  </programme>
+  <programme start="20250611101500 +0300" stop="20250611121500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Ah Be Birader</title>
+  </programme>
+  <programme start="20250611121500 +0300" stop="20250611141500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bomboş</title>
+  </programme>
+  <programme start="20250611141500 +0300" stop="20250611161500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Eyyvah Eyvah 3</title>
+  </programme>
+  <programme start="20250611161500 +0300" stop="20250611180000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Git Başımdan</title>
+  </programme>
+  <programme start="20250611180000 +0300" stop="20250611200000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Sesinde Aşk Var</title>
+  </programme>
+  <programme start="20250611200000 +0300" stop="20250611221500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bayi Toplantısı</title>
+  </programme>
+  <programme start="20250611221500 +0300" stop="20250612001500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Silsile</title>
+  </programme>
+  <programme start="20250612001500 +0300" stop="20250612021500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Poyraz Karayel: Küresel Sermaye</title>
+  </programme>
+  <programme start="20250612021500 +0300" stop="20250612040000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Hayat Bayram Olsa</title>
+  </programme>
+  <programme start="20250612040000 +0300" stop="20250612054500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Nereye Bakıyor Bu Adamlar</title>
+  </programme>
+  <programme start="20250612054500 +0300" stop="20250612074500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Ah Be Birader</title>
+  </programme>
+  <programme start="20250612074500 +0300" stop="20250612094500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Sırrını Biliyorum</title>
+  </programme>
+  <programme start="20250612094500 +0300" stop="20250612114500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Sesinde Aşk Var</title>
+  </programme>
+  <programme start="20250612114500 +0300" stop="20250612134500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Hedefim Sensin</title>
+  </programme>
+  <programme start="20250612134500 +0300" stop="20250612160000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Bayi Toplantısı</title>
+  </programme>
+  <programme start="20250612160000 +0300" stop="20250612174500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Yalan Dolan</title>
+  </programme>
+  <programme start="20250612174500 +0300" stop="20250612200000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Türk İşi Dondurma</title>
+  </programme>
+  <programme start="20250612200000 +0300" stop="20250612223000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Cebimde Kelimeler</title>
+  </programme>
+  <programme start="20250612223000 +0300" stop="20250613001500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Acı Aşk</title>
+  </programme>
+  <programme start="20250613001500 +0300" stop="20250613021500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">El-cin</title>
+  </programme>
+  <programme start="20250613021500 +0300" stop="20250613041500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Sırrını Biliyorum</title>
+  </programme>
+  <programme start="20250613041500 +0300" stop="20250613061500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Hedefim Sensin</title>
+  </programme>
+  <programme start="20250613061500 +0300" stop="20250613081500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Hıçkırık</title>
+  </programme>
+  <programme start="20250613081500 +0300" stop="20250613103000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Türk İşi Dondurma</title>
+  </programme>
+  <programme start="20250613103000 +0300" stop="20250613124500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Saklı Yüzler</title>
+  </programme>
+  <programme start="20250613124500 +0300" stop="20250613153000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Cebimde Kelimeler</title>
+  </programme>
+  <programme start="20250613153000 +0300" stop="20250613173000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Sümela'nın Şifresi 3: Cünyor Temel</title>
+  </programme>
+  <programme start="20250613173000 +0300" stop="20250613200000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Kurak Günler</title>
+  </programme>
+  <programme start="20250613200000 +0300" stop="20250613221500 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Dreamcoın</title>
+  </programme>
+  <programme start="20250613221500 +0300" stop="20250614000000 +0300" channel="sinemayerli.tr">
+    <title lang="tr">Dilemma</title>
+  </programme>
   <programme start="20250610011700 +0300" stop="20250610022600 +0300" channel="Teve2.tr">
     <title lang="tr">Kelime Oyunu</title>
   </programme>
@@ -8435,10 +8414,10 @@
   <programme start="20250610142900 +0300" stop="20250610153000 +0300" channel="TLC.tr">
     <title lang="tr">Su Gibi Evler</title>
   </programme>
-  <programme start="20250610153000 +0300" stop="20250610163000 +0300" channel="TLC.tr">
+  <programme start="20250610153000 +0300" stop="20250610162800 +0300" channel="TLC.tr">
     <title lang="tr">Hawaii Evleri Yenileniyor</title>
   </programme>
-  <programme start="20250610163000 +0300" stop="20250610173000 +0300" channel="TLC.tr">
+  <programme start="20250610162800 +0300" stop="20250610173000 +0300" channel="TLC.tr">
     <title lang="tr">Jason Atherton ile Dubai Lezzetleri</title>
   </programme>
   <programme start="20250610173000 +0300" stop="20250610183000 +0300" channel="TLC.tr">

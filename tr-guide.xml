@@ -22,7 +22,7 @@
   </channel>
   <channel id="A2TV.tr">
     <display-name lang="tr">A2</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003091.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003091.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="AkitTV.tr">
@@ -37,7 +37,7 @@
   </channel>
   <channel id="BenguturkTV.tr">
     <display-name lang="tr">BENGÜTÜRK</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20241115587029.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20241115587029.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BeyazTV.tr">
@@ -57,7 +57,7 @@
   </channel>
   <channel id="DMAX.tr">
     <display-name lang="tr">DMAX</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20241115586728.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20241115586728.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Ekoturk.tr">
@@ -117,7 +117,7 @@
   </channel>
   <channel id="TRT2.tr">
     <display-name lang="tr">TRT 2</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003447.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003447.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT3Spor.tr">
@@ -3765,10 +3765,10 @@
   <programme start="20250612110000 +0300" stop="20250612133000 +0300" channel="KanalD.tr">
     <title lang="tr">Yaprak Dökümü</title>
   </programme>
-  <programme start="20250612133000 +0300" stop="20250612164500 +0300" channel="KanalD.tr">
-    <title lang="tr">Gelinim Mutfakta</title>
+  <programme start="20250612133000 +0300" stop="20250612163600 +0300" channel="KanalD.tr">
+    <title lang="tr">Gelinim Mutfakta - 12.06.2025</title>
   </programme>
-  <programme start="20250612164500 +0300" stop="20250612190000 +0300" channel="KanalD.tr">
+  <programme start="20250612163600 +0300" stop="20250612190000 +0300" channel="KanalD.tr">
     <title lang="tr">Aşk-ı Memnu</title>
   </programme>
   <programme start="20250612190000 +0300" stop="20250612200000 +0300" channel="KanalD.tr">
@@ -5076,10 +5076,10 @@
   <programme start="20250613190000 +0300" stop="20250613200000 +0300" channel="StarTV.tr">
     <title lang="tr">Star Haber</title>
   </programme>
-  <programme start="20250613200000 +0300" stop="20250613223000 +0300" channel="StarTV.tr">
+  <programme start="20250613200000 +0300" stop="20250613220000 +0300" channel="StarTV.tr">
     <title lang="tr">Kocan Kadar Konuş</title>
   </programme>
-  <programme start="20250613223000 +0300" stop="20250614003000 +0300" channel="StarTV.tr">
+  <programme start="20250613220000 +0300" stop="20250614003000 +0300" channel="StarTV.tr">
     <title lang="tr">Dizi</title>
   </programme>
   <programme start="20250614003000 +0300" stop="20250614030000 +0300" channel="StarTV.tr">
@@ -7349,67 +7349,67 @@
   </programme>
   <channel id="sinema1001.tr">
     <display-name lang="tr">SİNEMA 1001</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003348.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003348.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemaaile.tr">
     <display-name lang="tr">SİNEMA AİLE</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210907159369.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210907159369.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemaaksiyon.tr">
     <display-name lang="tr">SİNEMA AKSİYON</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210913164361.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210913164361.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemakomedi.tr">
     <display-name lang="tr">SİNEMA KOMEDİ</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003485.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003485.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinematv.tr">
     <display-name lang="tr">SİNEMA TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003521.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003521.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemayerli.tr">
     <display-name lang="tr">SİNEMA YERLİ</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003522.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003522.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Teve2.tr">
     <display-name lang="tr">TEVE2</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003273.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003273.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TLC.tr">
     <display-name lang="tr">TLC</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003404.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003404.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TV4.tr">
     <display-name lang="tr">TV4</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220107345852.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20220107345852.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TV8.tr">
     <display-name lang="tr">TV8</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20240910523045.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240910523045.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TvNet.tr">
     <display-name lang="tr">TVNET</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220329421918.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20220329421918.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="UlusalKanal.tr">
     <display-name lang="tr">ULUSAL 1</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003468.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003468.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="UlkeTV.tr">
     <display-name lang="tr">ÜLKE TV</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003467.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003467.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <programme start="20250612001500 +0300" stop="20250612023000 +0300" channel="sinema1001.tr">

@@ -2,152 +2,152 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="24TV.tr">
     <display-name lang="tr">24</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211221328843.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211221328843.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="360.tr">
     <display-name lang="tr">360</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20220527479163.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220527479163.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="AHaber.tr">
     <display-name lang="tr">A HABER</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003075.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003075.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="ASpor.tr">
     <display-name lang="tr">A SPOR</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211221328663.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211221328663.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="A2TV.tr">
     <display-name lang="tr">A2</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003091.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003091.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="AkitTV.tr">
     <display-name lang="tr">AKİT TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211228335544.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211228335544.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="ATV.tr">
     <display-name lang="tr">ATV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003100.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003100.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BenguturkTV.tr">
     <display-name lang="tr">BENGÜTÜRK</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20241115587029.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20241115587029.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BeyazTV.tr">
     <display-name lang="tr">BEYAZ TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211221328962.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211221328962.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BloombergHT.tr">
     <display-name lang="tr">BLOOMBERG HT</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003112.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003112.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="CNNTurk.tr">
     <display-name lang="tr">CNN TÜRK</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211228334898.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211228334898.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="DMAX.tr">
     <display-name lang="tr">DMAX</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20241115586728.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20241115586728.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Ekoturk.tr">
     <display-name lang="tr">EKOTÜRK</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003173.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003173.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="HaberGlobal.tr">
     <display-name lang="tr">HABER GLOBAL</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003258.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003258.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="HaberturkTV.tr">
     <display-name lang="tr">HABERTÜRK</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003531.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003531.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="HalkTV.tr">
     <display-name lang="tr">HALK TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20220111348981.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220111348981.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Kanal7.tr">
     <display-name lang="tr">KANAL 7</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003304.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003304.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="KanalD.tr">
     <display-name lang="tr">KANAL D</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003282.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003282.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Now.tr">
     <display-name lang="tr">NOW</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20240212309665.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20240212309665.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="NTV.tr">
     <display-name lang="tr">NTV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211221328646.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211221328646.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="ShowTV.tr">
     <display-name lang="tr">SHOW TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003345.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003345.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="StarTV.tr">
     <display-name lang="tr">STAR TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211124298415.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211124298415.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT1.tr">
     <display-name lang="tr">TRT 1</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003408.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003408.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT2.tr">
     <display-name lang="tr">TRT 2</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003447.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003447.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT3Spor.tr">
     <display-name lang="tr">TRT 3 SPOR</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20220110347300.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220110347300.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTBelgesel.tr">
     <display-name lang="tr">TRT BELGESEL</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20250328726039.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250328726039.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTHaber.tr">
     <display-name lang="tr">TRT HABER</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003428.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003428.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTSpor.tr">
     <display-name lang="tr">TRT SPOR</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20220110347866.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220110347866.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTSporYildiz.tr">
     <display-name lang="tr">TRT SPOR YILDIZ</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210817104477.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210817104477.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTTurk.tr">
     <display-name lang="tr">TRT TÜRK</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20211130305539.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211130305539.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <programme start="20250614010000 +0300" stop="20250614020000 +0300" channel="24TV.tr">

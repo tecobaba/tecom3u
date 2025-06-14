@@ -161,7 +161,7 @@ https://w0.877e0d156ec6c09e.workers.dev/yayinbm1.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.877e0d156ec6c09e.workers.dev/yayinbm2.m3u8
 
-#EXTINF:-1 tvg-id="Spor_NBATV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
+#EXTINF:-1 tvg-id="NbaTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.877e0d156ec6c09e.workers.dev/yayinnbatv.m3u8

@@ -7233,17 +7233,13 @@
   <programme start="20250620235000 +0300" stop="20250621003500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Bir Zamanlar Kıbrıs</title>
   </programme>
-  <channel id="BeinSportsHaber.tr">
-    <display-name lang="tr">Bein Sports Haber</display-name>
-    <url>http://www.beinsports.com.tr</url>
-  </channel>
   <channel id="NatGeo.tr">
     <display-name lang="tr">NATIONAL GEOGRAPHIC</display-name>
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="SozcuTV.tr">
     <display-name lang="tr">SÖZCÜ TV</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230215906808.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230215906808.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTAvaz.tr">
@@ -7268,72 +7264,72 @@
   </channel>
   <channel id="EuroSport1.tr">
     <display-name lang="tr">EUROSPORT 1</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211228335380.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20211228335380.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="EuroSport2.tr">
     <display-name lang="tr">EUROSPORT 2</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20211228334730.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20211228334730.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="SSport.tr">
     <display-name lang="tr">S SPORT</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="SSport2.tr">
     <display-name lang="tr">S SPORT 2</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="NatGeoWild.tr">
     <display-name lang="tr">NATIONAL GEOGRAPHIC WILD</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003272.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003272.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinema1001.tr">
     <display-name lang="tr">SİNEMA 1001</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210421003348.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003348.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemaaile.tr">
     <display-name lang="tr">SİNEMA AİLE</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210907159369.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210907159369.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemaaksiyon.tr">
     <display-name lang="tr">SİNEMA AKSİYON</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210913164361.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210913164361.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemakomedi.tr">
     <display-name lang="tr">SİNEMA KOMEDİ</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003485.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003485.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinematv.tr">
     <display-name lang="tr">SİNEMA TV</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003521.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003521.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="sinemayerli.tr">
     <display-name lang="tr">SİNEMA YERLİ</display-name>
-    <icon src="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20210422003522.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210422003522.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Teve2.tr">
     <display-name lang="tr">TEVE2</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003273.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003273.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TLC.tr">
     <display-name lang="tr">TLC</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003404.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003404.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TV4.tr">
     <display-name lang="tr">TV4</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220107345852.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20220107345852.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TV8.tr">
@@ -7343,17 +7339,17 @@
   </channel>
   <channel id="TvNet.tr">
     <display-name lang="tr">TVNET</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20220329421918.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20220329421918.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="UlusalKanal.tr">
     <display-name lang="tr">ULUSAL 1</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003468.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003468.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="UlkeTV.tr">
     <display-name lang="tr">ÜLKE TV</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20210421003467.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20210421003467.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTDiyanetCocuk.tr">
@@ -7378,12 +7374,12 @@
   </channel>
   <channel id="BenguturkTV.tr">
     <display-name lang="tr">BENGÜTÜRK</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20241115587029.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20241115587029.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="NbaTv.tr">
     <display-name lang="tr">NBA TV</display-name>
-    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20240611449307.png" />
+    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20240611449307.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <programme start="20250617010000 +0300" stop="20250617043000 +0300" channel="SozcuTV.tr">
@@ -17153,5 +17149,291 @@
   </programme>
   <programme start="20250620230000 +0300" stop="20250621000000 +0300" channel="NbaTv.tr">
     <title lang="tr">Marquee Matchup</title>
+  </programme>
+  <channel id="BeinSportsHaber.tr">
+    <display-name lang="tr">Bein Sports Haber</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/beinsports_haber.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="BeinSports1.tr">
+    <display-name lang="tr">Beinsports</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports1.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="BeinSports2.tr">
+    <display-name lang="tr">Beinsports 2</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports2.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="BeinSports3.tr">
+    <display-name lang="tr">Beinsports 3</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports3.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <channel id="BeinSports4.tr">
+    <display-name lang="tr">Beinsports 4</display-name>
+    <icon src="https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png|https://media-cf.tr.beinsports.com/App_Themes/2011/gfx/beinlogo/bein_sports4.png" />
+    <url>http://www.beinsports.com.tr</url>
+  </channel>
+  <programme start="20250617073000 +0300" stop="20250617080000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20250617080000 +0300" stop="20250617083000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20250617083000 +0300" stop="20250617090000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">The Outdoor Sports Show</title>
+  </programme>
+  <programme start="20250617090000 +0300" stop="20250617100000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250617100000 +0300" stop="20250617103000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250617103000 +0300" stop="20250617110000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
+  </programme>
+  <programme start="20250617110000 +0300" stop="20250617120000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Premier League Maç Özetleri</title>
+  </programme>
+  <programme start="20250617120000 +0300" stop="20250617123000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun En Güzel Golleri</title>
+  </programme>
+  <programme start="20250617123000 +0300" stop="20250617130000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun En Güzel Golleri</title>
+  </programme>
+  <programme start="20250617130000 +0300" stop="20250617143000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Gün Ortası</title>
+  </programme>
+  <programme start="20250617143000 +0300" stop="20250617144500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">TFF 1. Lig Gol Kralı</title>
+  </programme>
+  <programme start="20250617144500 +0300" stop="20250617150000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">TFF 1. Lig Gol Kralı</title>
+  </programme>
+  <programme start="20250617150000 +0300" stop="20250617153000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun Hikayeleri</title>
+  </programme>
+  <programme start="20250617153000 +0300" stop="20250617160000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun Hikayeleri</title>
+  </programme>
+  <programme start="20250617160000 +0300" stop="20250617161500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun Hikayeleri</title>
+  </programme>
+  <programme start="20250617161500 +0300" stop="20250617163000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun Hikayeleri</title>
+  </programme>
+  <programme start="20250617163000 +0300" stop="20250617170000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250617170000 +0300" stop="20250617180000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250617180000 +0300" stop="20250617183000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250617183000 +0300" stop="20250617193000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">beIN SQUAD</title>
+  </programme>
+  <programme start="20250617193000 +0300" stop="20250617194500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Rakamlarla Şampiyon</title>
+  </programme>
+  <programme start="20250617194500 +0300" stop="20250617203000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">beIN Basketbol Maç Önü</title>
+  </programme>
+  <programme start="20250617203000 +0300" stop="20250617223000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Fenerbahçe - Beşiktaş</title>
+  </programme>
+  <programme start="20250617223000 +0300" stop="20250617231500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">beIN Basketbol Maç Sonu</title>
+  </programme>
+  <programme start="20250617231500 +0300" stop="20250617233000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun Hikayeleri</title>
+  </programme>
+  <programme start="20250617233000 +0300" stop="20250617234500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Sezonun Hikayeleri</title>
+  </programme>
+  <programme start="20250617100000 +0300" stop="20250617114500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Gaziantep FK - Başakşehir FK</title>
+  </programme>
+  <programme start="20250617114500 +0300" stop="20250617120000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617120000 +0300" stop="20250617134500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Trabzonspor - Adana Demirspor</title>
+  </programme>
+  <programme start="20250617134500 +0300" stop="20250617140000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617140000 +0300" stop="20250617154500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Beşiktaş - Göztepe</title>
+  </programme>
+  <programme start="20250617154500 +0300" stop="20250617160000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617160000 +0300" stop="20250617174500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Kayserispor - Fenerbahçe</title>
+  </programme>
+  <programme start="20250617174500 +0300" stop="20250617180000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617180000 +0300" stop="20250617200000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Bodrum FK - Galatasaray</title>
+  </programme>
+  <programme start="20250617200000 +0300" stop="20250617210000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Süper Lig Maç Özetleri</title>
+  </programme>
+  <programme start="20250617210000 +0300" stop="20250617223000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Spor Turu</title>
+  </programme>
+  <programme start="20250617223000 +0300" stop="20250617230000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Sezonun Golleri</title>
+  </programme>
+  <programme start="20250617230000 +0300" stop="20250617233000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Sezonun Golleri</title>
+  </programme>
+  <programme start="20250617074500 +0300" stop="20250617080000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617080000 +0300" stop="20250617094500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Karagümrük - Boluspor</title>
+  </programme>
+  <programme start="20250617094500 +0300" stop="20250617100000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617100000 +0300" stop="20250617114500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Sakaryaspor - Iğdır FK</title>
+  </programme>
+  <programme start="20250617114500 +0300" stop="20250617120000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617120000 +0300" stop="20250617134500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Bandırmaspor - Gençlerbirliği</title>
+  </programme>
+  <programme start="20250617134500 +0300" stop="20250617140000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617140000 +0300" stop="20250617154500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Çorum FK - Amedspor</title>
+  </programme>
+  <programme start="20250617154500 +0300" stop="20250617160000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617160000 +0300" stop="20250617174500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Ümraniyespor - Keçiörengücü</title>
+  </programme>
+  <programme start="20250617174500 +0300" stop="20250617180000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617180000 +0300" stop="20250617194500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Kocaelispor - Erokspor</title>
+  </programme>
+  <programme start="20250617194500 +0300" stop="20250617200000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617200000 +0300" stop="20250617214500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Ankaragücü - Manisa FK</title>
+  </programme>
+  <programme start="20250617214500 +0300" stop="20250617220000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">1. Lig Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617220000 +0300" stop="20250617234500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">İstanbulspor - Erzurumspor FK</title>
+  </programme>
+  <programme start="20250617074500 +0300" stop="20250617080000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617080000 +0300" stop="20250617094500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Nottingham F. - Aston Villa</title>
+  </programme>
+  <programme start="20250617094500 +0300" stop="20250617100000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617100000 +0300" stop="20250617114500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Brighton H.A. - Crystal Palace</title>
+  </programme>
+  <programme start="20250617114500 +0300" stop="20250617120000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617120000 +0300" stop="20250617134500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Manchester City - Man. United</title>
+  </programme>
+  <programme start="20250617134500 +0300" stop="20250617140000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617140000 +0300" stop="20250617154500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Chelsea - Brentford</title>
+  </programme>
+  <programme start="20250617154500 +0300" stop="20250617160000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617160000 +0300" stop="20250617174500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Southampton-Tottenham Hotspur</title>
+  </programme>
+  <programme start="20250617174500 +0300" stop="20250617180000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617180000 +0300" stop="20250617194500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Bournemouth - West Ham United</title>
+  </programme>
+  <programme start="20250617194500 +0300" stop="20250617200000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617200000 +0300" stop="20250617220000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Liverpool - Fulham</title>
+  </programme>
+  <programme start="20250617220000 +0300" stop="20250617234500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Newcastle U. - Leicester City</title>
+  </programme>
+  <programme start="20250617054500 +0300" stop="20250617060000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617060000 +0300" stop="20250617074500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Metz - Dunkerque</title>
+  </programme>
+  <programme start="20250617074500 +0300" stop="20250617080000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617080000 +0300" stop="20250617094500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ajaccio - Paris FC</title>
+  </programme>
+  <programme start="20250617094500 +0300" stop="20250617100000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617100000 +0300" stop="20250617114500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Montpellier - Nice</title>
+  </programme>
+  <programme start="20250617114500 +0300" stop="20250617120000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617120000 +0300" stop="20250617134500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Rennes - Angers</title>
+  </programme>
+  <programme start="20250617134500 +0300" stop="20250617140000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617140000 +0300" stop="20250617154500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Brest - Nantes</title>
+  </programme>
+  <programme start="20250617154500 +0300" stop="20250617160000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617160000 +0300" stop="20250617174500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Havre - Strasbourg</title>
+  </programme>
+  <programme start="20250617174500 +0300" stop="20250617180000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250617180000 +0300" stop="20250617190000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">F1 Academy Kanada</title>
+  </programme>
+  <programme start="20250617190000 +0300" stop="20250617200000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">F1 Academy Kanada</title>
+  </programme>
+  <programme start="20250617200000 +0300" stop="20250617210000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">F1 Academy Kanada</title>
+  </programme>
+  <programme start="20250617210000 +0300" stop="20250617231500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula 1 Kanada Grand Prix</title>
   </programme>
 </tv>

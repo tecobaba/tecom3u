@@ -109,57 +109,73 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/belgesel-tv/playlist/1.
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlist/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/f438ceb7-c0a8-4b3c-9415-aea43a02b93e.png" group-title="Eğlence",Tarih TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist/1.m3u8
-#EXTINF:-1 tvg-id="beinspor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
+
+#EXTINF:-1 tvg-id="BeinSportsHaber.tr" tvg-logo="https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg" group-title="Spor",Bein Spor Haber
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
+
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz
 https://w0.fe1b096057eaa97c.workers.dev/yayinzirve.m3u8
 
-#EXTINF:-1 tvg-id="beinspor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.jestyayin941.com/
 https://w00x-cdn.pages.dev/stream/yayinzirve.m3u8
 
-#EXTINF:-1 tvg-id="beinspor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080 YDK
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD 1080 YDK
 #EXTVLCOPT:http-referrer=https://taraftarium.co/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://tecoiptv2025-ipproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW02Mi9tb25vLm0zdTg=.m3u8
 
-#EXTINF:-1 tvg-id="beinspor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD YDK2
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD YDK2
 #EXTVLCOPT:http-origin=https://pulitv18.live
 #EXTVLCOPT:http-referrer=https://pulitv18.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 http://live.artofknot.com:5090/tecolifetime/tecolifetime/41.m3u8
 #https://nxn5.xyz/cdn/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="beinspor2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
+#EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinb2.m3u8
 
-#EXTINF:-1 tvg-id="beinspor3" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
+#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinb3.m3u8
 
-#EXTINF:-1 tvg-id="beinspor4" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
+#EXTINF:-1 tvg-id="BeinSports4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinb4.m3u8
 
-#EXTINF:-1 tvg-id="Spor_beINSPORTS5" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
+#EXTINF:-1 tvg-id="BeinSports5.tr" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinb5.m3u8
 
-#EXTINF:-1 tvg-id="Spor_beINSPORTSMax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
+#EXTINF:-1 tvg-id="BeinSportsMax.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinbm1.m3u8
 
-#EXTINF:-1 tvg-id="Spor_beINSPORTSMax2" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
+#EXTINF:-1 tvg-id="BeinSportsMax2.tr" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinbm2.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
+https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
+
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
+https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
+
+#EXTINF:-1 tvg-id="HtSpor.tr" tvg-logo="https://scontent.fist7-1.fna.fbcdn.net/v/t39.30808-6/453502310_1036101271855042_601425290510615472_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0S-i4VvrNPUQ7kNvwF4ACFq&_nc_oc=AdnHxhHgK5rYHz1Zlpdd1dARuKiV7qN2Trtj2dsspH4pWptvd4fEm4tBRM0rsSNl8OA&_nc_zt=23&_nc_ht=scontent.fist7-1.fna&_nc_gid=TFCqxeTYttlFSVNvk0Eh3g&oh=00_AfPW4xX8pYdtXvCIo6APRvcy02exIkdQoIk1qCtpARlniQ&oe=6856E50F" group-title="Spor",HT Spor HD
+https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
+
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
+https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
 
 #EXTINF:-1 tvg-id="NbaTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -256,12 +272,7 @@ https://w0.fe1b096057eaa97c.workers.dev/yayinex5.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://w0.fe1b096057eaa97c.workers.dev/yayinex6.m3u8
 
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
-https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
-https://raw.githubusercontent.com/tecotv2025/tecotv/refs/heads/main/playlist/A_Spor.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
-https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
+
 # #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
 # http://stream.tvcdn.net/spor/fb-tv.m3u8
 # #EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="Spor",GS TV

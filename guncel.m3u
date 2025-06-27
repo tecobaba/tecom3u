@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",Atv
-https://kbl-chnls-m3u.tecostream.workers.dev/Atv.php
+https://stream.tecostream.xyz/Atv.php
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
@@ -73,10 +73,6 @@ https://cdn.tecostream.xyz/Benguturk_Tv.m3u8
 https://iptv.amgsmart2home.de/YOLTVMAIN/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/370c4e6f-8d30-400c-b298-c6a37b19e5dd.png" group-title="Haber",TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 1
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w17921546.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/773ca7a4-b658-4d6d-8836-e13e582c4229.png" group-title="Haber",DHA Canlı 2
-https://603c568fccdf5.streamlock.net/live2/dhaweb2/chunklist_w1005531807.m3u8
 #EXTINF:-1 tvg-id="BloombergHT.tr" tvg-logo="http://assets.tvcdn.net/2a1808ad-733e-4223-a8b3-34be18ef21f9.png" group-title="Ekonomi",Bloomberg HT
 https://cdn.tecostream.xyz/Bloomberg_Ht.m3u8
 #EXTINF:-1 tvg-id="Ekoturk.tr" tvg-logo="http://assets.tvcdn.net/99155348-56d9-49c6-a0be-50ec0ae790ec.png" group-title="Ekonomi",Ekotürk
@@ -113,7 +109,7 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/saglikli-gunler/playlis
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist/1.m3u8
 
 #EXTINF:-1 tvg-id="BeinSportsHaber.tr" tvg-logo="https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg" group-title="Spor",beIN SPORTS HABER
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Bein_Spor_Haber.m3u8
+https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -174,7 +170,7 @@ https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
 https://cdn.tecostream.xyz/A_Spor.m3u8
 
 #EXTINF:-1 tvg-id="HtSpor.tr" tvg-logo="https://scontent.fist7-1.fna.fbcdn.net/v/t39.30808-6/453502310_1036101271855042_601425290510615472_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0S-i4VvrNPUQ7kNvwF4ACFq&_nc_oc=AdnHxhHgK5rYHz1Zlpdd1dARuKiV7qN2Trtj2dsspH4pWptvd4fEm4tBRM0rsSNl8OA&_nc_zt=23&_nc_ht=scontent.fist7-1.fna&_nc_gid=TFCqxeTYttlFSVNvk0Eh3g&oh=00_AfPW4xX8pYdtXvCIo6APRvcy02exIkdQoIk1qCtpARlniQ&oe=6856E50F" group-title="Spor",HT Spor HD
-https://raw.githubusercontent.com/tecotv2025/tecotv/main/playlist/Ht_Spor.m3u8
+https://cdn.tecostream.xyz/Ht_Spor.m3u8
 
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
 https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
@@ -274,11 +270,6 @@ https://r0.4928d54d950ee70q17.lat/yayinex5.m3u8
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://r0.4928d54d950ee70q17.lat/yayinex6.m3u8
 
-
-# #EXTINF:-1 tvg-id="FBTV.tr" tvg-logo="http://assets.tvcdn.net/bf46ecf5-390b-42d0-8599-8b48b23f3bc8.png" group-title="Spor",FB TV
-# http://stream.tvcdn.net/spor/fb-tv.m3u8
-# #EXTINF:-1 tvg-id="GSTV.tr" tvg-logo="http://assets.tvcdn.net/777501f0-ebb0-450b-913e-a3c1e2e977fe.png" group-title="Spor",GS TV
-# http://stream.tvcdn.net/spor/gs-tv.m3u8
 #EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
 https://tjktv-live.tjk.org/tjktv/tjktv_720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV 2
@@ -293,27 +284,27 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/1.m3u8
 #EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png" group-title="Sinema", Sinema TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Tv.php
+https://stream.tecostream.xyz/Sinema_Tv.php
 #EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-aksiyon.png" group-title="Sinema", Sinema Aksiyon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aksiyon.php
+https://stream.tecostream.xyz/Sinema_Aksiyon.php
 #EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema_yerli.png" group-title="Sinema", Sinema Yerli
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Yerli.php
+https://stream.tecostream.xyz/Sinema_Yerli.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Aile.php
+https://stream.tecostream.xyz/Sinema_Aile.php
 #EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="Sinema", Sinema 1001
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_1001.php
+https://stream.tecostream.xyz/Sinema_1001.php
 #EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="Sinema", Sinema Komedi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://kbl-chnls-m3u.tecostream.workers.dev/Sinema_Komedi.php
+https://stream.tecostream.xyz/Sinema_Komedi.php
 #EXTINF:-1 tvg-id="BeinMoviesTurk.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-premiere-logo-2.png" group-title="Sinema",Bein Movies Türk
 https://tecostream-chnl.tecostream.workers.dev/BeinMoviesTurk.php
 #EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action

@@ -43,18 +43,16 @@ https://cdn.tecostream.xyz/Cnn_Turk.m3u8
 https://cdn.tecostream.xyz/Haber_Turk.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="http://assets.tvcdn.net/d7e11245-3318-4cfd-bd1c-bdbb03d4c76a.png" group-title="Haber",Haber Global
 https://cdn.tecostream.xyz/Haber_Global_TV.m3u8
-#EXTINF:-1 tvg-id="EkolTv.tr" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
-https://cdn.tecostream.xyz/Ekol_Tv.m3u8
-#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber",Ülke TV
-https://cdn.tecostream.xyz/Ulke_Tv.m3u8
-#EXTINF:-1 tvg-id="GztTcv.tr" tvg-logo="https://gzttv.tr/logo.png" group-title="Haber",GZT TV
-https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
-#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
-https://cdn.tecostream.xyz/Halk_Tv.m3u8
 #EXTINF:-1 tvg-id="NTV.tr" tvg-logo="http://assets.tvcdn.net/b2aa3114-53bd-4ff5-81ed-af75a28e651f.png" group-title="Haber",NTV
 https://cdn.tecostream.xyz/NTV.m3u8
 #EXTINF:-1 tvg-id="24TV.tr" tvg-logo="http://assets.tvcdn.net/49267a8f-6313-43f9-bab4-9d5f109bad1b.png" group-title="Haber",24 TV
 https://cdn.tecostream.xyz/24_Tv.m3u8
+#EXTINF:-1 tvg-id="EkolTv.tr" tvg-logo="http://assets.tvcdn.net/647d5a6c-242e-4431-a8b2-9b8ff27c01ae.png" group-title="Haber",Ekol TV
+https://cdn.tecostream.xyz/Ekol_Tv.m3u8
+#EXTINF:-1 tvg-id="UlkeTV.tr" tvg-logo="http://assets.tvcdn.net/e20947de-9a22-4e53-9f88-b69cdf278be7.png" group-title="Haber",Ülke TV
+https://cdn.tecostream.xyz/Ulke_Tv.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr" tvg-logo="http://assets.tvcdn.net/f0bcd016-8730-4700-9156-d6b678f8e554.png" group-title="Haber",Halk TV
+https://cdn.tecostream.xyz/Halk_Tv.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="http://assets.tvcdn.net/bf736fbe-8a9d-4444-adfd-99f3e7593ef9.png" group-title="Haber",Akit TV
 https://cdn.tecostream.xyz/Akit_Tv.m3u8
 #EXTINF:-1 tvg-id="SozcuTV.tr" tvg-logo="http://assets.tvcdn.net/491384df-7154-4404-8f97-2e7847655441.png" group-title="Haber",Sözcü TV
@@ -63,6 +61,10 @@ https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 https://cdn.tecostream.xyz/Tele_1.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
 https://cdn.tecostream.xyz/Tv_Net.m3u8
+#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png?20191010105720" group-title="Haber",TV 100
+https://cdn.tecostream.xyz/TV_100.m3u8
+#EXTINF:-1 tvg-id="GztTcv.tr" tvg-logo="https://gzttv.tr/logo.png" group-title="Haber",GZT TV
+https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8
 #EXTINF:-1 tvg-id="FlashTV.tr" tvg-logo="http://assets.tvcdn.net/d609d4ce-df23-4042-8537-460dc6d4ae18.png" group-title="Haber",Flash Haber
 https://cdn.tecostream.xyz/Flash_Haber.m3u8
 #EXTINF:-1 tvg-id="UlusalKanal.tr" tvg-logo="http://assets.tvcdn.net/1762dbd7-b2a4-497d-9cf0-3ecd075cf578.png" group-title="Haber",Ulusal Kanal
@@ -309,6 +311,10 @@ https://stream.tecostream.xyz/Sinema_Komedi.php
 https://tecostream-chnl.tecostream.workers.dev/BeinMoviesTurk.php
 #EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action
 https://tecostream-chnl.tecostream.workers.dev/BeinMoviesAction.php
+#EXTINF:-1 tvg-id="KemalSunal.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Kemal Sunal Filmleri
+https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8
+#EXTINF:-1 tvg-id="Yesilcam.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Yeşilçam TV
+https://cdn.tecostream.xyz/Yesilcam_Tv.m3u8
 #EXTINF:-1 tvg-name="TrtMuzik.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtMuzik.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="DreamTurk.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="DreamTurk.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",DREAM TÜRK TV

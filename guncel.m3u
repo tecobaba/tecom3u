@@ -86,7 +86,7 @@ https://cdn.tecostream.xyz/CNBC_E.m3u8
 #EXTINF:-1 tvg-id="TRT2.tr" tvg-logo="http://assets.tvcdn.net/7bab6062-acec-4452-a419-345ab95f24e9.png" group-title="Eğlence",TRT 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="A2TV.tr" tvg-logo="http://assets.tvcdn.net/9db055df-4bc8-4a68-b0fd-766a5a3113bc.png" group-title="Eğlence",a2
-https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8
+https://stream.tecostream.xyz/a2.php
 #EXTINF:-1 tvg-id="Teve2.tr" tvg-logo="http://assets.tvcdn.net/4cad68c0-fa2c-4b84-a1c2-1f0704eca7a4.png" group-title="Eğlence",teve2
 https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="ShowMax.tr" tvg-logo="http://assets.tvcdn.net/ec1c55f6-b525-4466-b41c-a935915a6962.png" group-title="Eğlence",Show Max

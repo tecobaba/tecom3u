@@ -16537,25 +16537,19 @@
     <url>http://www.beinsports.com.tr</url>
   </channel>
   <programme start="20250804073000 +0300" stop="20250804080000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">The Outdoor Sports Show</title>
+    <title lang="tr">Champions of the Water</title>
   </programme>
-  <programme start="20250804080000 +0300" stop="20250804083000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">The Sports Rundown</title>
+  <programme start="20250804080000 +0300" stop="20250804090000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Longines League of Nations</title>
   </programme>
-  <programme start="20250804083000 +0300" stop="20250804090000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Fastzone</title>
+  <programme start="20250804090000 +0300" stop="20250804093000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Haber</title>
   </programme>
-  <programme start="20250804090000 +0300" stop="20250804100000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Süper Lig Maç Özetleri</title>
+  <programme start="20250804093000 +0300" stop="20250804100000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
   </programme>
-  <programme start="20250804100000 +0300" stop="20250804103000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Özel Röportaj</title>
-  </programme>
-  <programme start="20250804103000 +0300" stop="20250804110000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Ligue 1 Maç Özetleri</title>
-  </programme>
-  <programme start="20250804110000 +0300" stop="20250804120000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Premier League Maç Özetleri</title>
+  <programme start="20250804100000 +0300" stop="20250804120000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">beIN Sabah</title>
   </programme>
   <programme start="20250804120000 +0300" stop="20250804124500 +0300" channel="BeinSportsHaber.tr">
     <title lang="tr">TSBSL Maç Özetleri</title>
@@ -16567,16 +16561,16 @@
     <title lang="tr">Gün Ortası</title>
   </programme>
   <programme start="20250804143000 +0300" stop="20250804144500 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Premier League Summer Series</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804144500 +0300" stop="20250804150000 +0300" channel="BeinSportsHaber.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
   </programme>
-  <programme start="20250804150000 +0300" stop="20250804153000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Özel Röportaj</title>
+  <programme start="20250804150000 +0300" stop="20250804160000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">beIN Tenis</title>
   </programme>
-  <programme start="20250804153000 +0300" stop="20250804163000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Longines League of Nations</title>
+  <programme start="20250804160000 +0300" stop="20250804163000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Haber</title>
   </programme>
   <programme start="20250804163000 +0300" stop="20250804170000 +0300" channel="BeinSportsHaber.tr">
     <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
@@ -16584,208 +16578,214 @@
   <programme start="20250804170000 +0300" stop="20250804180000 +0300" channel="BeinSportsHaber.tr">
     <title lang="tr">Süper Lig Maç Özetleri</title>
   </programme>
-  <programme start="20250804180000 +0300" stop="20250804183000 +0300" channel="BeinSportsHaber.tr">
+  <programme start="20250804180000 +0300" stop="20250804190000 +0300" channel="BeinSportsHaber.tr">
     <title lang="tr">Ana Haber</title>
   </programme>
-  <programme start="20250804183000 +0300" stop="20250804184500 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Haftanın Golleri</title>
-  </programme>
-  <programme start="20250804184500 +0300" stop="20250804190000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
-  </programme>
-  <programme start="20250804190000 +0300" stop="20250804193000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Özel Röportaj</title>
-  </programme>
-  <programme start="20250804193000 +0300" stop="20250804194500 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  <programme start="20250804190000 +0300" stop="20250804194500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Premier League Summer</title>
   </programme>
   <programme start="20250804194500 +0300" stop="20250804200000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Premier League Summer Series</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
-  <programme start="20250804200000 +0300" stop="20250804210000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">DTM</title>
+  <programme start="20250804200000 +0300" stop="20250804203000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Haber</title>
   </programme>
-  <programme start="20250804210000 +0300" stop="20250804223000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Spor Turu</title>
+  <programme start="20250804203000 +0300" stop="20250804210000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Ligue 1 Maç Özetleri</title>
   </programme>
-  <programme start="20250804223000 +0300" stop="20250804230000 +0300" channel="BeinSportsHaber.tr">
-    <title lang="tr">Özel Röportaj</title>
+  <programme start="20250804210000 +0300" stop="20250804211500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Keşfet</title>
+  </programme>
+  <programme start="20250804211500 +0300" stop="20250804213000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
+  </programme>
+  <programme start="20250804213000 +0300" stop="20250804223000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">beIN Tenis</title>
+  </programme>
+  <programme start="20250804223000 +0300" stop="20250804231500 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Premier League Summer</title>
+  </programme>
+  <programme start="20250804231500 +0300" stop="20250804233000 +0300" channel="BeinSportsHaber.tr">
+    <title lang="tr">Keşfet</title>
   </programme>
   <programme start="20250804094500 +0300" stop="20250804100000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Süper Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804100000 +0300" stop="20250804114500 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Gaziantep FK - Antalyaspor</title>
+    <title lang="tr">Samsunspor - Hatayspor</title>
   </programme>
   <programme start="20250804114500 +0300" stop="20250804120000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Süper Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
-  <programme start="20250804120000 +0300" stop="20250804134500 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Kayserispor - Galatasaray</title>
-  </programme>
-  <programme start="20250804134500 +0300" stop="20250804140000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Süper Lig Haftanın Golleri</title>
+  <programme start="20250804120000 +0300" stop="20250804140000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Kayserispor - Konyaspor</title>
   </programme>
   <programme start="20250804140000 +0300" stop="20250804154500 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Beşiktaş - Alanyaspor</title>
+    <title lang="tr">Kasımpaşa - Rizespor</title>
   </programme>
   <programme start="20250804154500 +0300" stop="20250804160000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Süper Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
-  <programme start="20250804160000 +0300" stop="20250804180000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Eyüpspor - Fenerbahçe</title>
+  <programme start="20250804160000 +0300" stop="20250804174500 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Antalyaspor - Başakşehir FK</title>
   </programme>
-  <programme start="20250804180000 +0300" stop="20250804194500 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Trabzonspor - Bodrum FK</title>
+  <programme start="20250804174500 +0300" stop="20250804180000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
-  <programme start="20250804194500 +0300" stop="20250804200000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+  <programme start="20250804180000 +0300" stop="20250804200000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Trabzonspor - Eyüpspor</title>
   </programme>
-  <programme start="20250804200000 +0300" stop="20250804210000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Süper Lig Maç Özetleri</title>
-  </programme>
-  <programme start="20250804210000 +0300" stop="20250804223000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Spor Turu</title>
-  </programme>
-  <programme start="20250804223000 +0300" stop="20250804230000 +0300" channel="BeinSports1.tr">
-    <title lang="tr">Trendyol 1. Lig Maç Özetleri</title>
+  <programme start="20250804200000 +0300" stop="20250804220000 +0300" channel="BeinSports1.tr">
+    <title lang="tr">Sivasspor - Beşiktaş</title>
   </programme>
   <programme start="20250804074500 +0300" stop="20250804080000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804080000 +0300" stop="20250804094500 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Çorum FK - Ümraniyespor</title>
+    <title lang="tr">İstanbulspor - Karagümrük</title>
   </programme>
   <programme start="20250804094500 +0300" stop="20250804100000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804100000 +0300" stop="20250804114500 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Iğdır FK - Boluspor</title>
+    <title lang="tr">Ankaragücü - Bandırmaspor</title>
   </programme>
   <programme start="20250804114500 +0300" stop="20250804120000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804120000 +0300" stop="20250804134500 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Keçiörengücü - Sakaryaspor</title>
+    <title lang="tr">Erzurumspor FK - Iğdır FK</title>
   </programme>
   <programme start="20250804134500 +0300" stop="20250804140000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804140000 +0300" stop="20250804154500 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Pendikspor - Yeni Malatyaspor</title>
+    <title lang="tr">Pendikspor - Erokspor</title>
   </programme>
   <programme start="20250804154500 +0300" stop="20250804160000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804160000 +0300" stop="20250804174500 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Manisa FK - İstanbulspor</title>
+    <title lang="tr">Amedspor - Yeni Malatyaspor</title>
   </programme>
   <programme start="20250804174500 +0300" stop="20250804180000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
-  <programme start="20250804180000 +0300" stop="20250804194900 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Gençlerbirliği - Kocaelispor</title>
+  <programme start="20250804180000 +0300" stop="20250804194500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Manisa FK - Boluspor</title>
   </programme>
-  <programme start="20250804194900 +0300" stop="20250804200000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+  <programme start="20250804194500 +0300" stop="20250804200000 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804200000 +0300" stop="20250804214500 +0300" channel="BeinSports2.tr">
-    <title lang="tr">Şanlıurfaspor - Ankaragücü</title>
+    <title lang="tr">Şanlıurfaspor - Kocaelispor</title>
   </programme>
   <programme start="20250804214500 +0300" stop="20250804220000 +0300" channel="BeinSports2.tr">
-    <title lang="tr">1. Lig Haftanın Golleri</title>
+    <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250804220000 +0300" stop="20250804234500 +0300" channel="BeinSports2.tr">
+    <title lang="tr">Keçiörengücü - Gençlerbirliği</title>
   </programme>
   <programme start="20250804074500 +0300" stop="20250804080000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804080000 +0300" stop="20250804094500 +0300" channel="BeinSports3.tr">
-    <title lang="tr">Crystal Palace - Southampton</title>
+    <title lang="tr">Ipswich Town-Tottenham Hotspur</title>
   </programme>
   <programme start="20250804094500 +0300" stop="20250804100000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804100000 +0300" stop="20250804114500 +0300" channel="BeinSports3.tr">
-    <title lang="tr">West Ham United - Liverpool</title>
+    <title lang="tr">Fulham - Crystal Palace</title>
   </programme>
   <programme start="20250804114500 +0300" stop="20250804120000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804120000 +0300" stop="20250804134500 +0300" channel="BeinSports3.tr">
-    <title lang="tr">Ipswich Town - Chelsea</title>
+    <title lang="tr">Southampton - Brighton H.A.</title>
   </programme>
   <programme start="20250804134500 +0300" stop="20250804140000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
   </programme>
-  <programme start="20250804140000 +0300" stop="20250804160000 +0300" channel="BeinSports3.tr">
-    <title lang="tr">Aston Villa - Brighton H.A.</title>
+  <programme start="20250804140000 +0300" stop="20250804154500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Aston Villa - Chelsea</title>
+  </programme>
+  <programme start="20250804154500 +0300" stop="20250804160000 +0300" channel="BeinSports3.tr">
+    <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804160000 +0300" stop="20250804174500 +0300" channel="BeinSports3.tr">
-    <title lang="tr">Man.United - Newcastle United</title>
+    <title lang="tr">Newcastle United - N. Forest</title>
   </programme>
   <programme start="20250804174500 +0300" stop="20250804180000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804180000 +0300" stop="20250804194500 +0300" channel="BeinSports3.tr">
-    <title lang="tr">Brentford - Arsenal</title>
+    <title lang="tr">Manchester City - Liverpool</title>
   </programme>
   <programme start="20250804194500 +0300" stop="20250804200000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
   </programme>
   <programme start="20250804200000 +0300" stop="20250804214500 +0300" channel="BeinSports3.tr">
-    <title lang="tr">Leicester City - Man.City</title>
+    <title lang="tr">Manchester United - Everton</title>
   </programme>
   <programme start="20250804214500 +0300" stop="20250804220000 +0300" channel="BeinSports3.tr">
     <title lang="tr">Haftanın Golleri</title>
+  </programme>
+  <programme start="20250804220000 +0300" stop="20250804234500 +0300" channel="BeinSports3.tr">
+    <title lang="tr">AFC Bournemouth - West Ham U.</title>
   </programme>
   <programme start="20250804054500 +0300" stop="20250804060000 +0300" channel="BeinSports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
   </programme>
   <programme start="20250804060000 +0300" stop="20250804074500 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Toulouse - Paris Saint-Germain</title>
+    <title lang="tr">Paris Saint-Germain - Angers</title>
   </programme>
   <programme start="20250804074500 +0300" stop="20250804080000 +0300" channel="BeinSports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
   </programme>
   <programme start="20250804080000 +0300" stop="20250804094500 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Montpellier - Olympique Lyon</title>
+    <title lang="tr">Brest - Monaco</title>
   </programme>
   <programme start="20250804094500 +0300" stop="20250804100000 +0300" channel="BeinSports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
   </programme>
   <programme start="20250804100000 +0300" stop="20250804114500 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Lens - Strasbourg</title>
+    <title lang="tr">Olympique Lyon - Lille</title>
   </programme>
   <programme start="20250804114500 +0300" stop="20250804120000 +0300" channel="BeinSports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
   </programme>
-  <programme start="20250804120000 +0300" stop="20250804130000 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Best Of Legends Interviews</title>
+  <programme start="20250804120000 +0300" stop="20250804134500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Lens - Saint-Etienne</title>
   </programme>
-  <programme start="20250804130000 +0300" stop="20250804133000 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Best Of PSG Jerseys</title>
-  </programme>
-  <programme start="20250804133000 +0300" stop="20250804143000 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Porsche Supercup Belçika</title>
-  </programme>
-  <programme start="20250804143000 +0300" stop="20250804160000 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Formula 2 Belçika</title>
-  </programme>
-  <programme start="20250804160000 +0300" stop="20250804180000 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Formula 1 Belçika Grand Prix</title>
-  </programme>
-  <programme start="20250804180000 +0300" stop="20250804194500 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Havre - Nice</title>
-  </programme>
-  <programme start="20250804194500 +0300" stop="20250804200000 +0300" channel="BeinSports4.tr">
+  <programme start="20250804134500 +0300" stop="20250804140000 +0300" channel="BeinSports4.tr">
     <title lang="tr">Ligue 1 Haftanın Golleri</title>
   </programme>
-  <programme start="20250804200000 +0300" stop="20250804214500 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Stade de Reims - Angers</title>
+  <programme start="20250804140000 +0300" stop="20250804141500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Ligue 2 Haftanın Golleri</title>
   </programme>
-  <programme start="20250804214500 +0300" stop="20250804220000 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Ligue 1 Haftanın Golleri</title>
+  <programme start="20250804141500 +0300" stop="20250804143000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Chasing the Dream</title>
   </programme>
-  <programme start="20250804220000 +0300" stop="20250804234500 +0300" channel="BeinSports4.tr">
-    <title lang="tr">Rennes - Lille</title>
+  <programme start="20250804143000 +0300" stop="20250804153000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula 4 Italian...</title>
+  </programme>
+  <programme start="20250804153000 +0300" stop="20250804161500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula 4 Italian...</title>
+  </programme>
+  <programme start="20250804161500 +0300" stop="20250804171500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula Regional European...</title>
+  </programme>
+  <programme start="20250804171500 +0300" stop="20250804181500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula Regional European...</title>
+  </programme>
+  <programme start="20250804181500 +0300" stop="20250804190000 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Porsche Supercup Macaristan</title>
+  </programme>
+  <programme start="20250804190000 +0300" stop="20250804201500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula 3 Macaristan</title>
+  </programme>
+  <programme start="20250804201500 +0300" stop="20250804214500 +0300" channel="BeinSports4.tr">
+    <title lang="tr">Formula 2 Macaristan</title>
   </programme>
 </tv>

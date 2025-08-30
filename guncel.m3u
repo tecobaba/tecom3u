@@ -625,3 +625,5 @@ http://stream.tvcdn.net/azerbaycan/tmb-azerbaycan.m3u8
 http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 #EXTINF:-1 tvg-id="" group-title="Azerbaycan",Xezer TV
 http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
+#EXTINF:0 user-agent="Firefox/140.0" tvg-id="" tvg-name="Hayat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shpHqAeSuuBmMsYuKgrTtWfzIMh.jpg" group-title="YERLI FILMLER",Hayat (2023)
+http://pent.live:8080/movie/BpZg1XbM5f/M3Hzhn2uvm/119147.mkv

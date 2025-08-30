@@ -2,152 +2,152 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="24TV.tr">
     <display-name lang="tr">24</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838386.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838386.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="360.tr">
     <display-name lang="tr">360</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838188.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838188.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="AHaber.tr">
     <display-name lang="tr">A HABER</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838612.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838612.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="ASpor.tr">
     <display-name lang="tr">A SPOR</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838287.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838287.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="A2TV.tr">
     <display-name lang="tr">A2</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801837289.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="AkitTV.tr">
     <display-name lang="tr">AKIT TV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838546.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838546.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="ATV.tr">
     <display-name lang="tr">ATV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838305.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838305.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BenguturkTV.tr">
     <display-name lang="tr">BENGUTURK</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838732.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838732.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BeyazTV.tr">
     <display-name lang="tr">BEYAZ TV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838801.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838801.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="BloombergHT.tr">
     <display-name lang="tr">BLOOMBERG HT</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837595.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801837595.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="CNNTurk.tr">
     <display-name lang="tr">CNN TURK</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838363.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838363.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="DMAX.tr">
     <display-name lang="tr">DMAX</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837556.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801837556.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Ekoturk.tr">
     <display-name lang="tr">EKOTURK</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838250.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838250.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="HaberGlobal.tr">
     <display-name lang="tr">HABER GLOBAL</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838040.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838040.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="HaberturkTV.tr">
     <display-name lang="tr">HABERTURK</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838714.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838714.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="HalkTV.tr">
     <display-name lang="tr">HALK TV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838585.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838585.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Kanal7.tr">
     <display-name lang="tr">KANAL 7</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838695.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838695.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="KanalD.tr">
     <display-name lang="tr">KANAL D</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838833.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838833.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="Now.tr">
     <display-name lang="tr">NOW</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838440.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838440.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="NTV.tr">
     <display-name lang="tr">NTV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838399.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838399.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="ShowTV.tr">
     <display-name lang="tr">SHOW TV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839061.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839061.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="StarTV.tr">
     <display-name lang="tr">STAR TV</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838418.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838418.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT1.tr">
     <display-name lang="tr">TRT 1</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839124.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839124.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT2.tr">
     <display-name lang="tr">TRT 2</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839153.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839153.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRT3Spor.tr">
     <display-name lang="tr">TRT 3 SPOR</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839212.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839212.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTBelgesel.tr">
     <display-name lang="tr">TRT BELGESEL</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250328726039.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250328726039.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTHaber.tr">
     <display-name lang="tr">TRT HABER</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801837609.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801837609.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTSpor.tr">
     <display-name lang="tr">TRT SPOR</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801839291.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801839291.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTSporYildiz.tr">
     <display-name lang="tr">TRT SPOR YILDIZ</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838619.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838619.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <channel id="TRTTurk.tr">
     <display-name lang="tr">TRT TURK</display-name>
-    <icon src="https://itv224234.tmp.tivibu.com.tr:6430/images/poster/20250801838728.png" />
+    <icon src="https://itv224186.tmp.tivibu.com.tr:6430/images/poster/20250801838728.png" />
     <url>http://www.tivibu.com.tr</url>
   </channel>
   <programme start="20250830010000 +0300" stop="20250830020000 +0300" channel="24TV.tr">
@@ -378,22 +378,22 @@
   <programme start="20250902230000 +0300" stop="20250903010000 +0300" channel="24TV.tr">
     <title lang="tr">Moderatör Gece</title>
   </programme>
-  <programme start="20250830013000 +0300" stop="20250830023000 +0300" channel="360.tr">
+  <programme start="20250830013100 +0300" stop="20250830023400 +0300" channel="360.tr">
     <title lang="tr">Ben Bilirim</title>
   </programme>
-  <programme start="20250830023000 +0300" stop="20250830041500 +0300" channel="360.tr">
+  <programme start="20250830023400 +0300" stop="20250830035800 +0300" channel="360.tr">
     <title lang="tr">Ölmüş Bir Kadının Mektupları</title>
   </programme>
-  <programme start="20250830041500 +0300" stop="20250830053000 +0300" channel="360.tr">
+  <programme start="20250830035800 +0300" stop="20250830042500 +0300" channel="360.tr">
+    <title lang="tr">Ataman ile Devr-i Alem</title>
+  </programme>
+  <programme start="20250830042500 +0300" stop="20250830082000 +0300" channel="360.tr">
+    <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20250830082000 +0300" stop="20250830101800 +0300" channel="360.tr">
     <title lang="tr">Yalan Dünya</title>
   </programme>
-  <programme start="20250830053000 +0300" stop="20250830080000 +0300" channel="360.tr">
-    <title lang="tr">Piyangocu Kız</title>
-  </programme>
-  <programme start="20250830080000 +0300" stop="20250830100000 +0300" channel="360.tr">
-    <title lang="tr">Yalan Dünya</title>
-  </programme>
-  <programme start="20250830100000 +0300" stop="20250830120000 +0300" channel="360.tr">
+  <programme start="20250830101800 +0300" stop="20250830120000 +0300" channel="360.tr">
     <title lang="tr">Baskın</title>
   </programme>
   <programme start="20250830120000 +0300" stop="20250830150000 +0300" channel="360.tr">
@@ -483,11 +483,17 @@
   <programme start="20250901074500 +0300" stop="20250901093000 +0300" channel="360.tr">
     <title lang="tr">Türk Sineması</title>
   </programme>
-  <programme start="20250901093000 +0300" stop="20250901113000 +0300" channel="360.tr">
+  <programme start="20250901093000 +0300" stop="20250901094500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
   </programme>
-  <programme start="20250901113000 +0300" stop="20250901133000 +0300" channel="360.tr">
+  <programme start="20250901094500 +0300" stop="20250901113000 +0300" channel="360.tr">
+    <title lang="tr">Mavi Eşarp</title>
+  </programme>
+  <programme start="20250901113000 +0300" stop="20250901114500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20250901114500 +0300" stop="20250901133000 +0300" channel="360.tr">
+    <title lang="tr">Gece Yolculuğu</title>
   </programme>
   <programme start="20250901133000 +0300" stop="20250901153000 +0300" channel="360.tr">
     <title lang="tr">Aileler Yarışıyor</title>
@@ -507,11 +513,20 @@
   <programme start="20250901233000 +0300" stop="20250902013000 +0300" channel="360.tr">
     <title lang="tr">Seksenler</title>
   </programme>
-  <programme start="20250902013000 +0300" stop="20250902040000 +0300" channel="360.tr">
+  <programme start="20250902013000 +0300" stop="20250902023000 +0300" channel="360.tr">
     <title lang="tr">Ben Bilirim</title>
   </programme>
-  <programme start="20250902040000 +0300" stop="20250902073000 +0300" channel="360.tr">
+  <programme start="20250902023000 +0300" stop="20250902040000 +0300" channel="360.tr">
+    <title lang="tr">Tuzak</title>
+  </programme>
+  <programme start="20250902040000 +0300" stop="20250902041500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20250902041500 +0300" stop="20250902053000 +0300" channel="360.tr">
+    <title lang="tr">Mavi Eşarp</title>
+  </programme>
+  <programme start="20250902053000 +0300" stop="20250902073000 +0300" channel="360.tr">
+    <title lang="tr">Gece Yolculuğu</title>
   </programme>
   <programme start="20250902073000 +0300" stop="20250902074500 +0300" channel="360.tr">
     <title lang="tr">Sağlık Olsun</title>
@@ -519,11 +534,17 @@
   <programme start="20250902074500 +0300" stop="20250902093000 +0300" channel="360.tr">
     <title lang="tr">Türk Sineması</title>
   </programme>
-  <programme start="20250902093000 +0300" stop="20250902113000 +0300" channel="360.tr">
+  <programme start="20250902093000 +0300" stop="20250902094500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
   </programme>
-  <programme start="20250902113000 +0300" stop="20250902133000 +0300" channel="360.tr">
+  <programme start="20250902094500 +0300" stop="20250902113000 +0300" channel="360.tr">
+    <title lang="tr">Gülizar</title>
+  </programme>
+  <programme start="20250902113000 +0300" stop="20250902114500 +0300" channel="360.tr">
     <title lang="tr">Gökyüzünden</title>
+  </programme>
+  <programme start="20250902114500 +0300" stop="20250902133000 +0300" channel="360.tr">
+    <title lang="tr">Sevgili Hocam</title>
   </programme>
   <programme start="20250902133000 +0300" stop="20250902153000 +0300" channel="360.tr">
     <title lang="tr">Aileler Yarışıyor</title>
@@ -1011,19 +1032,19 @@
   <programme start="20250902210000 +0300" stop="20250903020000 +0300" channel="ASpor.tr">
     <title lang="tr">Transfer Raporu</title>
   </programme>
-  <programme start="20250830003000 +0300" stop="20250830022000 +0300" channel="A2TV.tr">
+  <programme start="20250830003000 +0300" stop="20250830025000 +0300" channel="A2TV.tr">
     <title lang="tr">Benim Annem Bir Melek</title>
   </programme>
-  <programme start="20250830022000 +0300" stop="20250830050000 +0300" channel="A2TV.tr">
+  <programme start="20250830025000 +0300" stop="20250830050200 +0300" channel="A2TV.tr">
     <title lang="tr">Hercai</title>
   </programme>
-  <programme start="20250830050000 +0300" stop="20250830070000 +0300" channel="A2TV.tr">
+  <programme start="20250830050200 +0300" stop="20250830070000 +0300" channel="A2TV.tr">
     <title lang="tr">Sıla</title>
   </programme>
-  <programme start="20250830070000 +0300" stop="20250830090000 +0300" channel="A2TV.tr">
+  <programme start="20250830070000 +0300" stop="20250830085600 +0300" channel="A2TV.tr">
     <title lang="tr">Kertenkele</title>
   </programme>
-  <programme start="20250830090000 +0300" stop="20250830111500 +0300" channel="A2TV.tr">
+  <programme start="20250830085600 +0300" stop="20250830111500 +0300" channel="A2TV.tr">
     <title lang="tr">Çocuklar Duymasın</title>
   </programme>
   <programme start="20250830111500 +0300" stop="20250830130000 +0300" channel="A2TV.tr">
@@ -1135,7 +1156,7 @@
     <title lang="tr">Selena</title>
   </programme>
   <programme start="20250902174500 +0300" stop="20250902193000 +0300" channel="A2TV.tr">
-    <title lang="tr">Adanalı</title>
+    <title lang="tr">Alemin Kıralı</title>
   </programme>
   <programme start="20250902193000 +0300" stop="20250902220000 +0300" channel="A2TV.tr">
     <title lang="tr">Bir Zamanlar Çukurova</title>
@@ -1329,29 +1350,38 @@
   <programme start="20250902233000 +0300" stop="20250903051500 +0300" channel="AkitTV.tr">
     <title lang="tr">Gece Ajansı</title>
   </programme>
-  <programme start="20250830023000 +0300" stop="20250830050000 +0300" channel="ATV.tr">
+  <programme start="20250830023000 +0300" stop="20250830045400 +0300" channel="ATV.tr">
     <title lang="tr">Kardeşlerim</title>
   </programme>
-  <programme start="20250830050000 +0300" stop="20250830073000 +0300" channel="ATV.tr">
+  <programme start="20250830045400 +0300" stop="20250830073000 +0300" channel="ATV.tr">
     <title lang="tr">Ateş Kuşları</title>
   </programme>
   <programme start="20250830073000 +0300" stop="20250830100000 +0300" channel="ATV.tr">
     <title lang="tr">atv'de Hafta Sonu</title>
   </programme>
-  <programme start="20250830100000 +0300" stop="20250830154500 +0300" channel="ATV.tr">
+  <programme start="20250830100000 +0300" stop="20250830130000 +0300" channel="ATV.tr">
     <title lang="tr">Aile Saadeti</title>
   </programme>
-  <programme start="20250830154500 +0300" stop="20250830190000 +0300" channel="ATV.tr">
-    <title lang="tr">Aile Saadeti</title>
+  <programme start="20250830130000 +0300" stop="20250830144500 +0300" channel="ATV.tr">
+    <title lang="tr">Yok Artık 2</title>
+  </programme>
+  <programme start="20250830144500 +0300" stop="20250830165000 +0300" channel="ATV.tr">
+    <title lang="tr">Dönerse Senindir</title>
+  </programme>
+  <programme start="20250830165000 +0300" stop="20250830190000 +0300" channel="ATV.tr">
+    <title lang="tr">Ay Lav Yu Tuu</title>
   </programme>
   <programme start="20250830190000 +0300" stop="20250830200000 +0300" channel="ATV.tr">
     <title lang="tr">ATV Ana Haber</title>
   </programme>
-  <programme start="20250830200000 +0300" stop="20250831003000 +0300" channel="ATV.tr">
-    <title lang="tr">Sinema</title>
+  <programme start="20250830200000 +0300" stop="20250830222000 +0300" channel="ATV.tr">
+    <title lang="tr">Elysium: Yeni Cennet</title>
   </programme>
-  <programme start="20250831003000 +0300" stop="20250831030000 +0300" channel="ATV.tr">
-    <title lang="tr">Dizi</title>
+  <programme start="20250830222000 +0300" stop="20250831005000 +0300" channel="ATV.tr">
+    <title lang="tr">Jack Reacher</title>
+  </programme>
+  <programme start="20250831005000 +0300" stop="20250831030000 +0300" channel="ATV.tr">
+    <title lang="tr">Elysium: Yeni Cennet</title>
   </programme>
   <programme start="20250831030000 +0300" stop="20250831053000 +0300" channel="ATV.tr">
     <title lang="tr">Kardeşlerim</title>
@@ -1363,16 +1393,16 @@
     <title lang="tr">atv'de Hafta Sonu</title>
   </programme>
   <programme start="20250831100000 +0300" stop="20250831120000 +0300" channel="ATV.tr">
-    <title lang="tr">Sinema</title>
+    <title lang="tr">Hidalgo'nun Hazinesi</title>
   </programme>
-  <programme start="20250831120000 +0300" stop="20250831130000 +0300" channel="ATV.tr">
+  <programme start="20250831120000 +0300" stop="20250831124500 +0300" channel="ATV.tr">
     <title lang="tr">Dizi TV</title>
   </programme>
-  <programme start="20250831130000 +0300" stop="20250831184500 +0300" channel="ATV.tr">
-    <title lang="tr">Dizi</title>
+  <programme start="20250831124500 +0300" stop="20250831161500 +0300" channel="ATV.tr">
+    <title lang="tr">Aile Saadeti</title>
   </programme>
-  <programme start="20250831184500 +0300" stop="20250831190000 +0300" channel="ATV.tr">
-    <title lang="tr">Dizi</title>
+  <programme start="20250831161500 +0300" stop="20250831190000 +0300" channel="ATV.tr">
+    <title lang="tr">Jack Reacher</title>
   </programme>
   <programme start="20250831190000 +0300" stop="20250831200000 +0300" channel="ATV.tr">
     <title lang="tr">ATV Ana Haber</title>
@@ -1381,7 +1411,7 @@
     <title lang="tr">Kim Milyoner Olmak İster?</title>
   </programme>
   <programme start="20250901002000 +0300" stop="20250901030000 +0300" channel="ATV.tr">
-    <title lang="tr">Dizi</title>
+    <title lang="tr">Aile Saadeti</title>
   </programme>
   <programme start="20250901030000 +0300" stop="20250901053000 +0300" channel="ATV.tr">
     <title lang="tr">Kardeşlerim</title>
@@ -1393,46 +1423,55 @@
     <title lang="tr">Kahvaltı Haberleri</title>
   </programme>
   <programme start="20250901100000 +0300" stop="20250901130000 +0300" channel="ATV.tr">
-    <title lang="tr">Can Borcu</title>
+    <title lang="tr">Müge Anlı ile Tatlı Sert</title>
   </programme>
   <programme start="20250901130000 +0300" stop="20250901140000 +0300" channel="ATV.tr">
     <title lang="tr">Gün Ortası</title>
   </programme>
-  <programme start="20250901140000 +0300" stop="20250901190000 +0300" channel="ATV.tr">
+  <programme start="20250901140000 +0300" stop="20250901160000 +0300" channel="ATV.tr">
     <title lang="tr">Sen Anlat Karadeniz</title>
+  </programme>
+  <programme start="20250901160000 +0300" stop="20250901190000 +0300" channel="ATV.tr">
+    <title lang="tr">Esra Erol'da</title>
   </programme>
   <programme start="20250901190000 +0300" stop="20250901200000 +0300" channel="ATV.tr">
     <title lang="tr">ATV Ana Haber</title>
   </programme>
-  <programme start="20250901200000 +0300" stop="20250902014500 +0300" channel="ATV.tr">
+  <programme start="20250901200000 +0300" stop="20250902002000 +0300" channel="ATV.tr">
     <title lang="tr">Aile Saadeti</title>
   </programme>
-  <programme start="20250902014500 +0300" stop="20250902034000 +0300" channel="ATV.tr">
-    <title lang="tr">Aile Saadeti</title>
+  <programme start="20250902002000 +0300" stop="20250902030000 +0300" channel="ATV.tr">
+    <title lang="tr">Mutlu Aile Defteri</title>
   </programme>
-  <programme start="20250902034000 +0300" stop="20250902052000 +0300" channel="ATV.tr">
+  <programme start="20250902030000 +0300" stop="20250902050000 +0300" channel="ATV.tr">
     <title lang="tr">Kardeşlerim</title>
   </programme>
-  <programme start="20250902052000 +0300" stop="20250902080000 +0300" channel="ATV.tr">
+  <programme start="20250902050000 +0300" stop="20250902080000 +0300" channel="ATV.tr">
     <title lang="tr">Ateş Kuşları</title>
   </programme>
   <programme start="20250902080000 +0300" stop="20250902100000 +0300" channel="ATV.tr">
     <title lang="tr">Kahvaltı Haberleri</title>
   </programme>
   <programme start="20250902100000 +0300" stop="20250902130000 +0300" channel="ATV.tr">
-    <title lang="tr">Can Borcu</title>
+    <title lang="tr">Müge Anlı ile Tatlı Sert</title>
   </programme>
   <programme start="20250902130000 +0300" stop="20250902140000 +0300" channel="ATV.tr">
     <title lang="tr">Gün Ortası</title>
   </programme>
-  <programme start="20250902140000 +0300" stop="20250902190000 +0300" channel="ATV.tr">
+  <programme start="20250902140000 +0300" stop="20250902160000 +0300" channel="ATV.tr">
     <title lang="tr">Sen Anlat Karadeniz</title>
+  </programme>
+  <programme start="20250902160000 +0300" stop="20250902190000 +0300" channel="ATV.tr">
+    <title lang="tr">Esra Erol'da</title>
   </programme>
   <programme start="20250902190000 +0300" stop="20250902200000 +0300" channel="ATV.tr">
     <title lang="tr">ATV Ana Haber</title>
   </programme>
-  <programme start="20250902200000 +0300" stop="20250903014500 +0300" channel="ATV.tr">
-    <title lang="tr">Güven Bana</title>
+  <programme start="20250902200000 +0300" stop="20250902223000 +0300" channel="ATV.tr">
+    <title lang="tr">Gözleri Karadeniz</title>
+  </programme>
+  <programme start="20250902223000 +0300" stop="20250903013000 +0300" channel="ATV.tr">
+    <title lang="tr">Gözleri Karadeniz</title>
   </programme>
   <programme start="20250830005500 +0300" stop="20250830064000 +0300" channel="BenguturkTV.tr">
     <title lang="tr">Tekrar Programlar</title>
@@ -1596,23 +1635,23 @@
   <programme start="20250902230000 +0300" stop="20250903005500 +0300" channel="BenguturkTV.tr">
     <title lang="tr">Gece Haberleri</title>
   </programme>
-  <programme start="20250830010000 +0300" stop="20250830030000 +0300" channel="BeyazTV.tr">
+  <programme start="20250830010000 +0300" stop="20250830024300 +0300" channel="BeyazTV.tr">
     <title lang="tr">Ninja Kaplumbağalar</title>
   </programme>
-  <programme start="20250830030000 +0300" stop="20250830050000 +0300" channel="BeyazTV.tr">
+  <programme start="20250830024300 +0300" stop="20250830041500 +0300" channel="BeyazTV.tr">
     <title lang="tr">Kolay Para 2</title>
   </programme>
-  <programme start="20250830050000 +0300" stop="20250830060000 +0300" channel="BeyazTV.tr">
-    <title lang="tr">Belma Belen'le Geziyoruz</title>
-  </programme>
-  <programme start="20250830060000 +0300" stop="20250830080000 +0300" channel="BeyazTV.tr">
+  <programme start="20250830041500 +0300" stop="20250830054500 +0300" channel="BeyazTV.tr">
     <title lang="tr">Ninja Kaplumbağalar</title>
   </programme>
-  <programme start="20250830080000 +0300" stop="20250830090000 +0300" channel="BeyazTV.tr">
+  <programme start="20250830054500 +0300" stop="20250830080400 +0300" channel="BeyazTV.tr">
+    <title lang="tr">Belma Belen'le Geziyoruz</title>
+  </programme>
+  <programme start="20250830080400 +0300" stop="20250830085900 +0300" channel="BeyazTV.tr">
     <title lang="tr">Beyaz Ana Haber</title>
   </programme>
-  <programme start="20250830090000 +0300" stop="20250830110000 +0300" channel="BeyazTV.tr">
-    <title lang="tr">Seksenler</title>
+  <programme start="20250830085900 +0300" stop="20250830110000 +0300" channel="BeyazTV.tr">
+    <title lang="tr">Ninja Kaplumbağalar</title>
   </programme>
   <programme start="20250830110000 +0300" stop="20250830120000 +0300" channel="BeyazTV.tr">
     <title lang="tr">Arzu Öztürk'le Eğitim Yolculuğu</title>
@@ -1768,7 +1807,7 @@
     <title lang="tr">Bloomberg Wealth</title>
   </programme>
   <programme start="20250830072500 +0300" stop="20250830075000 +0300" channel="BloombergHT.tr">
-    <title lang="tr">İş Dünyası</title>
+    <title lang="tr">Varlık Yönetimi</title>
   </programme>
   <programme start="20250830075000 +0300" stop="20250830081500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Tarım Analiz</title>
@@ -1794,25 +1833,25 @@
   <programme start="20250830123000 +0300" stop="20250830130000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Akıllı Tarım</title>
   </programme>
-  <programme start="20250830130000 +0300" stop="20250830142500 +0300" channel="BloombergHT.tr">
+  <programme start="20250830130000 +0300" stop="20250830143000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Tarih Keyfi</title>
   </programme>
-  <programme start="20250830142500 +0300" stop="20250830145500 +0300" channel="BloombergHT.tr">
+  <programme start="20250830143000 +0300" stop="20250830150000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Fon Saati</title>
   </programme>
-  <programme start="20250830145500 +0300" stop="20250830152000 +0300" channel="BloombergHT.tr">
+  <programme start="20250830150000 +0300" stop="20250830152500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Üst Düzey</title>
   </programme>
-  <programme start="20250830152000 +0300" stop="20250830164000 +0300" channel="BloombergHT.tr">
+  <programme start="20250830152500 +0300" stop="20250830165000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Pandora'nın Merakı</title>
   </programme>
-  <programme start="20250830164000 +0300" stop="20250830170500 +0300" channel="BloombergHT.tr">
+  <programme start="20250830165000 +0300" stop="20250830171500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Gündem Teknoloji</title>
   </programme>
-  <programme start="20250830170500 +0300" stop="20250830173500 +0300" channel="BloombergHT.tr">
+  <programme start="20250830171500 +0300" stop="20250830174500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
-  <programme start="20250830173500 +0300" stop="20250830183000 +0300" channel="BloombergHT.tr">
+  <programme start="20250830174500 +0300" stop="20250830183000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Akustikhane</title>
   </programme>
   <programme start="20250830183000 +0300" stop="20250830200000 +0300" channel="BloombergHT.tr">
@@ -1830,34 +1869,37 @@
   <programme start="20250830224500 +0300" stop="20250830232500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Portillo's Andalucia</title>
   </programme>
-  <programme start="20250830232500 +0300" stop="20250830235000 +0300" channel="BloombergHT.tr">
+  <programme start="20250830232500 +0300" stop="20250830235500 +0300" channel="BloombergHT.tr">
     <title lang="tr">The David Rubenstein Show</title>
   </programme>
-  <programme start="20250830235000 +0300" stop="20250831003500 +0300" channel="BloombergHT.tr">
+  <programme start="20250830235500 +0300" stop="20250831004500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Aslı Şafak'la İşin Aslı</title>
   </programme>
-  <programme start="20250831003500 +0300" stop="20250831012000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831004500 +0300" stop="20250831013500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
   </programme>
-  <programme start="20250831012000 +0300" stop="20250831025000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831013500 +0300" stop="20250831022000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Akustikhane</title>
   </programme>
-  <programme start="20250831025000 +0300" stop="20250831031500 +0300" channel="BloombergHT.tr">
+  <programme start="20250831022000 +0300" stop="20250831030000 +0300" channel="BloombergHT.tr">
+    <title lang="tr">Portillo's Andalucia</title>
+  </programme>
+  <programme start="20250831030000 +0300" stop="20250831033000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Başarıya Doğru</title>
   </programme>
-  <programme start="20250831031500 +0300" stop="20250831034000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831033000 +0300" stop="20250831035000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Girişimcilik Dünyası</title>
   </programme>
-  <programme start="20250831034000 +0300" stop="20250831040500 +0300" channel="BloombergHT.tr">
+  <programme start="20250831035000 +0300" stop="20250831041500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Gündem Teknoloji</title>
   </programme>
-  <programme start="20250831040500 +0300" stop="20250831043000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831041500 +0300" stop="20250831044000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Üst Düzey</title>
   </programme>
-  <programme start="20250831043000 +0300" stop="20250831052000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831044000 +0300" stop="20250831052500 +0300" channel="BloombergHT.tr">
     <title lang="tr">İş'te Zirve</title>
   </programme>
-  <programme start="20250831052000 +0300" stop="20250831061000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831052500 +0300" stop="20250831061000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Ece Saruhan'la Oyuna Devam</title>
   </programme>
   <programme start="20250831061000 +0300" stop="20250831070000 +0300" channel="BloombergHT.tr">
@@ -1887,16 +1929,16 @@
   <programme start="20250831123500 +0300" stop="20250831130500 +0300" channel="BloombergHT.tr">
     <title lang="tr">The David Rubenstein Show</title>
   </programme>
-  <programme start="20250831130500 +0300" stop="20250831140000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831130500 +0300" stop="20250831135500 +0300" channel="BloombergHT.tr">
     <title lang="tr">The 2010's</title>
   </programme>
-  <programme start="20250831140000 +0300" stop="20250831150000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831135500 +0300" stop="20250831145000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Island Natures Wild Laboratories</title>
   </programme>
-  <programme start="20250831150000 +0300" stop="20250831154500 +0300" channel="BloombergHT.tr">
+  <programme start="20250831145000 +0300" stop="20250831154000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Clean it Fix it</title>
   </programme>
-  <programme start="20250831154500 +0300" stop="20250831163000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831154000 +0300" stop="20250831163000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Portillo's Andalucia</title>
   </programme>
   <programme start="20250831163000 +0300" stop="20250831171500 +0300" channel="BloombergHT.tr">
@@ -1920,37 +1962,40 @@
   <programme start="20250831210000 +0300" stop="20250831220000 +0300" channel="BloombergHT.tr">
     <title lang="tr">HT Kulüp</title>
   </programme>
-  <programme start="20250831220000 +0300" stop="20250831232500 +0300" channel="BloombergHT.tr">
+  <programme start="20250831220000 +0300" stop="20250831231500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Ali ile Aramızda</title>
   </programme>
-  <programme start="20250831232500 +0300" stop="20250901000000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831231500 +0300" stop="20250831235000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Macerasever</title>
   </programme>
-  <programme start="20250901000000 +0300" stop="20250901005000 +0300" channel="BloombergHT.tr">
+  <programme start="20250831235000 +0300" stop="20250901003500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Akustikhane</title>
   </programme>
-  <programme start="20250901005000 +0300" stop="20250901014000 +0300" channel="BloombergHT.tr">
+  <programme start="20250901003500 +0300" stop="20250901012500 +0300" channel="BloombergHT.tr">
     <title lang="tr">HT Kulüp</title>
   </programme>
-  <programme start="20250901014000 +0300" stop="20250901022000 +0300" channel="BloombergHT.tr">
+  <programme start="20250901012500 +0300" stop="20250901020500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Portillo's Andalucia</title>
   </programme>
-  <programme start="20250901022000 +0300" stop="20250901025000 +0300" channel="BloombergHT.tr">
+  <programme start="20250901020500 +0300" stop="20250901023000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Boat Show</title>
   </programme>
-  <programme start="20250901025000 +0300" stop="20250901034000 +0300" channel="BloombergHT.tr">
+  <programme start="20250901023000 +0300" stop="20250901032000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Island Natures Wild Laboratories</title>
   </programme>
-  <programme start="20250901034000 +0300" stop="20250901042500 +0300" channel="BloombergHT.tr">
+  <programme start="20250901032000 +0300" stop="20250901040500 +0300" channel="BloombergHT.tr">
     <title lang="tr">Clean it Fix it</title>
   </programme>
-  <programme start="20250901042500 +0300" stop="20250901050500 +0300" channel="BloombergHT.tr">
+  <programme start="20250901040500 +0300" stop="20250901044500 +0300" channel="BloombergHT.tr">
     <title lang="tr">The 2010's</title>
   </programme>
-  <programme start="20250901050500 +0300" stop="20250901053000 +0300" channel="BloombergHT.tr">
+  <programme start="20250901044500 +0300" stop="20250901051000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Bloomberg Wealth</title>
   </programme>
-  <programme start="20250901053000 +0300" stop="20250901061000 +0300" channel="BloombergHT.tr">
+  <programme start="20250901051000 +0300" stop="20250901053500 +0300" channel="BloombergHT.tr">
+    <title lang="tr">Boat Show</title>
+  </programme>
+  <programme start="20250901053500 +0300" stop="20250901061000 +0300" channel="BloombergHT.tr">
     <title lang="tr">Macerasever</title>
   </programme>
   <programme start="20250901061000 +0300" stop="20250901070000 +0300" channel="BloombergHT.tr">
@@ -2673,8 +2718,11 @@
   <programme start="20250830060000 +0300" stop="20250830063000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Saat Farkı</title>
   </programme>
-  <programme start="20250830063000 +0300" stop="20250830073000 +0300" channel="Ekoturk.tr">
+  <programme start="20250830063000 +0300" stop="20250830070000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Sanayi - Ticaret</title>
+  </programme>
+  <programme start="20250830070000 +0300" stop="20250830073000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Lojistik Dünyası</title>
   </programme>
   <programme start="20250830073000 +0300" stop="20250830080000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Marka Değeri</title>
@@ -2703,8 +2751,11 @@
   <programme start="20250830133000 +0300" stop="20250830140000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Yerel Gündem</title>
   </programme>
-  <programme start="20250830140000 +0300" stop="20250830160000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+  <programme start="20250830140000 +0300" stop="20250830150000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">İktisattan Çıkış</title>
+  </programme>
+  <programme start="20250830150000 +0300" stop="20250830160000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Muhakeme</title>
   </programme>
   <programme start="20250830160000 +0300" stop="20250830170000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Perspektif</title>
@@ -2728,10 +2779,13 @@
     <title lang="tr">Davranışsal Ekonomi</title>
   </programme>
   <programme start="20250830203000 +0300" stop="20250830213000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">İktisattan Çıkış</title>
   </programme>
-  <programme start="20250830213000 +0300" stop="20250830223000 +0300" channel="Ekoturk.tr">
+  <programme start="20250830213000 +0300" stop="20250830220000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Saat Farkı</title>
+  </programme>
+  <programme start="20250830220000 +0300" stop="20250830223000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Yönetim Katı</title>
   </programme>
   <programme start="20250830223000 +0300" stop="20250830233000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Alkin Lakin</title>
@@ -2743,28 +2797,34 @@
     <title lang="tr">Akla Ziyan</title>
   </programme>
   <programme start="20250831010000 +0300" stop="20250831020000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">Muhakeme</title>
   </programme>
   <programme start="20250831020000 +0300" stop="20250831023000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Davranışsal Ekonomi</title>
   </programme>
-  <programme start="20250831023000 +0300" stop="20250831040000 +0300" channel="Ekoturk.tr">
+  <programme start="20250831023000 +0300" stop="20250831030000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Saat Farkı</title>
   </programme>
-  <programme start="20250831040000 +0300" stop="20250831050000 +0300" channel="Ekoturk.tr">
+  <programme start="20250831030000 +0300" stop="20250831040000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Alkin Lakin</title>
   </programme>
+  <programme start="20250831040000 +0300" stop="20250831050000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">İktisattan Çıkış</title>
+  </programme>
   <programme start="20250831050000 +0300" stop="20250831060000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">Perspektif</title>
   </programme>
   <programme start="20250831060000 +0300" stop="20250831063000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Davranışsal Ekonomi</title>
+    <title lang="tr">Sanayi - Ticaret</title>
   </programme>
   <programme start="20250831063000 +0300" stop="20250831070000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Kültür Sanat Ekranı</title>
   </programme>
-  <programme start="20250831070000 +0300" stop="20250831080000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Perspektif</title>
+  <programme start="20250831070000 +0300" stop="20250831073000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Davranışsal Ekonomi</title>
+  </programme>
+  <programme start="20250831073000 +0300" stop="20250831080000 +0300" channel="Ekoturk.tr">
+    <title lang="tr">Yapay Zeka Kafası</title>
   </programme>
   <programme start="20250831080000 +0300" stop="20250831083000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Saat Farkı</title>
@@ -2785,13 +2845,13 @@
     <title lang="tr">Saat Farkı</title>
   </programme>
   <programme start="20250831120000 +0300" stop="20250831130000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Akla Ziyan</title>
+    <title lang="tr">İktisattan Çıkış</title>
   </programme>
   <programme start="20250831130000 +0300" stop="20250831140000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Perspektif</title>
   </programme>
   <programme start="20250831140000 +0300" stop="20250831150000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">Muhakeme</title>
   </programme>
   <programme start="20250831150000 +0300" stop="20250831153000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Yaşanabilir Dünya</title>
@@ -2824,7 +2884,7 @@
     <title lang="tr">Yapay Zeka Kafası</title>
   </programme>
   <programme start="20250831203000 +0300" stop="20250831213000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">Muhakeme</title>
   </programme>
   <programme start="20250831213000 +0300" stop="20250831223000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Perspektif</title>
@@ -2842,7 +2902,7 @@
     <title lang="tr">Marka Değeri</title>
   </programme>
   <programme start="20250901010000 +0300" stop="20250901020000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">İktisattan Çıkış</title>
   </programme>
   <programme start="20250901020000 +0300" stop="20250901030000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Perspektif</title>
@@ -2857,7 +2917,7 @@
     <title lang="tr">Yaşanabilir Dünya</title>
   </programme>
   <programme start="20250901050000 +0300" stop="20250901060000 +0300" channel="Ekoturk.tr">
-    <title lang="tr">Fotoğrafın Öyküsü</title>
+    <title lang="tr">Muhakeme</title>
   </programme>
   <programme start="20250901060000 +0300" stop="20250901063000 +0300" channel="Ekoturk.tr">
     <title lang="tr">Marka Değeri</title>
@@ -3102,8 +3162,11 @@
   <programme start="20250901060000 +0300" stop="20250901090000 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Türkiye'de Sabah</title>
   </programme>
-  <programme start="20250901090000 +0300" stop="20250901100000 +0300" channel="HaberGlobal.tr">
+  <programme start="20250901090000 +0300" stop="20250901095000 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Yeni Gün</title>
+  </programme>
+  <programme start="20250901095000 +0300" stop="20250901100000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Ekonomi</title>
   </programme>
   <programme start="20250901100000 +0300" stop="20250901120000 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Yeni Gün</title>
@@ -3114,8 +3177,11 @@
   <programme start="20250901150000 +0300" stop="20250901154500 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Günün Nabzı</title>
   </programme>
-  <programme start="20250901154500 +0300" stop="20250901160000 +0300" channel="HaberGlobal.tr">
+  <programme start="20250901154500 +0300" stop="20250901155500 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Ekonomi</title>
+  </programme>
+  <programme start="20250901155500 +0300" stop="20250901160000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Hava Durumu</title>
   </programme>
   <programme start="20250901160000 +0300" stop="20250901180000 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Günün Nabzı</title>
@@ -3128,6 +3194,45 @@
   </programme>
   <programme start="20250901220000 +0300" stop="20250902000000 +0300" channel="HaberGlobal.tr">
     <title lang="tr">Kontra</title>
+  </programme>
+  <programme start="20250902000000 +0300" stop="20250902020000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Gece Ajansı</title>
+  </programme>
+  <programme start="20250902020000 +0300" stop="20250902040000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Kontra</title>
+  </programme>
+  <programme start="20250902040000 +0300" stop="20250902060000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250902060000 +0300" stop="20250902090000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Türkiye'de Sabah</title>
+  </programme>
+  <programme start="20250902090000 +0300" stop="20250902094500 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Yeni Gün</title>
+  </programme>
+  <programme start="20250902094500 +0300" stop="20250902100000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Ekonomi</title>
+  </programme>
+  <programme start="20250902100000 +0300" stop="20250902120000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Yeni Gün</title>
+  </programme>
+  <programme start="20250902120000 +0300" stop="20250902150000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Gündem</title>
+  </programme>
+  <programme start="20250902150000 +0300" stop="20250902155500 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Günün Nabzı</title>
+  </programme>
+  <programme start="20250902155500 +0300" stop="20250902160000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Hava Durumu</title>
+  </programme>
+  <programme start="20250902160000 +0300" stop="20250902180000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Günün Nabzı</title>
+  </programme>
+  <programme start="20250902180000 +0300" stop="20250902200000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Ana Haber</title>
+  </programme>
+  <programme start="20250902200000 +0300" stop="20250903000000 +0300" channel="HaberGlobal.tr">
+    <title lang="tr">Mesele</title>
   </programme>
   <programme start="20250830013000 +0300" stop="20250830040000 +0300" channel="HaberturkTV.tr">
     <title lang="tr">Enine Boyuna</title>
@@ -3456,22 +3561,19 @@
   <programme start="20250902210000 +0300" stop="20250903010000 +0300" channel="HalkTV.tr">
     <title lang="tr">Gündem Özel</title>
   </programme>
-  <programme start="20250830005000 +0300" stop="20250830020000 +0300" channel="Kanal7.tr">
+  <programme start="20250830012000 +0300" stop="20250830023100 +0300" channel="Kanal7.tr">
     <title lang="tr">Kan Çiçekleri</title>
   </programme>
-  <programme start="20250830020000 +0300" stop="20250830063000 +0300" channel="Kanal7.tr">
+  <programme start="20250830023100 +0300" stop="20250830063000 +0300" channel="Kanal7.tr">
     <title lang="tr">Candan Öte</title>
   </programme>
   <programme start="20250830063000 +0300" stop="20250830074500 +0300" channel="Kanal7.tr">
     <title lang="tr">Kanal 7'de Sabah Hafta Sonu</title>
   </programme>
-  <programme start="20250830074500 +0300" stop="20250830092000 +0300" channel="Kanal7.tr">
+  <programme start="20250830074500 +0300" stop="20250830093000 +0300" channel="Kanal7.tr">
     <title lang="tr">Elif</title>
   </programme>
-  <programme start="20250830092000 +0300" stop="20250830100000 +0300" channel="Kanal7.tr">
-    <title lang="tr">TV Filmi</title>
-  </programme>
-  <programme start="20250830100000 +0300" stop="20250830150000 +0300" channel="Kanal7.tr">
+  <programme start="20250830093000 +0300" stop="20250830150000 +0300" channel="Kanal7.tr">
     <title lang="tr">Seksenler</title>
   </programme>
   <programme start="20250830150000 +0300" stop="20250830160000 +0300" channel="Kanal7.tr">
@@ -3603,22 +3705,22 @@
   <programme start="20250902231500 +0300" stop="20250903005000 +0300" channel="Kanal7.tr">
     <title lang="tr">TV Filmi</title>
   </programme>
-  <programme start="20250830011500 +0300" stop="20250830033000 +0300" channel="KanalD.tr">
+  <programme start="20250830011500 +0300" stop="20250830032500 +0300" channel="KanalD.tr">
     <title lang="tr">Jurassic World: Yıkılmış Krallık</title>
   </programme>
-  <programme start="20250830033000 +0300" stop="20250830053000 +0300" channel="KanalD.tr">
+  <programme start="20250830032500 +0300" stop="20250830051900 +0300" channel="KanalD.tr">
     <title lang="tr">Poyraz Karayel</title>
   </programme>
-  <programme start="20250830053000 +0300" stop="20250830070000 +0300" channel="KanalD.tr">
+  <programme start="20250830051900 +0300" stop="20250830065700 +0300" channel="KanalD.tr">
     <title lang="tr">Kuzey Güney</title>
   </programme>
-  <programme start="20250830070000 +0300" stop="20250830083000 +0300" channel="KanalD.tr">
+  <programme start="20250830065700 +0300" stop="20250830082600 +0300" channel="KanalD.tr">
     <title lang="tr">Yabancı Damat</title>
   </programme>
-  <programme start="20250830083000 +0300" stop="20250830094500 +0300" channel="KanalD.tr">
-    <title lang="tr">Konuştukça</title>
+  <programme start="20250830082600 +0300" stop="20250830094300 +0300" channel="KanalD.tr">
+    <title lang="tr">Konuştukça - 30.08.2025</title>
   </programme>
-  <programme start="20250830094500 +0300" stop="20250830130000 +0300" channel="KanalD.tr">
+  <programme start="20250830094300 +0300" stop="20250830130000 +0300" channel="KanalD.tr">
     <title lang="tr">Magazin D Cumartesi</title>
   </programme>
   <programme start="20250830130000 +0300" stop="20250830150000 +0300" channel="KanalD.tr">
@@ -3735,22 +3837,22 @@
   <programme start="20250902234500 +0300" stop="20250903014500 +0300" channel="KanalD.tr">
     <title lang="tr">Eşref Rüya</title>
   </programme>
-  <programme start="20250830010000 +0300" stop="20250830033000 +0300" channel="Now.tr">
+  <programme start="20250830010500 +0300" stop="20250830030400 +0300" channel="Now.tr">
     <title lang="tr">Aşk Mantık İntikam</title>
   </programme>
-  <programme start="20250830033000 +0300" stop="20250830043000 +0300" channel="Now.tr">
+  <programme start="20250830030400 +0300" stop="20250830045500 +0300" channel="Now.tr">
     <title lang="tr">Her Yerde Sen</title>
   </programme>
-  <programme start="20250830043000 +0300" stop="20250830060000 +0300" channel="Now.tr">
+  <programme start="20250830045500 +0300" stop="20250830055800 +0300" channel="Now.tr">
     <title lang="tr">Son Yaz</title>
   </programme>
-  <programme start="20250830060000 +0300" stop="20250830083000 +0300" channel="Now.tr">
+  <programme start="20250830055800 +0300" stop="20250830083000 +0300" channel="Now.tr">
     <title lang="tr">Karagül</title>
   </programme>
-  <programme start="20250830083000 +0300" stop="20250830100000 +0300" channel="Now.tr">
+  <programme start="20250830083000 +0300" stop="20250830100100 +0300" channel="Now.tr">
     <title lang="tr">Çalar Saat Hafta Sonu</title>
   </programme>
-  <programme start="20250830100000 +0300" stop="20250830130000 +0300" channel="Now.tr">
+  <programme start="20250830100100 +0300" stop="20250830130000 +0300" channel="Now.tr">
     <title lang="tr">Kirli Sepeti</title>
   </programme>
   <programme start="20250830130000 +0300" stop="20250830160000 +0300" channel="Now.tr">
@@ -4257,16 +4359,16 @@
   <programme start="20250831235500 +0300" stop="20250901015500 +0300" channel="NTV.tr">
     <title lang="tr">Hava Durumu</title>
   </programme>
-  <programme start="20250830004500 +0300" stop="20250830030000 +0300" channel="ShowTV.tr">
+  <programme start="20250830004500 +0300" stop="20250830030200 +0300" channel="ShowTV.tr">
     <title lang="tr">Aile Arasında</title>
   </programme>
-  <programme start="20250830030000 +0300" stop="20250830060000 +0300" channel="ShowTV.tr">
+  <programme start="20250830030200 +0300" stop="20250830044900 +0300" channel="ShowTV.tr">
     <title lang="tr">Gelin Evi</title>
   </programme>
-  <programme start="20250830060000 +0300" stop="20250830080000 +0300" channel="ShowTV.tr">
+  <programme start="20250830044900 +0300" stop="20250830081400 +0300" channel="ShowTV.tr">
     <title lang="tr">Güzel Günler</title>
   </programme>
-  <programme start="20250830080000 +0300" stop="20250830100000 +0300" channel="ShowTV.tr">
+  <programme start="20250830081400 +0300" stop="20250830100000 +0300" channel="ShowTV.tr">
     <title lang="tr">Vurun Kahpeye</title>
   </programme>
   <programme start="20250830100000 +0300" stop="20250830130000 +0300" channel="ShowTV.tr">
@@ -4389,25 +4491,25 @@
   <programme start="20250902234500 +0300" stop="20250903014500 +0300" channel="ShowTV.tr">
     <title lang="tr">Ya Sonra</title>
   </programme>
-  <programme start="20250830004500 +0300" stop="20250830023000 +0300" channel="StarTV.tr">
+  <programme start="20250830005500 +0300" stop="20250830030300 +0300" channel="StarTV.tr">
     <title lang="tr">Kral Kaybederse</title>
   </programme>
-  <programme start="20250830023000 +0300" stop="20250830040000 +0300" channel="StarTV.tr">
+  <programme start="20250830030300 +0300" stop="20250830043100 +0300" channel="StarTV.tr">
     <title lang="tr">Baba Ocağı</title>
   </programme>
-  <programme start="20250830040000 +0300" stop="20250830053000 +0300" channel="StarTV.tr">
+  <programme start="20250830043100 +0300" stop="20250830061200 +0300" channel="StarTV.tr">
     <title lang="tr">Dürüye'nin Güğümleri</title>
   </programme>
-  <programme start="20250830053000 +0300" stop="20250830070000 +0300" channel="StarTV.tr">
+  <programme start="20250830061200 +0300" stop="20250830070000 +0300" channel="StarTV.tr">
     <title lang="tr">Kiralık Aşk</title>
   </programme>
   <programme start="20250830070000 +0300" stop="20250830083000 +0300" channel="StarTV.tr">
     <title lang="tr">Menajerimi Ara</title>
   </programme>
-  <programme start="20250830083000 +0300" stop="20250830100000 +0300" channel="StarTV.tr">
-    <title lang="tr">İstanbullu Gelin</title>
+  <programme start="20250830083000 +0300" stop="20250830095900 +0300" channel="StarTV.tr">
+    <title lang="tr">İstanbullu Gelin - 30.08.2025</title>
   </programme>
-  <programme start="20250830100000 +0300" stop="20250830120000 +0300" channel="StarTV.tr">
+  <programme start="20250830095900 +0300" stop="20250830120000 +0300" channel="StarTV.tr">
     <title lang="tr">Aramızda Kalsın</title>
   </programme>
   <programme start="20250830120000 +0300" stop="20250830140000 +0300" channel="StarTV.tr">
@@ -4533,25 +4635,22 @@
   <programme start="20250902190000 +0300" stop="20250903004500 +0300" channel="StarTV.tr">
     <title lang="tr">Star Haber</title>
   </programme>
-  <programme start="20250830021000 +0300" stop="20250830050000 +0300" channel="TRT1.tr">
+  <programme start="20250830020700 +0300" stop="20250830045800 +0300" channel="TRT1.tr">
     <title lang="tr">Leyla ile Mecnun</title>
   </programme>
-  <programme start="20250830050000 +0300" stop="20250830055000 +0300" channel="TRT1.tr">
+  <programme start="20250830045800 +0300" stop="20250830054200 +0300" channel="TRT1.tr">
     <title lang="tr">Seksenler</title>
   </programme>
-  <programme start="20250830055000 +0300" stop="20250830063500 +0300" channel="TRT1.tr">
+  <programme start="20250830054200 +0300" stop="20250830062700 +0300" channel="TRT1.tr">
     <title lang="tr">Hayallerinin Peşinde</title>
   </programme>
-  <programme start="20250830063500 +0300" stop="20250830072500 +0300" channel="TRT1.tr">
+  <programme start="20250830062700 +0300" stop="20250830071600 +0300" channel="TRT1.tr">
     <title lang="tr">Yedi Numara</title>
   </programme>
-  <programme start="20250830072500 +0300" stop="20250830094000 +0300" channel="TRT1.tr">
+  <programme start="20250830071600 +0300" stop="20250830094000 +0300" channel="TRT1.tr">
     <title lang="tr">Hayatımın Neşesi</title>
   </programme>
-  <programme start="20250830094000 +0300" stop="20250830100000 +0300" channel="TRT1.tr">
-    <title lang="tr">Anıtkabir'den Naklen Yayın</title>
-  </programme>
-  <programme start="20250830100000 +0300" stop="20250830115500 +0300" channel="TRT1.tr">
+  <programme start="20250830094000 +0300" stop="20250830115500 +0300" channel="TRT1.tr">
     <title lang="tr">Tozkoparan İskender: Zafer</title>
   </programme>
   <programme start="20250830115500 +0300" stop="20250830132500 +0300" channel="TRT1.tr">
@@ -4629,13 +4728,13 @@
   <programme start="20250901141000 +0300" stop="20250901142000 +0300" channel="TRT1.tr">
     <title lang="tr">Seksenler</title>
   </programme>
-  <programme start="20250901142000 +0300" stop="20250901174500 +0300" channel="TRT1.tr">
+  <programme start="20250901142000 +0300" stop="20250901163000 +0300" channel="TRT1.tr">
     <title lang="tr">Teşkilat</title>
   </programme>
-  <programme start="20250901174500 +0300" stop="20250901190000 +0300" channel="TRT1.tr">
-    <title lang="tr">Kim Gitsin?</title>
+  <programme start="20250901163000 +0300" stop="20250901183000 +0300" channel="TRT1.tr">
+    <title lang="tr">Türkiye - Slovenya</title>
   </programme>
-  <programme start="20250901190000 +0300" stop="20250901195500 +0300" channel="TRT1.tr">
+  <programme start="20250901183000 +0300" stop="20250901195500 +0300" channel="TRT1.tr">
     <title lang="tr">Ana Haber</title>
   </programme>
   <programme start="20250901195500 +0300" stop="20250901222000 +0300" channel="TRT1.tr">
@@ -5265,19 +5364,37 @@
   <programme start="20250901231500 +0300" stop="20250902010000 +0300" channel="TRT3Spor.tr">
     <title lang="tr">Gündem Futbol Transfer</title>
   </programme>
-  <programme start="20250830001500 +0300" stop="20250830011500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250902010000 +0300" stop="20250902020000 +0300" channel="TRT3Spor.tr">
+    <title lang="tr">Spor Artı</title>
+  </programme>
+  <programme start="20250902020000 +0300" stop="20250902034500 +0300" channel="TRT3Spor.tr">
+    <title lang="tr">Gündem Futbol Transfer</title>
+  </programme>
+  <programme start="20250902034500 +0300" stop="20250902053000 +0300" channel="TRT3Spor.tr">
+    <title lang="tr">Chelsea - PSG</title>
+  </programme>
+  <programme start="20250902053000 +0300" stop="20250902063000 +0300" channel="TRT3Spor.tr">
+    <title lang="tr">UEFA Şampiyonlar Ligi Play Off Rövanş Futbol Özeti</title>
+  </programme>
+  <programme start="20250902063000 +0300" stop="20250902064500 +0300" channel="TRT3Spor.tr">
+    <title lang="tr">Trendyol Süper Lig Özetler</title>
+  </programme>
+  <programme start="20250902064500 +0300" stop="20250902084500 +0300" channel="TRT3Spor.tr">
+    <title lang="tr">Trendyol 1. Lig Özetler</title>
+  </programme>
+  <programme start="20250830001500 +0300" stop="20250830011200 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Türkiye'nin Dev Yapıları Rize - Artvin Havalimanı</title>
   </programme>
-  <programme start="20250830011500 +0300" stop="20250830014500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830011200 +0300" stop="20250830014200 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Kronovizör</title>
   </programme>
-  <programme start="20250830014500 +0300" stop="20250830021500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830014200 +0300" stop="20250830021400 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Bir Dünya Yaşam</title>
   </programme>
-  <programme start="20250830021500 +0300" stop="20250830025500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830021400 +0300" stop="20250830025400 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">30 Yılın Ardından</title>
   </programme>
-  <programme start="20250830025500 +0300" stop="20250830032500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830025400 +0300" stop="20250830032500 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Yemek Güzeldir</title>
   </programme>
   <programme start="20250830032500 +0300" stop="20250830035500 +0300" channel="TRTBelgesel.tr">
@@ -5289,25 +5406,22 @@
   <programme start="20250830043000 +0300" stop="20250830050000 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Su Altı Ustaları</title>
   </programme>
-  <programme start="20250830050000 +0300" stop="20250830053500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830050000 +0300" stop="20250830053600 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Antika Dedektifi</title>
   </programme>
-  <programme start="20250830053500 +0300" stop="20250830060500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830053600 +0300" stop="20250830060500 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Yiyeceğin Serüveni</title>
   </programme>
-  <programme start="20250830060500 +0300" stop="20250830065500 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830060500 +0300" stop="20250830065800 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">En Tehlikeli Okul Yolları</title>
-  </programme>
-  <programme start="20250830065500 +0300" stop="20250830065800 +0300" channel="TRTBelgesel.tr">
-    <title lang="tr">Tanıtım</title>
   </programme>
   <programme start="20250830065800 +0300" stop="20250830070000 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">İstiklal Marşı</title>
   </programme>
-  <programme start="20250830070000 +0300" stop="20250830075000 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830070000 +0300" stop="20250830075100 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Şehirden Uzakta</title>
   </programme>
-  <programme start="20250830075000 +0300" stop="20250830084000 +0300" channel="TRTBelgesel.tr">
+  <programme start="20250830075100 +0300" stop="20250830084000 +0300" channel="TRTBelgesel.tr">
     <title lang="tr">Savaşın Efsaneleri</title>
   </programme>
   <programme start="20250830084000 +0300" stop="20250830092500 +0300" channel="TRTBelgesel.tr">
@@ -6081,6 +6195,24 @@
   <programme start="20250901231500 +0300" stop="20250902010000 +0300" channel="TRTSpor.tr">
     <title lang="tr">Gündem Futbol Transfer</title>
   </programme>
+  <programme start="20250902010000 +0300" stop="20250902020000 +0300" channel="TRTSpor.tr">
+    <title lang="tr">Spor Artı</title>
+  </programme>
+  <programme start="20250902020000 +0300" stop="20250902034500 +0300" channel="TRTSpor.tr">
+    <title lang="tr">Gündem Futbol Transfer</title>
+  </programme>
+  <programme start="20250902034500 +0300" stop="20250902053000 +0300" channel="TRTSpor.tr">
+    <title lang="tr">Chelsea - PSG</title>
+  </programme>
+  <programme start="20250902053000 +0300" stop="20250902063000 +0300" channel="TRTSpor.tr">
+    <title lang="tr">UEFA Şampiyonlar Ligi Play Off Rövanş Futbol Özeti</title>
+  </programme>
+  <programme start="20250902063000 +0300" stop="20250902064500 +0300" channel="TRTSpor.tr">
+    <title lang="tr">Trendyol Süper Lig Özetler</title>
+  </programme>
+  <programme start="20250902064500 +0300" stop="20250902084500 +0300" channel="TRTSpor.tr">
+    <title lang="tr">Trendyol 1. Lig Özetler</title>
+  </programme>
   <programme start="20250830003000 +0300" stop="20250830004500 +0300" channel="TRTSporYildiz.tr">
     <title lang="tr">Haber Bülteni</title>
   </programme>
@@ -6374,6 +6506,30 @@
   </programme>
   <programme start="20250901222000 +0300" stop="20250902000000 +0300" channel="TRTSporYildiz.tr">
     <title lang="tr">Büyükler Karakucak Güreşi Türkiye Şampiyonası</title>
+  </programme>
+  <programme start="20250902000000 +0300" stop="20250902001500 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Haber Bülteni</title>
+  </programme>
+  <programme start="20250902001500 +0300" stop="20250902020000 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Estonya - Türkiye</title>
+  </programme>
+  <programme start="20250902020000 +0300" stop="20250902022000 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Pedalın Senfonisi</title>
+  </programme>
+  <programme start="20250902022000 +0300" stop="20250902024500 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Tüm Zamanların En İyileri</title>
+  </programme>
+  <programme start="20250902024500 +0300" stop="20250902042500 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">10. Uluslararası Edirne Maratonu</title>
+  </programme>
+  <programme start="20250902042500 +0300" stop="20250902050500 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Peyk Serüven</title>
+  </programme>
+  <programme start="20250902050500 +0300" stop="20250902064500 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Hentbol Kadınlar Süper Kupa Final Maçı</title>
+  </programme>
+  <programme start="20250902064500 +0300" stop="20250902084500 +0300" channel="TRTSporYildiz.tr">
+    <title lang="tr">Sporcu Günlüğü</title>
   </programme>
   <programme start="20250830000500 +0300" stop="20250830003500 +0300" channel="TRTTurk.tr">
     <title lang="tr">Rumeli Saati</title>

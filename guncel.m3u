@@ -627,5 +627,5 @@ http://stream.tvcdn.net/azerbaycan/vip-hd.m3u8
 http://stream.tvcdn.net/azerbaycan/xezer-tv.m3u8
 #EXTINF:0 user-agent="Firefox/140.0" tvg-id="" tvg-name="Hayat (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/shpHqAeSuuBmMsYuKgrTtWfzIMh.jpg" group-title="YERLI FILMLER",Hayat (2023)
 http://pent.live:8080/movie/BpZg1XbM5f/M3Hzhn2uvm/119147.mkv
-#EXTINF:0 tvg-country="TR/Yabancı Dil" tvg-language="TR/EN" tvg-name="Daha Iyi Bir Yarin (2024)" type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdhY2RjZDQtNDdkNi00Yjk1LTkxZmYtMGZkYTkwMmQ0MzAzXkEyXkFqcGc@._V1_.jpg" group-title="✨YERLI FILM✨",Daha Iyi Bir Yarin (2024)
-https://vidmody.com/mm/tt27054971/main2/index.m3u8
+#EXTINF:0 tvg-country="TR/Yabancı Dil" tvg-language="TR/EN" tvg-name="Daha Iyi Bir Yarin (2024)" type="video" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjdhY2RjZDQtNDdkNi00Yjk1LTkxZmYtMGZkYTkwMmQ0MzAzXkEyXkFqcGc@._V1_.jpg" group-title="YERLI FILMLER",Daha Iyi Bir Yarin (2024)
+https://vidmody.com/mm/tt27054971/main2/index.mkv

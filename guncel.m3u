@@ -315,6 +315,8 @@ https://live.tecostream.xyz/BeinMoviesFamily.php
 https://live.tecostream.xyz/BeinMoviesStar.php
 #EXTINF:-1 tvg-id="BeinMoviesPremier.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/BeIN_MOVIES_Premier-HD.png" group-title="Sinema",Bein Movies Premier
 https://live.tecostream.xyz/BeinMoviesPremier.php
+#EXTINF:-1 tvg-id="Fx.tr" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Fx-logo-1-281x281.avif" group-title="Sinema",FX HD
+https://live.tecostream.xyz/fx.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
@@ -327,8 +329,7 @@ https://stream.tecostream.xyz/Sinema_1001.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://stream.tecostream.xyz/Sinema_Komedi.php
-#EXTINF:-1 tvg-id="Fx.tr" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Fx-logo-1-281x281.avif" group-title="Sinema",FX HD
-https://live.tecostream.xyz/fx.php
+
 
 #EXTINF:-1 tvg-id="KemalSunal.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Kemal Sunal Filmleri
 https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8
@@ -383,7 +384,7 @@ https://live.tecostream.xyz//BeinIz.php
 #EXTINF:-1 tvg-id="BeinGurme.tr" tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-gurme-logo-png_seeklogo-367814.png" group-title="Belgesel",Bein Gürme HD
 https://live.tecostream.xyz//BeinGurme.php
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" group-title="Belgesel", Discovery Channel
-http://live.artofknot.com:5090/tecolifetime/tecolifetime/71.m3u8
+https://live.tecostream.xyz/DiscoveryChannel.php
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 https://cdn.tecostream.xyz/Tgrt_Belgesel.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV

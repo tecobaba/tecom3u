@@ -304,7 +304,13 @@ https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%
 #EXTINF:-1 tvg-id="boxoffice3.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png" group-title="Sinema", Bein Box Office 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fbox3.m3u8 
+https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fbox3.m3u8
+#EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action
+https://live.tecostream.xyz/BeinMoviesAction.php
+#EXTINF:-1 tvg-id="BeinMoviesFamily.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_MOVIES_Family-HD.png" group-title="Sinema",Bein Movies Family
+https://live.tecostream.xyz/BeinMoviesFamily.php
+#EXTINF:-1 tvg-id="BeinMoviesTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BeIN_MOVIES_Turk-HD.png" group-title="Sinema",Bein Movies Turk
+https://live.tecostream.xyz/BeinMoviesFamily.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
@@ -319,10 +325,7 @@ https://stream.tecostream.xyz/Sinema_1001.php
 https://stream.tecostream.xyz/Sinema_Komedi.php
 #EXTINF:-1 tvg-id="Fx.tr" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Fx-logo-1-281x281.avif" group-title="Sinema",FX HD
 https://live.tecostream.xyz/fx.php
-#EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action
-https://live.tecostream.xyz/BeinMoviesAction.php
-#EXTINF:-1 tvg-id="BeinMoviesFamily.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_MOVIES_Family-HD.png" group-title="Sinema",Bein Movies Family
-https://live.tecostream.xyz/BeinMoviesFamily.php
+
 #EXTINF:-1 tvg-id="KemalSunal.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Kemal Sunal Filmleri
 https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8
 #EXTINF:-1 tvg-id="Yesilcam.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Yeşilçam TV

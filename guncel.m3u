@@ -305,12 +305,16 @@ https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fbox3.m3u8
+#EXTINF:-1 tvg-id="BeinMoviesTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BeIN_MOVIES_Turk-HD.png" group-title="Sinema",Bein Movies Turk
+https://live.tecostream.xyz/BeinMoviesTurk.php
 #EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action
 https://live.tecostream.xyz/BeinMoviesAction.php
 #EXTINF:-1 tvg-id="BeinMoviesFamily.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_MOVIES_Family-HD.png" group-title="Sinema",Bein Movies Family
 https://live.tecostream.xyz/BeinMoviesFamily.php
-#EXTINF:-1 tvg-id="BeinMoviesTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BeIN_MOVIES_Turk-HD.png" group-title="Sinema",Bein Movies Turk
-https://live.tecostream.xyz/BeinMoviesFamily.php
+#EXTINF:-1 tvg-id="BeinMoviesStars.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/BeIN_MOVIES_Stars-HD.png" group-title="Sinema",Bein Movies Stars
+https://live.tecostream.xyz/BeinMoviesStar.php
+#EXTINF:-1 tvg-id="BeinMoviesPremier.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/BeIN_MOVIES_Premier-HD.png" group-title="Sinema",Bein Movies Premier
+https://live.tecostream.xyz/BeinMoviesPremier.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aile
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com

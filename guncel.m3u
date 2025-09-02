@@ -321,6 +321,8 @@ https://stream.tecostream.xyz/Sinema_Komedi.php
 https://live.tecostream.xyz/fx.php
 #EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action
 https://live.tecostream.xyz/BeinMoviesAction.php
+#EXTINF:-1 tvg-id="BeinMoviesFamily.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/BeIN_MOVIES_Family-HD.png" group-title="Sinema",Bein Movies Family
+https://live.tecostream.xyz/BeinMoviesFamily.php
 #EXTINF:-1 tvg-id="KemalSunal.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Kemal Sunal Filmleri
 https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8
 #EXTINF:-1 tvg-id="Yesilcam.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Yeşilçam TV

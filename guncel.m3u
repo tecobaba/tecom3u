@@ -296,15 +296,15 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/1.m3u8
 #EXTINF:-1 tvg-id="boxoffice1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fe/BeIN_BOX_OFFICE_HD_1_2018_logo.png" group-title="Sinema", Bein Box Office 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fbox1.m3u8
+https://live.tecostream.xyz/BeinBoxOffice1.php
 #EXTINF:-1 tvg-id="boxoffice2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/BeIN_BOX_OFFICE_HD_2_2018_logo.png" group-title="Sinema", Bein Box Office 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fbox2.m3u8 
+https://live.tecostream.xyz/BeinBoxOffice2.php
 #EXTINF:-1 tvg-id="boxoffice3.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/5e/BeIN_BOX_OFFICE_HD_3_2018_logo.png" group-title="Sinema", Bein Box Office 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvheryerde.com
-https://black-night-3fd2.tecostream.workers.dev:2087/proxy/channel?url=https%3A%2F%2Ftv.arectv34.sbs%2Flive%2Fbox3.m3u8
+https://live.tecostream.xyz/BeinBoxOffice3.php
 #EXTINF:-1 tvg-id="BeinMoviesTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/BeIN_MOVIES_Turk-HD.png" group-title="Sinema",Bein Movies Turk
 https://live.tecostream.xyz/BeinMoviesTurk.php
 #EXTINF:-1 tvg-id="BeinMoviesAction.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-action-logo.png" group-title="Sinema",Bein Movies Action

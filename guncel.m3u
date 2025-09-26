@@ -116,8 +116,7 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1410.xyz/
-http://gbtv.teknoled.com.tr:5000/proxy_playlist/yayinzirve
-#https://tecogoals.tecostream.xyz/yayinzirve
+https://tecogoals.tecostream.xyz/yayinzirve
 
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD +
 #EXTVLCOPT:http-referrer=https://trgoals1364.xyz

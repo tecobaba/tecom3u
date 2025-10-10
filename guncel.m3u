@@ -322,19 +322,18 @@ https://live.tecostream.xyz/BeinMoviesStars.php
 https://live.tecostream.xyz/BeinMoviesPremier.php
 #EXTINF:-1 tvg-id="Fx.tr" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Fx-logo-1-281x281.avif" group-title="Sinema",FX HD
 https://live.tecostream.xyz/fx.php
+#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema TV
+https://stream.tecostream.xyz/Sinema_Tv.php
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aksiyon
+https://stream.tecostream.xyz/Sinema_Aksiyon.php
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Yerli
+https://stream.tecostream.xyz/Sinema_Yerli.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aile
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://stream.tecostream.xyz/Sinema_Aile.php
 #EXTINF:-1 tvg-id="sinema1001.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-1001-768x94.png" group-title="Sinema", Sinema 1001
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://stream.tecostream.xyz/Sinema_1001.php
 #EXTINF:-1 tvg-id="sinemakomedi.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="Sinema", Sinema Komedi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://stream.tecostream.xyz/Sinema_Komedi.php
-
 
 #EXTINF:-1 tvg-id="KemalSunal.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_kKB21USxEgVZCcJsgoXGh1qx1DQgSgfn6hz3r-1HDv9dI=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Kemal Sunal Filmleri
 https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8

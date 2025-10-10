@@ -322,11 +322,11 @@ https://live.tecostream.xyz/BeinMoviesStars.php
 https://live.tecostream.xyz/BeinMoviesPremier.php
 #EXTINF:-1 tvg-id="Fx.tr" tvg-logo="https://static.ssportplus.com/wp-content/uploads/2024/03/Fx-logo-1-281x281.avif" group-title="Sinema",FX HD
 https://live.tecostream.xyz/fx.php
-#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema TV
+#EXTINF:-1 tvg-id="sinematv.tr" tvg-logo="https://sinematv.com.tr/content/logo/SINEMATV-GRI.png" group-title="Sinema", Sinema TV
 https://stream.tecostream.xyz/Sinema_Tv.php
-#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aksiyon
+#EXTINF:-1 tvg-id="sinemaaksiyon.tr" tvg-logo="https://aksiyon.sinematv.com.tr/content/logo/SINEMATV-AKSIYON.png" group-title="Sinema", Sinema Aksiyon
 https://stream.tecostream.xyz/Sinema_Aksiyon.php
-#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Yerli
+#EXTINF:-1 tvg-id="sinemayerli.tr" tvg-logo="https://yerli.sinematv.com.tr/content/logo/SINEMATV-YERLI-GRI.png" group-title="Sinema", Sinema Yerli
 https://stream.tecostream.xyz/Sinema_Yerli.php
 #EXTINF:-1 tvg-id="sinemaaile.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinemaaile.png" group-title="Sinema", Sinema Aile
 https://stream.tecostream.xyz/Sinema_Aile.php

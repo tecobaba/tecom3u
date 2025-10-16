@@ -139,8 +139,8 @@ https://dady.tecostream.xyz/premium62
 
 #EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinb2
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinb2.php
 
 #EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 YDK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -149,8 +149,8 @@ https://dady.tecostream.xyz/premium63
 
 #EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinb3
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinb3.php
 
 #EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 YDK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -159,26 +159,28 @@ https://dady.tecostream.xyz/premium64
 
 #EXTINF:-1 tvg-id="BeinSports4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinb4
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinb4.php
 
 #EXTINF:-1 tvg-id="BeinSports5.tr" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinb5
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinb5.php
 
 #EXTINF:-1 tvg-id="BeinSportsMax.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinbm1
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinbm1.php
 
 #EXTINF:-1 tvg-id="BeinSportsMax2.tr" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinbm2
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinbm2.php
 
 #EXTINF:-1 tvg-id="SKYF1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",SKY F1 HD
-https://tecogoals.tecostream.xyz/yayinf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/f1.php
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
 https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
@@ -194,13 +196,13 @@ https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
 
 #EXTINF:-1 tvg-id="NbaTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayinnbatv
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayinnbatv.php
 
 #EXTINF:-1 tvg-id="EuroSport1.tr" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",EUROSPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayineu1
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayineu1.php
 
 #EXTINF:-1 tvg-id="EuroSport2.tr" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
@@ -209,8 +211,8 @@ https://tecogoals.tecostream.xyz/yayineu2
 
 #EXTINF:-1 tvg-id="Spor_TivibuSpor1" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://tecogoals.tecostream.xyz/yayint1
+#EXTVLCOPT:http-referrer=https://monotv524.com/
+https://live.tecostream.xyz/mono/php_channels/yayint1.php
 
 #EXTINF:-1 tvg-id="Spor_TivibuSpor2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)

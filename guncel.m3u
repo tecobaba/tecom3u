@@ -14,9 +14,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="http://assets.tvcdn.net/1125734c-3525-4390-b8ed-c50380c70e4d.png" group-title="Ulusal",Kanal 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7_720p.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="http://assets.tvcdn.net/f91342d2-bcae-4ee0-a6f8-76a8d32b891b.png" group-title="Ulusal",TV8
-https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?&sid=7tz9li2dz8bf
 #EXTINF:-1 tvg-id="StarTV.tr" tvg-logo="http://assets.tvcdn.net/0c5204fb-e613-4084-b300-8cdcc46309f9.png" group-title="Ulusal",Star TV
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7tzabv58dip6
 #EXTINF:-1 tvg-id="360.tr" tvg-logo="http://assets.tvcdn.net/e1c3f150-4f79-4ac4-a893-4cc1144eb2d5.png" group-title="Ulusal",360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 tvg-id="TV100.tr" tvg-logo="http://assets.tvcdn.net/d7741078-ccce-47d8-ba1c-a041b659bad6.png" group-title="Ulusal",TV 100

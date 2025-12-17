@@ -388,9 +388,9 @@ https://live.tecostream.xyz/NationalGeo.php
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
 https://live.tecostream.xyz/NationalGeoWild.php
 #EXTINF:-1 tvg-id="BeinIz.tr" tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-iz-logo-png_seeklogo-367813.png" group-title="Belgesel",Bein İZ HD
-https://live.tecostream.xyz//BeinIz.php
+https://tecostream.xyz//BeinIz.php
 #EXTINF:-1 tvg-id="BeinGurme.tr" tvg-logo="https://images.seeklogo.com/logo-png/36/1/bein-gurme-logo-png_seeklogo-367814.png" group-title="Belgesel",Bein Gürme HD
-https://live.tecostream.xyz//BeinGurme.php
+https://tecostream.xyz//BeinGurme.php
 #EXTINF:-1 tvg-id="DiscoveryChannel.tr" tvg-logo="https://logoeps.com/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector.png" group-title="Belgesel", Discovery Channel
 https://live.tecostream.xyz/DiscoveryChannel.php
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel

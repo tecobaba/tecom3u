@@ -343,7 +343,7 @@ https://stream.tecostream.xyz/Sinema_Komedi.php
 https://cdn.tecostream.xyz/Kemal_Sunal_Tv.m3u8
 #EXTINF:-1 tvg-id="Yesilcam.tr" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_m_vVKzWpm_LEriWFQTewLrMlSp0Et6frUrXP7qagTrpGE=s48-c-k-c0x00ffffff-no-rj" group-title="Sinema",Yeşilçam TV
 https://cdn.tecostream.xyz/Yesilcam_Tv.m3u8
-#EXTINF:-1 tvg-name="TrtMuzik.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtMuzik.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
+#EXTINF:-1 tvg-name="TRTMüzik.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="TrtMuzik.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/12382043.png" group-title="Müzik",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="DreamTurk.tr" tvg-language="Turkish" tvg-country="TR" tvg-id="DreamTurk.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/5dc2c085866ac31da06187cd" group-title="Müzik",DREAM TÜRK TV
 https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
@@ -383,7 +383,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decb
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=rokuchannel&appVersion=1.0&deviceDNT=1&deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel
 #EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/1da7293b-5598-4e00-a5f8-3bd327af9467.png" group-title="Belgesel",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="NatGeo.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANational-Geographic-Logo.svg&psig=AOvVaw2tg1vRXi24tH9WBmvWjnJf&ust=1746187325832000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiA7eucgo0DFQAAAAAdAAAAABAE" group-title="Belgesel",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ANational-Geographic-Logo.svg&psig=AOvVaw2tg1vRXi24tH9WBmvWjnJf&ust=1746187325832000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNiA7eucgo0DFQAAAAAdAAAAABAE" group-title="Belgesel",National Geographic
 https://live.tecostream.xyz/NationalGeo.php
 #EXTINF:-1 tvg-id="NatGeoWild.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="Belgesel",NATIONAL GEOGRAPHIC WILD
 https://live.tecostream.xyz/NationalGeoWild.php
@@ -405,17 +405,17 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/index-1080p.m3u8
 http://stream.tvcdn.net/belgesel/koy-tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2998d78b-5098-4e5a-8450-b2f7148ff817.png" group-title="Belgesel",Toprak TV
 http://188.245.211.255:1935/canlitv/topraktv.stream/playlist.m3u8?hash=7273527c4819c57923b8702ee6f46415
-#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
+#EXTINF:-1 tvg-id="TRTÇocuk.tr" tvg-logo="http://assets.tvcdn.net/18ae3d9c-711b-40e5-8602-8eada4748df2.png" group-title="Çocuk&Eğitim",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="EBATVOrtaokul.tr" tvg-logo="http://assets.tvcdn.net/a80dd610-3836-4d80-9968-70a8f32165bc.png" group-title="Çocuk&Eğitim",TRT EBA
 https://tv-e-okul01.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr" tvg-logo="http://assets.tvcdn.net/dba05bf2-9d24-4d20-bc6c-f54a2b60ef7f.png" group-title="Çocuk&Eğitim",TRT Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="MinikaGo.tr" tvg-logo="https://ia.tmgrup.com.tr/852040/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755550790.png" group-title="Çocuk&Eğitim",Minika Go 
+#EXTINF:-1 tvg-id="MinikaGO.tr" tvg-logo="https://ia.tmgrup.com.tr/852040/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755550790.png" group-title="Çocuk&Eğitim",Minika Go 
 https://trkvz-live.daioncdn.net/minikago/minikago_720p.m3u8
-#EXTINF:-1 tvg-id="BabyTv.tr" tvg-logo="https://img.favpng.com/20/14/7/babytv-enchanted-babyfirsttv-television-logo-png-favpng-3AzfkYmhUPejE6vK0TLTmVYV2.jpg" group-title="Çocuk&Eğitim",Baby TV
+#EXTINF:-1 tvg-id="BabyTV.tr" tvg-logo="https://img.favpng.com/20/14/7/babytv-enchanted-babyfirsttv-television-logo-png-favpng-3AzfkYmhUPejE6vK0TLTmVYV2.jpg" group-title="Çocuk&Eğitim",Baby TV
 https://live.tecostream.xyz/BabyTv.php
-#EXTINF:-1 tvg-id="DisneyJuior.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title="Çocuk&Eğitim",Disney Junior
+#EXTINF:-1 tvg-id="DisneyJunior.tr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title="Çocuk&Eğitim",Disney Junior
 https://live.tecostream.xyz/DisneyJunior.php
 #EXTINF:-1 tvg-id="MinikaCocuk.tr" tvg-logo="https://ia.tmgrup.com.tr/b8b0e1/64/64/0/0/64/64?u=https://i.tmgrup.com.tr/724izle/2023/06/14/1686755575352.png" group-title="Çocuk&Eğitim",Minika Çocuk 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8

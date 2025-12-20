@@ -117,54 +117,54 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist/1.m3u
 #EXTINF:-1 tvg-id="BeinSportsHaber.tr" tvg-logo="https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg" group-title="Spor",beIN SPORTS HABER
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sports 1 HD
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",Bein Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinzirve.php
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD +
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD +
 #EXTVLCOPT:http-referrer=https://trgoals1364.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://live.tecostream.xyz/Beinsports1.php
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 720 +
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 720 +
 #EXTVLCOPT:http-origin=https://pulitv18.live
 #EXTVLCOPT:http-referrer=https://pulitv18.live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 https://live.tecostream.xyz/BeinSports1HD.php
 #https://nxn5.xyz/cdn/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 720 
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 720 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://www.jestyayin941.com/
 https://netspor.tecostream.xyz/bs1.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
+#EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinb2.php
 
-#EXTINF:-1 tvg-id="beINSPORTS2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 YDK
+#EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 YDK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://netspor.tecostream.xyz/bs2.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
+#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinb3.php
 
-#EXTINF:-1 tvg-id="beINSPORTS3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 YDK
+#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 YDK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
 https://netspor.tecostream.xyz/bs3.m3u8
 
-#EXTINF:-1 tvg-id="beINSPORTS4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
+#EXTINF:-1 tvg-id="BeinSports4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinb4.php
 
-#EXTINF:-1 tvg-id="beINSPORTS5.tr" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
+#EXTINF:-1 tvg-id="BeinSports5.tr" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinb5.php

@@ -65,7 +65,7 @@ https://cdn.tecostream.xyz/Sozcu_Tv.m3u8
 https://cdn.tecostream.xyz/Tele_1.m3u8
 #EXTINF:-1 tvg-id="TVNET.tr" tvg-logo="http://assets.tvcdn.net/542d8afd-1bf7-44bd-8dfe-0b8e9ea2d3ec.png" group-title="Haber",TVNET
 https://cdn.tecostream.xyz/Tv_Net.m3u8
-#EXTINF:-1 tvg-id="TV100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png?20191010105720" group-title="Haber",TV 100
+#EXTINF:-1 tvg-id="tv100.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png?20191010105720" group-title="Haber",TV 100
 https://cdn.tecostream.xyz/TV_100.m3u8
 #EXTINF:-1 tvg-id="GztTv.tr" tvg-logo="https://gzttv.tr/logo.png" group-title="Haber",GZT TV
 https://mn-nl.mncdn.com/gzttv/gzttv/chunklist.m3u8

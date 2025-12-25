@@ -395,6 +395,8 @@ https://tecostream.xyz//BeinGurme.php
 https://live.tecostream.xyz/DiscoveryChannel.php
 #EXTINF:-1 tvg-id="HistoryChannel.tr" tvg-logo="https://nhd.org/wp-content/uploads/2022/11/Copy-of-Copy-of-39673730_History_Logo_2015_RGB_Black_type-1.png" group-title="Belgesel", History Channel
 https://tecostream.xyz/History.php
+#EXTINF:-1 tvg-id="BbcEarth.tr" tvg-logo="https://ryanatkinson.tv/wp-content/uploads/2015/10/BBc-Earth-Logo-300x300.png" group-title="Belgesel", BBC Earth
+https://tecostream.xyz/BbcEarth.php
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 https://cdn.tecostream.xyz/Tgrt_Belgesel.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV

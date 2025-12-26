@@ -5,6 +5,8 @@ https://live.tecostream.xyz/channels/trt_1.php
 https://live.tecostream.xyz/Atv.php
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="http://assets.tvcdn.net/a06096dc-fd5e-4103-bfb4-83e612df23ec.png" group-title="Ulusal",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-id="11785" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/-/EU/11785/Thumbnail.png?v=638688085344930910" group-title="Ulusal",KanalD
+http://94.154.32.163/ds/dsproxy.php?id=11785
 #EXTINF:-1 tvg-id="Now.tr" tvg-logo="http://assets.tvcdn.net/80eb8816-1855-41f5-9002-7a05cc93fe4f.png" group-title="Ulusal",Now TV
 https://dogus.tecostream.xyz/now.m3u8
 #EXTINF:-1 tvg-id="ShowTv.tr" tvg-logo="http://assets.tvcdn.net/9d873881-bb5e-40f0-88db-8c47aa215e5a.png" group-title="Ulusal",Show TV

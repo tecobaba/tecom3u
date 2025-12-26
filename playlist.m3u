@@ -1,6 +1,5 @@
-#EXTINF:-1 tvg-id="11785" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal", Kanal D
-http://94.154.32.163/ds/dsproxy.php?id=11785
-#EXTINF:-1 tvg-id="11785" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/-/EU/11785/Thumbnail.png?v=638688085344930910" group-title="Ulusal",KanalD
-http://94.154.32.163/ds/dsproxy.php?id=11785
-
-
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-tr.xml"
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" group-title="Ulusal",TRT 1
+https://live.tecostream.xyz/channels/trt_1.php
+#EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",Atv
+https://live.tecostream.xyz/Atv.php

@@ -3,9 +3,3 @@
 https://live.tecostream.xyz/channels/trt_1.php
 #EXTINF:-1 tvg-id="ATV.tr" tvg-logo="http://assets.tvcdn.net/89a47b4b-5d20-4248-9f4c-a3d2756072dd.png" group-title="Ulusal",Atv
 https://live.tecostream.xyz/Atv.php
-#EXTINF:-1 tvg-id="11785" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/-/EU/11785/Thumbnail.png?v=638688085344930910" group-title="Ulusal",KanalD
-http://94.154.32.163/ds/dsproxy.php?id=11785
-#EXTINF:-1 tvg-id="96690" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/4/Ak/96690/Thumbnail.png?v=638597450250325690" group-title="Ulusal",Ulusal Çoklu Kanal
-http://94.154.32.163/ds/dsproxy.php?id=96690
-#EXTINF:-1 tvg-id="11904" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/h/4C/11904/Thumbnail.png?v=638356364133347347" group-title="Ulusal",Teve 2
-http://94.154.32.163/ds/dsproxy.php?id=11904

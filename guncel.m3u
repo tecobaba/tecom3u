@@ -400,7 +400,7 @@ https://tecostream.xyz/BbcEarth.php
 #EXTINF:-1 tvg-id="TGRTBelgesel.tr" tvg-logo="http://assets.tvcdn.net/c6c727a2-b2be-4d9b-a32c-48ffa778cbb6.png" group-title="Belgesel",TGRT Belgesel
 https://cdn.tecostream.xyz/Tgrt_Belgesel.m3u8
 #EXTINF:-1 tvg-id="Yaban.tr" tvg-logo="http://assets.tvcdn.net/808e5d06-f9a6-4989-ac8c-63f686e61ea0.png" group-title="Belgesel",Yaban TV
-http://live.artofknot.com:5080/proxy/channel?url=http%3A%2F%2F188.245.211.255%3A1935%2Fcanlitv%2Fyabantv.stream%2Fplaylist.m3u8%3Fhash%3D7273527c4819c57923b8702ee6f46415
+https://tecostream.xyz/YabanTv.php
 #EXTINF:-1 tvg-id="CiftciTV.tr" tvg-logo="http://assets.tvcdn.net/0ddba95e-9ad0-4d8a-9527-b562e173da80.png" group-title="Belgesel",Çiftçi TV
 http://live.artofknot.com:5080/proxy/channel?url=https%3A%2F%2Flive.artidijitalmedya.com%2Fartidijital_ciftcitv%2Fciftcitv%2Fchunks.m3u8
 #EXTINF:-1 tvg-id="TarimTV.tr" tvg-logo="http://assets.tvcdn.net/2038e897-1bbf-4744-8028-975e32561396.png" group-title="Belgesel",Tarım TV

@@ -241,7 +241,7 @@ https://live.tecostream.xyz/mono/php_channels/yayinsmarts.php
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinsms2.php
 
-#EXTINF:-1 tvg-id="SSpor.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
+#EXTINF:-1 tvg-id="Sspor.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinss.php

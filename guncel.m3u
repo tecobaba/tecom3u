@@ -122,6 +122,12 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinzirve.php
 
+#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Türkiye-Spor",Bein Sports 1 HD Test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
+#EXTVLCOPT:http-referrer=https://trgoals1522.xyz
+#EXTVLCOPT:http-origin=https://trgoals1522.xyz
+http://94.154.32.163:8080/raw/zirve/mono.m3u8
+
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD +
 #EXTVLCOPT:http-referrer=https://trgoals1364.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)

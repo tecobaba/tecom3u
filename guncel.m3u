@@ -123,11 +123,11 @@ https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 #EXTVLCOPT:http-origin=https://monotv531.com/
 https://live.tecostream.xyz/mono/php_channels/yayinzirve.php
 
-#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Türkiye-Spor",Bein Sports 1 HD Test
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://trgoals1522.xyz
-#EXTVLCOPT:http-origin=https://trgoals1522.xyz
-http://94.154.32.163:8080/raw/zirve/mono.m3u8
+#EXTINF:-1, tvg-id="BeinSportsHaber.tr" tvg-logo="https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg" group-title="Spor",beIN SPORTS HABER DRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=649d366fb1ca90b7e58f79e15884fd7c:6a21bac8575f836b12b0b14b43f6ba0e
+https://dt-live-bc.akamaized.net/bc/beinsportsnews/beinsportsnewsd.isml/web4e.mpd?hdnts=ip=85.105.233.142~st=1744232400~exp=1770288228~acl=/*~id=ac86f0d626-2c24-e7e9-b65c-2c209895a46d_1770212628459~hmac=d1dcc87d9df31d9e2378d195469848a71c1ab8538b2574524ab6b26f319dc680
+
 
 #EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD +
 #EXTVLCOPT:http-referrer=https://trgoals1364.xyz

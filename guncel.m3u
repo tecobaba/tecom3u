@@ -129,209 +129,32 @@ https://live.tecostream.xyz/mono/php_channels/yayinzirve.php
 https://dt-live-bc.akamaized.net/bc/beinsportsnews/beinsportsnewsd.isml/web4e.mpd?hdnts=ip=85.105.233.142~st=1744232400~exp=1770288228~acl=/*~id=ac86f0d626-2c24-e7e9-b65c-2c209895a46d_1770212628459~hmac=d1dcc87d9df31d9e2378d195469848a71c1ab8538b2574524ab6b26f319dc680
 
 
-#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 HD +
-#EXTVLCOPT:http-referrer=https://trgoals1364.xyz
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://live.tecostream.xyz/Beinsports1.php
-
-#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 720 +
-#EXTVLCOPT:http-origin=https://pulitv18.live
-#EXTVLCOPT:http-referrer=https://pulitv18.live
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-https://live.tecostream.xyz/BeinSports1HD.php
-#https://nxn5.xyz/cdn/bein-sports-1.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",beIN SPORTS 1 720 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://www.jestyayin941.com/
-https://netspor.tecostream.xyz/bs1.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinb2.php
-
-#EXTINF:-1 tvg-id="BeinSports2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/7uv6x71628799003.png" group-title="Spor",beIN SPORTS 2 YDK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://netspor.tecostream.xyz/bs2.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinb3.php
-
-#EXTINF:-1 tvg-id="BeinSports3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/u3117i1628798857.png" group-title="Spor",beIN SPORTS 3 YDK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
-#EXTVLCOPT:http-referrer=https://trgoals1226.xyz/
-https://netspor.tecostream.xyz/bs3.m3u8
-
-#EXTINF:-1 tvg-id="BeinSports4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2ktmcp1628798841.png" group-title="Spor",beIN SPORTS 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinb4.php
-
-#EXTINF:-1 tvg-id="BeinSports5.tr" tvg-logo="https://i.imgur.com/iRKfaee.png" group-title="Spor",beIN SPORTS 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinb5.php
-
-#EXTINF:-1 tvg-id="BeinSportsMax.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/BeIN_Sports_MAX.png" group-title="Spor",beIN SPORTS Max
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinbm1.php
-
-#EXTINF:-1 tvg-id="BeinSportsMax2.tr" tvg-logo="https://i.imgur.com/t7U20yR.png" group-title="Spor",beIN SPORTS Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinbm2.php
-
-#EXTINF:-1 tvg-id="SKYF1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/5rhmw31628798883.png" group-title="Spor",SKY F1 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/f1.php
-
-#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="Spor",TRT Spor
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="SPOR",TRT Spor
 https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
 
-#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="Spor",A Spor
+#EXTINF:-1 tvg-id="ASpor.tr" tvg-logo="http://assets.tvcdn.net/14f4941c-00e7-4662-9a21-8203dc37b51a.png" group-title="SPOR",A Spor
 https://turkuaz.tecostream.xyz/aspor
 
-#EXTINF:-1 tvg-id="HtSpor.tr" tvg-logo="https://scontent.fist7-1.fna.fbcdn.net/v/t39.30808-6/453502310_1036101271855042_601425290510615472_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0S-i4VvrNPUQ7kNvwF4ACFq&_nc_oc=AdnHxhHgK5rYHz1Zlpdd1dARuKiV7qN2Trtj2dsspH4pWptvd4fEm4tBRM0rsSNl8OA&_nc_zt=23&_nc_ht=scontent.fist7-1.fna&_nc_gid=TFCqxeTYttlFSVNvk0Eh3g&oh=00_AfPW4xX8pYdtXvCIo6APRvcy02exIkdQoIk1qCtpARlniQ&oe=6856E50F" group-title="Spor",HT Spor HD
+#EXTINF:-1 tvg-id="HtSpor.tr" tvg-logo="https://scontent.fist7-1.fna.fbcdn.net/v/t39.30808-6/453502310_1036101271855042_601425290510615472_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=0S-i4VvrNPUQ7kNvwF4ACFq&_nc_oc=AdnHxhHgK5rYHz1Zlpdd1dARuKiV7qN2Trtj2dsspH4pWptvd4fEm4tBRM0rsSNl8OA&_nc_zt=23&_nc_ht=scontent.fist7-1.fna&_nc_gid=TFCqxeTYttlFSVNvk0Eh3g&oh=00_AfPW4xX8pYdtXvCIo6APRvcy02exIkdQoIk1qCtpARlniQ&oe=6856E50F" group-title="SPOR",HT Spor HD
 https://cdn.tecostream.xyz/Ht_Spor.m3u8
 
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="Spor",Sports TV
+#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="http://assets.tvcdn.net/96bc5554-741b-4e91-8b4f-7b3bcc1e4c1d.png" group-title="SPOR",Sports TV
 https://live.sportstv.com.tr/hls%2Flow/sportstv.m3u8
 
-#EXTINF:-1 tvg-id="NbaTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="Spor",NBA TV
+#EXTINF:-1 tvg-id="NbaTv.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/89/Nbatv.png" group-title="SPOR",NBA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5)
 #EXTVLCOPT:http-referrer=https://monotv524.com/
 https://live.tecostream.xyz/mono/php_channels/yayinnbatv.php
 
-#EXTINF:-1 tvg-id="EuroSport1.tr" tvg-logo="https://w7.pngwing.com/pngs/350/883/png-transparent-eurosport-1-eurosport-2-television-channel-1-euro-television-blue-angle.png" group-title="Spor",EUROSPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayineu1.php
-
-#EXTINF:-1 tvg-id="EuroSport2.tr" tvg-logo="https://w7.pngwing.com/pngs/327/493/png-transparent-eurosport-1-television-channel-logo-eurosport-2-others-miscellaneous-television-text.png" group-title="Spor",EUROSPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayineu2.php
-
-#EXTINF:-1 tvg-id="TİVİBUSPOR1.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/qadnsi1642604437.png" group-title="Spor",Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayint1.php
-
-#EXTINF:-1 tvg-id="TİVİBUSPOR2.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/kuasdm1642604455.png" group-title="Spor",Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayint2.php
-
-#EXTINF:-1 tvg-id="TİVİBUSPOR3.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/slwrz41642604502.png" group-title="Spor",Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayint3.php
-
-#EXTINF:-1 tvg-id="TİVİBUSPOR4.tr" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/59bqi81642604517.png" group-title="Spor",Tivibu Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayint4.php
-
-#EXTINF:-1 tvg-id="SporSmart.tr" tvg-logo="https://dsmart-static-v2.ercdn.net//resize-width/1920/content/p/el/11909/Thumbnail.png" group-title="Spor",Spor Smart
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinsmarts.php
-
-#EXTINF:-1 tvg-id="SporSmart2.tr" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/SPORSMART2-gri.png" group-title="Spor",Spor Smart 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinsms2.php
-
-#EXTINF:-1 tvg-id="Sspor.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923239.png" group-title="Spor",S SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinss.php
-
-#EXTINF:-1 tvg-id="Sspor2.tr" tvg-logo="https://itv224226.tmp.tivibu.com.tr:6430/images/poster/20230302923321.png" group-title="Spor",S SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinss2.php
-
-#EXTINF:-1 tvg-id="Spor_EXXEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png" group-title="Spor",EXXEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex1.php
-
-#EXTINF:-1 tvg-id="Spor_TABII" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43023.jpeg" group-title="Spor",Tabii Spor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex7.php
-
-#EXTINF:-1 tvg-id="Spor_TABII1" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43005.jpeg" group-title="Spor",Tabii Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex1.php
-
-#EXTINF:-1 tvg-id="Spor_TABII2" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43008.jpeg" group-title="Spor",Tabii Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex2.php
-
-#EXTINF:-1 tvg-id="Spor_TABII3" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43011.jpeg" group-title="Spor",Tabii Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex3.php
-
-#EXTINF:-1 tvg-id="Spor_TABII4" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43014.jpeg" group-title="Spor",Tabii Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex4.php
-
-#EXTINF:-1 tvg-id="Spor_TABII5" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43017.jpeg" group-title="Spor",Tabii Spor 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex5.php
-
-#EXTINF:-1 tvg-id="Spor_TABII6" tvg-logo="https://cms-tabii-public-image.tabii.com/int/webp/w600/q84/43020.jpeg" group-title="Spor",Tabii Spor 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referrer=https://monotv531.com/
-#EXTVLCOPT:http-origin=https://monotv531.com/
-https://live.tecostream.xyz/mono/php_channels/yayinex6.php
-
-#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV
+#EXTINF:-1 tvg-id="TJKTV.tr" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="SPOR",TJK TV
 https://tjktv-live.tjk.org/tjktv/tjktv_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="Spor",TJK TV 2
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/bcbd8593-677e-438a-9077-abe1cce5ffc2.png" group-title="SPOR",TJK TV 2
 http://live.artofknot.com:8080/youtube/channel/UCNLO4lpteIloZ4IKb9L2DoA.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="Spor",Briç ve Satranç TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/2bc82127-7e38-496b-9854-10e6b4c1a9b2.png" group-title="SPOR",Briç ve Satranç TV
 http://139.162.182.79/live/test/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="Spor",Fit Yaşa TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/639df808-f325-4b05-8cdb-9ed151338087.png" group-title="SPOR",Fit Yaşa TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="Spor",Ziraat Türkiye Kupası TV
+#EXTINF:-1 tvg-id="" tvg-logo="http://assets.tvcdn.net/6f73f66b-d2d3-451d-9f56-5d1b27172abc.png" group-title="SPOR",Ziraat Türkiye Kupası TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/1.m3u8
 
 #EXTINF:-1 tvg-id="boxoffice1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fe/BeIN_BOX_OFFICE_HD_1_2018_logo.png" group-title="Sinema", Bein Box Office 1

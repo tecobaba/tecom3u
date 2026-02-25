@@ -158,8 +158,6 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/fit-yasa-tv/playlist/1.
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist/1.m3u8
 
 #EXTINF:-1 tvg-id="boxoffice1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/fe/BeIN_BOX_OFFICE_HD_1_2018_logo.png" group-title="Sinema", Bein Box Office 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://tvheryerde.com
 https://live.tecostream.xyz/BeinBoxOffice1.php
 #EXTINF:-1 tvg-id="boxoffice2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/8/8f/BeIN_BOX_OFFICE_HD_2_2018_logo.png" group-title="Sinema", Bein Box Office 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36

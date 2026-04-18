@@ -118,9 +118,9 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/tarih-tv/playlist/1.m3u
 https://cdn.tecostream.xyz/Bein_Spor_Haber.m3u8
 
 #EXTINF:-1 tvg-id="BeinSportsHaber.tr" tvg-logo="https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg" group-title="Spor Maç Saati",beIN SPORTS 1 HLS
-https://dawn-glitter-9e07.tecostream.workers.dev/live/bs1v2.m3u8
+https://dawn-glitter-9e07.tecostream.workers.dev/live/ms1.m3u8
 #EXTINF:-1 tvg-id="BeinSportsHaber.tr" tvg-logo="https://media04.ligtv.com.tr/img/news/2020/6/12/super-lig-heyecani-bein-sports-haberde/748_416/beIN.jpg" group-title="Spor Maç Saati",beIN SPORTS RTMP
-rtmp://31.58.250.154:1935/WebRTCApp/bs1v2
+rtmp://31.58.250.154:1935/WebRTCApp/ms1
 
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-logo="http://assets.tvcdn.net/98d69f74-e6dc-4d4a-95c6-666683834a28.png" group-title="SPOR",TRT Spor
 https://tv-trtspor-esdai.medya.trt.com.tr/master_1080p.m3u8
